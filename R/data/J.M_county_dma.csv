@@ -1,0 +1,609 @@
+Area Name,State Name,State Code,Media Market Code,Media Market Name,County Code,County Name,Area Name,Geography Name
+Autauga (01001),Alabama,1,698,MONTGOMERY(SEL),1001,Autauga,Autauga (01001),Autauga
+Baldwin (01003),Alabama,1,686,MOBILE-PNS(FWB),1003,Baldwin,Baldwin (01003),Baldwin
+Bullock (01011),Alabama,1,698,MONTGOMERY(SEL),1011,Bullock,Bullock (01011),Bullock
+Butler (01013),Alabama,1,698,MONTGOMERY(SEL),1013,Butler,Butler (01013),Butler
+Choctaw (01023),Alabama,1,711,MERIDIAN,1023,Choctaw,Choctaw (01023),Choctaw
+Clarke (01025),Alabama,1,686,MOBILE-PNS(FWB),1025,Clarke,Clarke (01025),Clarke
+Perry (01105),Alabama,1,698,MONTGOMERY(SEL),1105,Perry,Perry (01105),Perry
+Pike (01109),Alabama,1,698,MONTGOMERY(SEL),1109,Pike,Pike (01109),Pike
+Sumter (01119),Alabama,1,711,MERIDIAN,1119,Sumter,Sumter (01119),Sumter
+Tallapoosa (01123),Alabama,1,698,MONTGOMERY(SEL),1123,Tallapoosa,Tallapoosa (01123),Tallapoosa
+Washington (01129),Alabama,1,686,MOBILE-PNS(FWB),1129,Washington,Washington (01129),Washington
+Wilcox (01131),Alabama,1,698,MONTGOMERY(SEL),1131,Wilcox,Wilcox (01131),Wilcox
+Conecuh (01035),Alabama,1,698,MONTGOMERY(SEL),1035,Conecuh,Conecuh (01035),Conecuh
+Covington (01039),Alabama,1,698,MONTGOMERY(SEL),1039,Covington,Covington (01039),Covington
+Crenshaw (01041),Alabama,1,698,MONTGOMERY(SEL),1041,Crenshaw,Crenshaw (01041),Crenshaw
+Dallas (01047),Alabama,1,698,MONTGOMERY(SEL),1047,Dallas,Dallas (01047),Dallas
+Elmore (01051),Alabama,1,698,MONTGOMERY(SEL),1051,Elmore,Elmore (01051),Elmore
+Escambia (01053),Alabama,1,686,MOBILE-PNS(FWB),1053,Escambia,Escambia (01053),Escambia
+Lowndes (01085),Alabama,1,698,MONTGOMERY(SEL),1085,Lowndes,Lowndes (01085),Lowndes
+Macon (01087),Alabama,1,698,MONTGOMERY(SEL),1087,Macon,Macon (01087),Macon
+Marengo (01091),Alabama,1,698,MONTGOMERY(SEL),1091,Marengo,Marengo (01091),Marengo
+Mobile (01097),Alabama,1,686,MOBILE-PNS(FWB),1097,Mobile,Mobile (01097),Mobile
+Monroe (01099),Alabama,1,686,MOBILE-PNS(FWB),1099,Monroe,Monroe (01099),Monroe
+Montgomery (01101),Alabama,1,698,MONTGOMERY(SEL),1101,Montgomery,Montgomery (01101),Montgomery
+Juneau (02110),Alaska,2,747,JUNEAU,2110,Juneau,Juneau (02110),Juneau
+Arkansas (05001),Arkansas,5,693,LITL RCK-PN BLF,5001,Arkansas,Arkansas (05001),Arkansas
+Ashley (05003),Arkansas,5,628,MONRO-EL DORADO,5003,Ashley,Ashley (05003),Ashley
+Bradley (05011),Arkansas,5,693,LITL RCK-PN BLF,5011,Bradley,Bradley (05011),Bradley
+Calhoun (05013),Arkansas,5,693,LITL RCK-PN BLF,5013,Calhoun,Calhoun (05013),Calhoun
+Clark (05019),Arkansas,5,693,LITL RCK-PN BLF,5019,Clark,Clark (05019),Clark
+Clay (05021),Arkansas,5,734,JONESBORO,5021,Clay,Clay (05021),Clay
+Cleburne (05023),Arkansas,5,693,LITL RCK-PN BLF,5023,Cleburne,Cleburne (05023),Cleburne
+Cleveland (05025),Arkansas,5,693,LITL RCK-PN BLF,5025,Cleveland,Cleveland (05025),Cleveland
+Conway (05029),Arkansas,5,693,LITL RCK-PN BLF,5029,Conway,Conway (05029),Conway
+Craighead (05031),Arkansas,5,734,JONESBORO,5031,Craighead,Craighead (05031),Craighead
+Crittenden (05035),Arkansas,5,640,MEMPHIS,5035,Crittenden,Crittenden (05035),Crittenden
+Cross (05037),Arkansas,5,640,MEMPHIS,5037,Cross,Cross (05037),Cross
+Dallas (05039),Arkansas,5,693,LITL RCK-PN BLF,5039,Dallas,Dallas (05039),Dallas
+Desha (05041),Arkansas,5,693,LITL RCK-PN BLF,5041,Desha,Desha (05041),Desha
+Drew (05043),Arkansas,5,693,LITL RCK-PN BLF,5043,Drew,Drew (05043),Drew
+Faulkner (05045),Arkansas,5,693,LITL RCK-PN BLF,5045,Faulkner,Faulkner (05045),Faulkner
+Grant (05053),Arkansas,5,693,LITL RCK-PN BLF,5053,Grant,Grant (05053),Grant
+Greene (05055),Arkansas,5,734,JONESBORO,5055,Greene,Greene (05055),Greene
+Hot Spring (05059),Arkansas,5,693,LITL RCK-PN BLF,5059,Hot Spring,Hot Spring (05059),Hot Spring
+Independence (05063),Arkansas,5,693,LITL RCK-PN BLF,5063,Independence,Independence (05063),Independence
+Izard (05065),Arkansas,5,734,JONESBORO,5065,Izard,Izard (05065),Izard
+Jackson (05067),Arkansas,5,693,LITL RCK-PN BLF,5067,Jackson,Jackson (05067),Jackson
+Jefferson (05069),Arkansas,5,693,LITL RCK-PN BLF,5069,Jefferson,Jefferson (05069),Jefferson
+Lawrence (05075),Arkansas,5,734,JONESBORO,5075,Lawrence,Lawrence (05075),Lawrence
+Lee (05077),Arkansas,5,640,MEMPHIS,5077,Lee,Lee (05077),Lee
+Lincoln (05079),Arkansas,5,693,LITL RCK-PN BLF,5079,Lincoln,Lincoln (05079),Lincoln
+Lonoke (05085),Arkansas,5,693,LITL RCK-PN BLF,5085,Lonoke,Lonoke (05085),Lonoke
+Mississippi (05093),Arkansas,5,640,MEMPHIS,5093,Mississippi,Mississippi (05093),Mississippi
+Monroe (05095),Arkansas,5,693,LITL RCK-PN BLF,5095,Monroe,Monroe (05095),Monroe
+Montgomery (05097),Arkansas,5,693,LITL RCK-PN BLF,5097,Montgomery,Montgomery (05097),Montgomery
+Ouachita (05103),Arkansas,5,693,LITL RCK-PN BLF,5103,Ouachita,Ouachita (05103),Ouachita
+Perry (05105),Arkansas,5,693,LITL RCK-PN BLF,5105,Perry,Perry (05105),Perry
+Phillips (05107),Arkansas,5,640,MEMPHIS,5107,Phillips,Phillips (05107),Phillips
+Pike (05109),Arkansas,5,693,LITL RCK-PN BLF,5109,Pike,Pike (05109),Pike
+Garland (05051),Arkansas,5,693,LITL RCK-PN BLF,5051,Garland,Garland (05051),Garland
+Van Buren (05141),Arkansas,5,693,LITL RCK-PN BLF,5141,Van Buren,Van Buren (05141),Van Buren
+White (05145),Arkansas,5,693,LITL RCK-PN BLF,5145,White,White (05145),White
+Woodruff (05147),Arkansas,5,693,LITL RCK-PN BLF,5147,Woodruff,Woodruff (05147),Woodruff
+Yell (05149),Arkansas,5,693,LITL RCK-PN BLF,5149,Yell,Yell (05149),Yell
+Inyo (06027),California,6,803,LOS ANGELES,6027,Inyo,Inyo (06027),Inyo
+Kern (06029),California,6,800,BAKERSFIELD,6029,Kern,Kern (06029),Kern
+Poinsett (05111),Arkansas,5,640,MEMPHIS,5111,Poinsett,Poinsett (05111),Poinsett
+Polk (05113),Arkansas,5,693,LITL RCK-PN BLF,5113,Polk,Polk (05113),Polk
+Pope (05115),Arkansas,5,693,LITL RCK-PN BLF,5115,Pope,Pope (05115),Pope
+Prairie (05117),Arkansas,5,693,LITL RCK-PN BLF,5117,Prairie,Prairie (05117),Prairie
+Pulaski (05119),Arkansas,5,693,LITL RCK-PN BLF,5119,Pulaski,Pulaski (05119),Pulaski
+Randolph (05121),Arkansas,5,734,JONESBORO,5121,Randolph,Randolph (05121),Randolph
+St. Francis (05123),Arkansas,5,640,MEMPHIS,5123,St. Francis,St. Francis (05123),St. Francis
+Saline (05125),Arkansas,5,693,LITL RCK-PN BLF,5125,Saline,Saline (05125),Saline
+Searcy (05129),Arkansas,5,693,LITL RCK-PN BLF,5129,Searcy,Searcy (05129),Searcy
+Sharp (05135),Arkansas,5,734,JONESBORO,5135,Sharp,Sharp (05135),Sharp
+Stone (05137),Arkansas,5,693,LITL RCK-PN BLF,5137,Stone,Stone (05137),Stone
+Union (05139),Arkansas,5,628,MONRO-EL DORADO,5139,Union,Union (05139),Union
+Los Angeles (06037),California,6,803,LOS ANGELES,6037,Los Angeles,Los Angeles (06037),Los Angeles
+Orange (06059),California,6,803,LOS ANGELES,6059,Orange,Orange (06059),Orange
+Riverside (06065),California,6,803,LOS ANGELES,6065,Riverside,Riverside (06065),Riverside
+San Benito (06069),California,6,828,MONTEREY-SALNAS,6069,San Benito,San Benito (06069),San Benito
+San Bernardino (06071),California,6,803,LOS ANGELES,6071,San Bernardino,San Bernardino (06071),San Bernardino
+Santa Cruz (06087),California,6,828,MONTEREY-SALNAS,6087,Santa Cruz,Santa Cruz (06087),Santa Cruz
+Siskiyou (06093),California,6,813,MEDFORD-KLM FLS,6093,Siskiyou,Siskiyou (06093),Siskiyou
+Ventura (06111),California,6,803,LOS ANGELES,6111,Ventura,Ventura (06111),Ventura
+Monterey (06053),California,6,828,MONTEREY-SALNAS,6053,Monterey,Monterey (06053),Monterey
+Baker (12003),Florida,12,561,JACKSONVILLE,12003,Baker,Baker (12003),Baker
+Bradford (12007),Florida,12,561,JACKSONVILLE,12007,Bradford,Bradford (12007),Bradford
+Broward (12011),Florida,12,528,MIAMI-FT. LAUDE,12011,Broward,Broward (12011),Broward
+Columbia (12023),Florida,12,561,JACKSONVILLE,12023,Columbia,Columbia (12023),Columbia
+Duval (12031),Florida,12,561,JACKSONVILLE,12031,Duval,Duval (12031),Duval
+Escambia (12033),Florida,12,686,MOBILE-PNS(FWB),12033,Escambia,Escambia (12033),Escambia
+Miami-Dade (12086),Florida,12,528,MIAMI-FT. LAUDE,12086,Miami-Dade,Miami-Dade (12086),Miami-Dade
+Monroe (12087),Florida,12,528,MIAMI-FT. LAUDE,12087,Monroe,Monroe (12087),Monroe
+Nassau (12089),Florida,12,561,JACKSONVILLE,12089,Nassau,Nassau (12089),Nassau
+Clay (12019),Florida,12,561,JACKSONVILLE,12019,Clay,Clay (12019),Clay
+Baldwin (13009),Georgia,13,503,MACON,13009,Baldwin,Baldwin (13009),Baldwin
+Bibb (13021),Georgia,13,503,MACON,13021,Bibb,Bibb (13021),Bibb
+Bleckley (13023),Georgia,13,503,MACON,13023,Bleckley,Bleckley (13023),Bleckley
+Brantley (13025),Georgia,13,561,JACKSONVILLE,13025,Brantley,Brantley (13025),Brantley
+Camden (13039),Georgia,13,561,JACKSONVILLE,13039,Camden,Camden (13039),Camden
+Okaloosa (12091),Florida,12,686,MOBILE-PNS(FWB),12091,Okaloosa,Okaloosa (12091),Okaloosa
+Putnam (12107),Florida,12,561,JACKSONVILLE,12107,Putnam,Putnam (12107),Putnam
+St. Johns (12109),Florida,12,561,JACKSONVILLE,12109,St. Johns,St. Johns (12109),St. Johns
+Santa Rosa (12113),Florida,12,686,MOBILE-PNS(FWB),12113,Santa Rosa,Santa Rosa (12113),Santa Rosa
+Union (12125),Florida,12,561,JACKSONVILLE,12125,Union,Union (12125),Union
+Charlton (13049),Georgia,13,561,JACKSONVILLE,13049,Charlton,Charlton (13049),Charlton
+Crawford (13079),Georgia,13,503,MACON,13079,Crawford,Crawford (13079),Crawford
+Dodge (13091),Georgia,13,503,MACON,13091,Dodge,Dodge (13091),Dodge
+Dooly (13093),Georgia,13,503,MACON,13093,Dooly,Dooly (13093),Dooly
+Glynn (13127),Georgia,13,561,JACKSONVILLE,13127,Glynn,Glynn (13127),Glynn
+Hancock (13141),Georgia,13,503,MACON,13141,Hancock,Hancock (13141),Hancock
+Houston (13153),Georgia,13,503,MACON,13153,Houston,Houston (13153),Houston
+Johnson (13167),Georgia,13,503,MACON,13167,Johnson,Johnson (13167),Johnson
+Jones (13169),Georgia,13,503,MACON,13169,Jones,Jones (13169),Jones
+Laurens (13175),Georgia,13,503,MACON,13175,Laurens,Laurens (13175),Laurens
+Macon (13193),Georgia,13,503,MACON,13193,Macon,Macon (13193),Macon
+Monroe (13207),Georgia,13,503,MACON,13207,Monroe,Monroe (13207),Monroe
+Peach (13225),Georgia,13,503,MACON,13225,Peach,Peach (13225),Peach
+Pierce (13229),Georgia,13,561,JACKSONVILLE,13229,Pierce,Pierce (13229),Pierce
+Pulaski (13235),Georgia,13,503,MACON,13235,Pulaski,Pulaski (13235),Pulaski
+Twiggs (13289),Georgia,13,503,MACON,13289,Twiggs,Twiggs (13289),Twiggs
+Ware (13299),Georgia,13,561,JACKSONVILLE,13299,Ware,Ware (13299),Ware
+Washington (13303),Georgia,13,503,MACON,13303,Washington,Washington (13303),Washington
+Wheeler (13309),Georgia,13,503,MACON,13309,Wheeler,Wheeler (13309),Wheeler
+Wilcox (13315),Georgia,13,503,MACON,13315,Wilcox,Wilcox (13315),Wilcox
+Wilkinson (13319),Georgia,13,503,MACON,13319,Wilkinson,Wilkinson (13319),Wilkinson
+Telfair (13271),Georgia,13,503,MACON,13271,Telfair,Telfair (13271),Telfair
+Treutlen (13283),Georgia,13,503,MACON,13283,Treutlen,Treutlen (13283),Treutlen
+Allen (20001),Kansas,20,603,JOPLIN-PITTSBRG,20001,Allen,Allen (20001),Allen
+Anderson (20003),Kansas,20,616,KANSAS CITY,20003,Anderson,Anderson (20003),Anderson
+Atchison (20005),Kansas,20,616,KANSAS CITY,20005,Atchison,Atchison (20005),Atchison
+Bourbon (20011),Kansas,20,603,JOPLIN-PITTSBRG,20011,Bourbon,Bourbon (20011),Bourbon
+Cherokee (20021),Kansas,20,603,JOPLIN-PITTSBRG,20021,Cherokee,Cherokee (20021),Cherokee
+Crawford (20037),Kansas,20,603,JOPLIN-PITTSBRG,20037,Crawford,Crawford (20037),Crawford
+Franklin (20059),Kansas,20,616,KANSAS CITY,20059,Franklin,Franklin (20059),Franklin
+Douglas (20045),Kansas,20,616,KANSAS CITY,20045,Douglas,Douglas (20045),Douglas
+Orange (18117),Indiana,18,529,LOUISVILLE,18117,Orange,Orange (18117),Orange
+Tippecanoe (18157),Indiana,18,582,LAFAYETTE  IN,18157,Tippecanoe,Tippecanoe (18157),Tippecanoe
+Warren (18171),Indiana,18,582,LAFAYETTE  IN,18171,Warren,Warren (18171),Warren
+Washington (18175),Indiana,18,529,LOUISVILLE,18175,Washington,Washington (18175),Washington
+Scott (18143),Indiana,18,529,LOUISVILLE,18143,Scott,Scott (18143),Scott
+Benton (18007),Indiana,18,582,LAFAYETTE  IN,18007,Benton,Benton (18007),Benton
+Clark (18019),Indiana,18,529,LOUISVILLE,18019,Clark,Clark (18019),Clark
+Crawford (18025),Indiana,18,529,LOUISVILLE,18025,Crawford,Crawford (18025),Crawford
+Floyd (18043),Indiana,18,529,LOUISVILLE,18043,Floyd,Floyd (18043),Floyd
+Harrison (18061),Indiana,18,529,LOUISVILLE,18061,Harrison,Harrison (18061),Harrison
+Jackson (18071),Indiana,18,529,LOUISVILLE,18071,Jackson,Jackson (18071),Jackson
+Jefferson (18077),Indiana,18,529,LOUISVILLE,18077,Jefferson,Jefferson (18077),Jefferson
+Jennings (18079),Indiana,18,529,LOUISVILLE,18079,Jennings,Jennings (18079),Jennings
+Iron (26071),Michigan,26,553,MARQUETTE,26071,Iron,Iron (26071),Iron
+Jackson (26075),Michigan,26,551,LANSING,26075,Jackson,Jackson (26075),Jackson
+Schoolcraft (26153),Michigan,26,553,MARQUETTE,26153,Schoolcraft,Schoolcraft (26153),Schoolcraft
+Carver (27019),Minnesota,27,613,MINEAPLS-ST. PL,27019,Carver,Carver (27019),Carver
+Cass (27021),Minnesota,27,613,MINEAPLS-ST. PL,27021,Cass,Cass (27021),Cass
+Chippewa (27023),Minnesota,27,613,MINEAPLS-ST. PL,27023,Chippewa,Chippewa (27023),Chippewa
+Chisago (27025),Minnesota,27,613,MINEAPLS-ST. PL,27025,Chisago,Chisago (27025),Chisago
+Cottonwood (27033),Minnesota,27,613,MINEAPLS-ST. PL,27033,Cottonwood,Cottonwood (27033),Cottonwood
+Crow Wing (27035),Minnesota,27,613,MINEAPLS-ST. PL,27035,Crow Wing,Crow Wing (27035),Crow Wing
+Dakota (27037),Minnesota,27,613,MINEAPLS-ST. PL,27037,Dakota,Dakota (27037),Dakota
+Douglas (27041),Minnesota,27,613,MINEAPLS-ST. PL,27041,Douglas,Douglas (27041),Douglas
+Faribault (27043),Minnesota,27,613,MINEAPLS-ST. PL,27043,Faribault,Faribault (27043),Faribault
+Goodhue (27049),Minnesota,27,613,MINEAPLS-ST. PL,27049,Goodhue,Goodhue (27049),Goodhue
+Grant (27051),Minnesota,27,613,MINEAPLS-ST. PL,27051,Grant,Grant (27051),Grant
+Hennepin (27053),Minnesota,27,613,MINEAPLS-ST. PL,27053,Hennepin,Hennepin (27053),Hennepin
+Houston (27055),Minnesota,27,702,LA CRSS-EAU CLR,27055,Houston,Houston (27055),Houston
+Hubbard (27057),Minnesota,27,613,MINEAPLS-ST. PL,27057,Hubbard,Hubbard (27057),Hubbard
+Isanti (27059),Minnesota,27,613,MINEAPLS-ST. PL,27059,Isanti,Isanti (27059),Isanti
+Jackson (27063),Minnesota,27,613,MINEAPLS-ST. PL,27063,Jackson,Jackson (27063),Jackson
+Kanabec (27065),Minnesota,27,613,MINEAPLS-ST. PL,27065,Kanabec,Kanabec (27065),Kanabec
+Kandiyohi (27067),Minnesota,27,613,MINEAPLS-ST. PL,27067,Kandiyohi,Kandiyohi (27067),Kandiyohi
+Lac qui Parle (27073),Minnesota,27,613,MINEAPLS-ST. PL,27073,Lac qui Parle,Lac qui Parle (27073),Lac qui Parle
+Le Sueur (27079),Minnesota,27,613,MINEAPLS-ST. PL,27079,Le Sueur,Le Sueur (27079),Le Sueur
+Lyon (27083),Minnesota,27,613,MINEAPLS-ST. PL,27083,Lyon,Lyon (27083),Lyon
+McLeod (27085),Minnesota,27,613,MINEAPLS-ST. PL,27085,McLeod,McLeod (27085),McLeod
+Martin (27091),Minnesota,27,737,MANKATO,27091,Martin,Martin (27091),Martin
+Meeker (27093),Minnesota,27,613,MINEAPLS-ST. PL,27093,Meeker,Meeker (27093),Meeker
+Mille Lacs (27095),Minnesota,27,613,MINEAPLS-ST. PL,27095,Mille Lacs,Mille Lacs (27095),Mille Lacs
+Morrison (27097),Minnesota,27,613,MINEAPLS-ST. PL,27097,Morrison,Morrison (27097),Morrison
+Nicollet (27103),Minnesota,27,613,MINEAPLS-ST. PL,27103,Nicollet,Nicollet (27103),Nicollet
+Pine (27115),Minnesota,27,613,MINEAPLS-ST. PL,27115,Pine,Pine (27115),Pine
+Pope (27121),Minnesota,27,613,MINEAPLS-ST. PL,27121,Pope,Pope (27121),Pope
+Ramsey (27123),Minnesota,27,613,MINEAPLS-ST. PL,27123,Ramsey,Ramsey (27123),Ramsey
+Redwood (27127),Minnesota,27,613,MINEAPLS-ST. PL,27127,Redwood,Redwood (27127),Redwood
+Renville (27129),Minnesota,27,613,MINEAPLS-ST. PL,27129,Renville,Renville (27129),Renville
+Rice (27131),Minnesota,27,613,MINEAPLS-ST. PL,27131,Rice,Rice (27131),Rice
+Scott (27139),Minnesota,27,613,MINEAPLS-ST. PL,27139,Scott,Scott (27139),Scott
+Sherburne (27141),Minnesota,27,613,MINEAPLS-ST. PL,27141,Sherburne,Sherburne (27141),Sherburne
+Sibley (27143),Minnesota,27,613,MINEAPLS-ST. PL,27143,Sibley,Sibley (27143),Sibley
+Stearns (27145),Minnesota,27,613,MINEAPLS-ST. PL,27145,Stearns,Stearns (27145),Stearns
+Steele (27147),Minnesota,27,613,MINEAPLS-ST. PL,27147,Steele,Steele (27147),Steele
+Stevens (27149),Minnesota,27,613,MINEAPLS-ST. PL,27149,Stevens,Stevens (27149),Stevens
+Swift (27151),Minnesota,27,613,MINEAPLS-ST. PL,27151,Swift,Swift (27151),Swift
+Todd (27153),Minnesota,27,613,MINEAPLS-ST. PL,27153,Todd,Todd (27153),Todd
+Traverse (27155),Minnesota,27,613,MINEAPLS-ST. PL,27155,Traverse,Traverse (27155),Traverse
+Wabasha (27157),Minnesota,27,613,MINEAPLS-ST. PL,27157,Wabasha,Wabasha (27157),Wabasha
+Wadena (27159),Minnesota,27,613,MINEAPLS-ST. PL,27159,Wadena,Wadena (27159),Wadena
+Waseca (27161),Minnesota,27,613,MINEAPLS-ST. PL,27161,Waseca,Waseca (27161),Waseca
+Washington (27163),Minnesota,27,613,MINEAPLS-ST. PL,27163,Washington,Washington (27163),Washington
+Watonwan (27165),Minnesota,27,737,MANKATO,27165,Watonwan,Watonwan (27165),Watonwan
+Winona (27169),Minnesota,27,702,LA CRSS-EAU CLR,27169,Winona,Winona (27169),Winona
+Wright (27171),Minnesota,27,613,MINEAPLS-ST. PL,27171,Wright,Wright (27171),Wright
+Yellow Medicine (27173),Minnesota,27,613,MINEAPLS-ST. PL,27173,Yellow Medicine,Yellow Medicine (27173),Yellow Medicine
+Adams (28001),Mississippi,28,718,JACKSON  MS,28001,Adams,Adams (28001),Adams
+Alcorn (28003),Mississippi,28,640,MEMPHIS,28003,Alcorn,Alcorn (28003),Alcorn
+Attala (28007),Mississippi,28,718,JACKSON  MS,28007,Attala,Attala (28007),Attala
+Benton (28009),Mississippi,28,640,MEMPHIS,28009,Benton,Benton (28009),Benton
+Claiborne (28021),Mississippi,28,718,JACKSON  MS,28021,Claiborne,Claiborne (28021),Claiborne
+Clarke (28023),Mississippi,28,711,MERIDIAN,28023,Clarke,Clarke (28023),Clarke
+Coahoma (28027),Mississippi,28,640,MEMPHIS,28027,Coahoma,Coahoma (28027),Coahoma
+Copiah (28029),Mississippi,28,718,JACKSON  MS,28029,Copiah,Copiah (28029),Copiah
+DeSoto (28033),Mississippi,28,640,MEMPHIS,28033,DeSoto,DeSoto (28033),DeSoto
+Jefferson (28063),Mississippi,28,718,JACKSON  MS,28063,Jefferson,Jefferson (28063),Jefferson
+Jefferson Davis (28065),Mississippi,28,718,JACKSON  MS,28065,Jefferson Davis,Jefferson Davis (28065),Jefferson Davis
+Greene (28041),Mississippi,28,686,MOBILE-PNS(FWB),28041,Greene,Greene (28041),Greene
+Lauderdale (28075),Mississippi,28,711,MERIDIAN,28075,Lauderdale,Lauderdale (28075),Lauderdale
+Franklin (28037),Mississippi,28,718,JACKSON  MS,28037,Franklin,Franklin (28037),Franklin
+Hinds (28049),Mississippi,28,718,JACKSON  MS,28049,Hinds,Hinds (28049),Hinds
+Holmes (28051),Mississippi,28,718,JACKSON  MS,28051,Holmes,Holmes (28051),Holmes
+Humphreys (28053),Mississippi,28,718,JACKSON  MS,28053,Humphreys,Humphreys (28053),Humphreys
+Issaquena (28055),Mississippi,28,718,JACKSON  MS,28055,Issaquena,Issaquena (28055),Issaquena
+Kemper (28069),Mississippi,28,711,MERIDIAN,28069,Kemper,Kemper (28069),Kemper
+Lafayette (28071),Mississippi,28,640,MEMPHIS,28071,Lafayette,Lafayette (28071),Lafayette
+Keweenaw (26083),Michigan,26,553,MARQUETTE,26083,Keweenaw,Keweenaw (26083),Keweenaw
+Clinton (26037),Michigan,26,551,LANSING,26037,Clinton,Clinton (26037),Clinton
+Ontonagon (26131),Michigan,26,553,MARQUETTE,26131,Ontonagon,Ontonagon (26131),Ontonagon
+Aitkin (27001),Minnesota,27,613,MINEAPLS-ST. PL,27001,Aitkin,Aitkin (27001),Aitkin
+Delta (26041),Michigan,26,553,MARQUETTE,26041,Delta,Delta (26041),Delta
+Dickinson (26043),Michigan,26,553,MARQUETTE,26043,Dickinson,Dickinson (26043),Dickinson
+Eaton (26045),Michigan,26,551,LANSING,26045,Eaton,Eaton (26045),Eaton
+Anoka (27003),Minnesota,27,613,MINEAPLS-ST. PL,27003,Anoka,Anoka (27003),Anoka
+Beltrami (27007),Minnesota,27,613,MINEAPLS-ST. PL,27007,Beltrami,Beltrami (27007),Beltrami
+Marquette (26103),Michigan,26,553,MARQUETTE,26103,Marquette,Marquette (26103),Marquette
+Benton (27009),Minnesota,27,613,MINEAPLS-ST. PL,27009,Benton,Benton (27009),Benton
+Big Stone (27011),Minnesota,27,613,MINEAPLS-ST. PL,27011,Big Stone,Big Stone (27011),Big Stone
+Blue Earth (27013),Minnesota,27,737,MANKATO,27013,Blue Earth,Blue Earth (27013),Blue Earth
+Brown (27015),Minnesota,27,737,MANKATO,27015,Brown,Brown (27015),Brown
+Hillsdale (26059),Michigan,26,551,LANSING,26059,Hillsdale,Hillsdale (26059),Hillsdale
+Houghton (26061),Michigan,26,553,MARQUETTE,26061,Houghton,Houghton (26061),Houghton
+Ingham (26065),Michigan,26,551,LANSING,26065,Ingham,Ingham (26065),Ingham
+Leavenworth (20103),Kansas,20,616,KANSAS CITY,20103,Leavenworth,Leavenworth (20103),Leavenworth
+Smith (20183),Kansas,20,722,LIN&HST-KRNY,20183,Smith,Smith (20183),Smith
+Estill (21065),Kentucky,21,541,LEXINGTON,21065,Estill,Estill (21065),Estill
+Fayette (21067),Kentucky,21,541,LEXINGTON,21067,Fayette,Fayette (21067),Fayette
+Fleming (21069),Kentucky,21,541,LEXINGTON,21069,Fleming,Fleming (21069),Fleming
+Franklin (21073),Kentucky,21,541,LEXINGTON,21073,Franklin,Franklin (21073),Franklin
+Garrard (21079),Kentucky,21,541,LEXINGTON,21079,Garrard,Garrard (21079),Garrard
+Grayson (21085),Kentucky,21,529,LOUISVILLE,21085,Grayson,Grayson (21085),Grayson
+Green (21087),Kentucky,21,529,LOUISVILLE,21087,Green,Green (21087),Green
+Hardin (21093),Kentucky,21,529,LOUISVILLE,21093,Hardin,Hardin (21093),Hardin
+Harlan (21095),Kentucky,21,557,KNOXVILLE,21095,Harlan,Harlan (21095),Harlan
+Harrison (21097),Kentucky,21,541,LEXINGTON,21097,Harrison,Harrison (21097),Harrison
+Henry (21103),Kentucky,21,529,LOUISVILLE,21103,Henry,Henry (21103),Henry
+Jackson (21109),Kentucky,21,541,LEXINGTON,21109,Jackson,Jackson (21109),Jackson
+Jefferson (21111),Kentucky,21,529,LOUISVILLE,21111,Jefferson,Jefferson (21111),Jefferson
+Jessamine (21113),Kentucky,21,541,LEXINGTON,21113,Jessamine,Jessamine (21113),Jessamine
+Knott (21119),Kentucky,21,541,LEXINGTON,21119,Knott,Knott (21119),Knott
+Knox (21121),Kentucky,21,541,LEXINGTON,21121,Knox,Knox (21121),Knox
+Larue (21123),Kentucky,21,529,LOUISVILLE,21123,Larue,Larue (21123),Larue
+Laurel (21125),Kentucky,21,541,LEXINGTON,21125,Laurel,Laurel (21125),Laurel
+Lee (21129),Kentucky,21,541,LEXINGTON,21129,Lee,Lee (21129),Lee
+Lincoln (21137),Kentucky,21,541,LEXINGTON,21137,Lincoln,Lincoln (21137),Lincoln
+McCreary (21147),Kentucky,21,557,KNOXVILLE,21147,McCreary,McCreary (21147),McCreary
+Madison (21151),Kentucky,21,541,LEXINGTON,21151,Madison,Madison (21151),Madison
+Magoffin (21153),Kentucky,21,541,LEXINGTON,21153,Magoffin,Magoffin (21153),Magoffin
+Marion (21155),Kentucky,21,529,LOUISVILLE,21155,Marion,Marion (21155),Marion
+Meade (21163),Kentucky,21,529,LOUISVILLE,21163,Meade,Meade (21163),Meade
+Menifee (21165),Kentucky,21,541,LEXINGTON,21165,Menifee,Menifee (21165),Menifee
+Mercer (21167),Kentucky,21,541,LEXINGTON,21167,Mercer,Mercer (21167),Mercer
+Montgomery (21173),Kentucky,21,541,LEXINGTON,21173,Montgomery,Montgomery (21173),Montgomery
+Morgan (21175),Kentucky,21,541,LEXINGTON,21175,Morgan,Morgan (21175),Morgan
+Nelson (21179),Kentucky,21,529,LOUISVILLE,21179,Nelson,Nelson (21179),Nelson
+Nicholas (21181),Kentucky,21,541,LEXINGTON,21181,Nicholas,Nicholas (21181),Nicholas
+Oldham (21185),Kentucky,21,529,LOUISVILLE,21185,Oldham,Oldham (21185),Oldham
+Owsley (21189),Kentucky,21,541,LEXINGTON,21189,Owsley,Owsley (21189),Owsley
+Perry (21193),Kentucky,21,541,LEXINGTON,21193,Perry,Perry (21193),Perry
+Powell (21197),Kentucky,21,541,LEXINGTON,21197,Powell,Powell (21197),Powell
+Pulaski (21199),Kentucky,21,541,LEXINGTON,21199,Pulaski,Pulaski (21199),Pulaski
+Rockcastle (21203),Kentucky,21,541,LEXINGTON,21203,Rockcastle,Rockcastle (21203),Rockcastle
+Rowan (21205),Kentucky,21,541,LEXINGTON,21205,Rowan,Rowan (21205),Rowan
+Russell (21207),Kentucky,21,541,LEXINGTON,21207,Russell,Russell (21207),Russell
+Scott (21209),Kentucky,21,541,LEXINGTON,21209,Scott,Scott (21209),Scott
+Shelby (21211),Kentucky,21,529,LOUISVILLE,21211,Shelby,Shelby (21211),Shelby
+Spencer (21215),Kentucky,21,529,LOUISVILLE,21215,Spencer,Spencer (21215),Spencer
+Taylor (21217),Kentucky,21,529,LOUISVILLE,21217,Taylor,Taylor (21217),Taylor
+Trimble (21223),Kentucky,21,529,LOUISVILLE,21223,Trimble,Trimble (21223),Trimble
+Washington (21229),Kentucky,21,529,LOUISVILLE,21229,Washington,Washington (21229),Washington
+Wayne (21231),Kentucky,21,541,LEXINGTON,21231,Wayne,Wayne (21231),Wayne
+Whitley (21235),Kentucky,21,541,LEXINGTON,21235,Whitley,Whitley (21235),Whitley
+Wolfe (21237),Kentucky,21,541,LEXINGTON,21237,Wolfe,Wolfe (21237),Wolfe
+Woodford (21239),Kentucky,21,541,LEXINGTON,21239,Woodford,Woodford (21239),Woodford
+Acadia (22001),Louisiana,22,642,LAFAYETTE  LA,22001,Acadia,Acadia (22001),Acadia
+Allen (22003),Louisiana,22,643,LAKE CHARLES,22003,Allen,Allen (22003),Allen
+Beauregard (22011),Louisiana,22,643,LAKE CHARLES,22011,Beauregard,Beauregard (22011),Beauregard
+Calcasieu (22019),Louisiana,22,643,LAKE CHARLES,22019,Calcasieu,Calcasieu (22019),Calcasieu
+Caldwell (22021),Louisiana,22,628,MONRO-EL DORADO,22021,Caldwell,Caldwell (22021),Caldwell
+Cameron (22023),Louisiana,22,643,LAKE CHARLES,22023,Cameron,Cameron (22023),Cameron
+Catahoula (22025),Louisiana,22,628,MONRO-EL DORADO,22025,Catahoula,Catahoula (22025),Catahoula
+Concordia (22029),Louisiana,22,628,MONRO-EL DORADO,22029,Concordia,Concordia (22029),Concordia
+East Carroll (22035),Louisiana,22,628,MONRO-EL DORADO,22035,East Carroll,East Carroll (22035),East Carroll
+Evangeline (22039),Louisiana,22,642,LAFAYETTE  LA,22039,Evangeline,Evangeline (22039),Evangeline
+Franklin (22041),Louisiana,22,628,MONRO-EL DORADO,22041,Franklin,Franklin (22041),Franklin
+Iberia (22045),Louisiana,22,642,LAFAYETTE  LA,22045,Iberia,Iberia (22045),Iberia
+Jackson (22049),Louisiana,22,628,MONRO-EL DORADO,22049,Jackson,Jackson (22049),Jackson
+Jefferson Davis (22053),Louisiana,22,642,LAFAYETTE  LA,22053,Jefferson Davis,Jefferson Davis (22053),Jefferson Davis
+Lafayette (22055),Louisiana,22,642,LAFAYETTE  LA,22055,Lafayette,Lafayette (22055),Lafayette
+Lincoln (22061),Louisiana,22,628,MONRO-EL DORADO,22061,Lincoln,Lincoln (22061),Lincoln
+Madison (22065),Louisiana,22,628,MONRO-EL DORADO,22065,Madison,Madison (22065),Madison
+Morehouse (22067),Louisiana,22,628,MONRO-EL DORADO,22067,Morehouse,Morehouse (22067),Morehouse
+Ouachita (22073),Louisiana,22,628,MONRO-EL DORADO,22073,Ouachita,Ouachita (22073),Ouachita
+Richland (22083),Louisiana,22,628,MONRO-EL DORADO,22083,Richland,Richland (22083),Richland
+St. Landry (22097),Louisiana,22,642,LAFAYETTE  LA,22097,St. Landry,St. Landry (22097),St. Landry
+St. Martin (22099),Louisiana,22,642,LAFAYETTE  LA,22099,St. Martin,St. Martin (22099),St. Martin
+Tensas (22107),Louisiana,22,628,MONRO-EL DORADO,22107,Tensas,Tensas (22107),Tensas
+Union (22111),Louisiana,22,628,MONRO-EL DORADO,22111,Union,Union (22111),Union
+Vermilion (22113),Louisiana,22,642,LAFAYETTE  LA,22113,Vermilion,Vermilion (22113),Vermilion
+West Carroll (22123),Louisiana,22,628,MONRO-EL DORADO,22123,West Carroll,West Carroll (22123),West Carroll
+Winn (22127),Louisiana,22,628,MONRO-EL DORADO,22127,Winn,Winn (22127),Winn
+Alger (26003),Michigan,26,553,MARQUETTE,26003,Alger,Alger (26003),Alger
+Baraga (26013),Michigan,26,553,MARQUETTE,26013,Baraga,Baraga (26013),Baraga
+Linn (20107),Kansas,20,616,KANSAS CITY,20107,Linn,Linn (20107),Linn
+Phillips (20147),Kansas,20,722,LIN&HST-KRNY,20147,Phillips,Phillips (20147),Phillips
+Republic (20157),Kansas,20,722,LIN&HST-KRNY,20157,Republic,Republic (20157),Republic
+Wilson (20205),Kansas,20,603,JOPLIN-PITTSBRG,20205,Wilson,Wilson (20205),Wilson
+Miami (20121),Kansas,20,616,KANSAS CITY,20121,Miami,Miami (20121),Miami
+Woodson (20207),Kansas,20,603,JOPLIN-PITTSBRG,20207,Woodson,Woodson (20207),Woodson
+Wyandotte (20209),Kansas,20,616,KANSAS CITY,20209,Wyandotte,Wyandotte (20209),Wyandotte
+Adair (21001),Kentucky,21,529,LOUISVILLE,21001,Adair,Adair (21001),Adair
+Anderson (21005),Kentucky,21,541,LEXINGTON,21005,Anderson,Anderson (21005),Anderson
+Bath (21011),Kentucky,21,541,LEXINGTON,21011,Bath,Bath (21011),Bath
+Bell (21013),Kentucky,21,557,KNOXVILLE,21013,Bell,Bell (21013),Bell
+Bourbon (21017),Kentucky,21,541,LEXINGTON,21017,Bourbon,Bourbon (21017),Bourbon
+Boyle (21021),Kentucky,21,541,LEXINGTON,21021,Boyle,Boyle (21021),Boyle
+Jewell (20089),Kansas,20,722,LIN&HST-KRNY,20089,Jewell,Jewell (20089),Jewell
+Neosho (20133),Kansas,20,603,JOPLIN-PITTSBRG,20133,Neosho,Neosho (20133),Neosho
+Breathitt (21025),Kentucky,21,541,LEXINGTON,21025,Breathitt,Breathitt (21025),Breathitt
+Breckinridge (21027),Kentucky,21,529,LOUISVILLE,21027,Breckinridge,Breckinridge (21027),Breckinridge
+Bullitt (21029),Kentucky,21,529,LOUISVILLE,21029,Bullitt,Bullitt (21029),Bullitt
+Carroll (21041),Kentucky,21,529,LOUISVILLE,21041,Carroll,Carroll (21041),Carroll
+Casey (21045),Kentucky,21,541,LEXINGTON,21045,Casey,Casey (21045),Casey
+Clark (21049),Kentucky,21,541,LEXINGTON,21049,Clark,Clark (21049),Clark
+Clay (21051),Kentucky,21,541,LEXINGTON,21051,Clay,Clay (21051),Clay
+Johnson (20091),Kansas,20,616,KANSAS CITY,20091,Johnson,Johnson (20091),Johnson
+Labette (20099),Kansas,20,603,JOPLIN-PITTSBRG,20099,Labette,Labette (20099),Labette
+Lake (30047),Montana,30,762,MISSOULA,30047,Lake,Lake (30047),Lake
+Wibaux (30109),Montana,30,687,MINOT-BSMRK-DKN,30109,Wibaux,Wibaux (30109),Wibaux
+Clay (31035),Nebraska,31,722,LIN&HST-KRNY,31035,Clay,Clay (31035),Clay
+Frontier (31063),Nebraska,31,722,LIN&HST-KRNY,31063,Frontier,Frontier (31063),Frontier
+Furnas (31065),Nebraska,31,722,LIN&HST-KRNY,31065,Furnas,Furnas (31065),Furnas
+Gage (31067),Nebraska,31,722,LIN&HST-KRNY,31067,Gage,Gage (31067),Gage
+Garfield (31071),Nebraska,31,722,LIN&HST-KRNY,31071,Garfield,Garfield (31071),Garfield
+Gosper (31073),Nebraska,31,722,LIN&HST-KRNY,31073,Gosper,Gosper (31073),Gosper
+Greeley (31077),Nebraska,31,722,LIN&HST-KRNY,31077,Greeley,Greeley (31077),Greeley
+Hall (31079),Nebraska,31,722,LIN&HST-KRNY,31079,Hall,Hall (31079),Hall
+Hamilton (31081),Nebraska,31,722,LIN&HST-KRNY,31081,Hamilton,Hamilton (31081),Hamilton
+Harlan (31083),Nebraska,31,722,LIN&HST-KRNY,31083,Harlan,Harlan (31083),Harlan
+Hayes (31085),Nebraska,31,722,LIN&HST-KRNY,31085,Hayes,Hayes (31085),Hayes
+Hitchcock (31087),Nebraska,31,722,LIN&HST-KRNY,31087,Hitchcock,Hitchcock (31087),Hitchcock
+Holt (31089),Nebraska,31,722,LIN&HST-KRNY,31089,Holt,Holt (31089),Holt
+Howard (31093),Nebraska,31,722,LIN&HST-KRNY,31093,Howard,Howard (31093),Howard
+Jefferson (31095),Nebraska,31,722,LIN&HST-KRNY,31095,Jefferson,Jefferson (31095),Jefferson
+Kearney (31099),Nebraska,31,722,LIN&HST-KRNY,31099,Kearney,Kearney (31099),Kearney
+Keya Paha (31103),Nebraska,31,722,LIN&HST-KRNY,31103,Keya Paha,Keya Paha (31103),Keya Paha
+Lancaster (31109),Nebraska,31,722,LIN&HST-KRNY,31109,Lancaster,Lancaster (31109),Lancaster
+Loup (31115),Nebraska,31,722,LIN&HST-KRNY,31115,Loup,Loup (31115),Loup
+Merrick (31121),Nebraska,31,722,LIN&HST-KRNY,31121,Merrick,Merrick (31121),Merrick
+Nance (31125),Nebraska,31,722,LIN&HST-KRNY,31125,Nance,Nance (31125),Nance
+Nuckolls (31129),Nebraska,31,722,LIN&HST-KRNY,31129,Nuckolls,Nuckolls (31129),Nuckolls
+Pawnee (31133),Nebraska,31,722,LIN&HST-KRNY,31133,Pawnee,Pawnee (31133),Pawnee
+Perkins (31135),Nebraska,31,722,LIN&HST-KRNY,31135,Perkins,Perkins (31135),Perkins
+Phelps (31137),Nebraska,31,722,LIN&HST-KRNY,31137,Phelps,Phelps (31137),Phelps
+Polk (31143),Nebraska,31,722,LIN&HST-KRNY,31143,Polk,Polk (31143),Polk
+Red Willow (31145),Nebraska,31,722,LIN&HST-KRNY,31145,Red Willow,Red Willow (31145),Red Willow
+Rock (31149),Nebraska,31,722,LIN&HST-KRNY,31149,Rock,Rock (31149),Rock
+Saline (31151),Nebraska,31,722,LIN&HST-KRNY,31151,Saline,Saline (31151),Saline
+Seward (31159),Nebraska,31,722,LIN&HST-KRNY,31159,Seward,Seward (31159),Seward
+Sherman (31163),Nebraska,31,722,LIN&HST-KRNY,31163,Sherman,Sherman (31163),Sherman
+Thayer (31169),Nebraska,31,722,LIN&HST-KRNY,31169,Thayer,Thayer (31169),Thayer
+Valley (31175),Nebraska,31,722,LIN&HST-KRNY,31175,Valley,Valley (31175),Valley
+Webster (31181),Nebraska,31,722,LIN&HST-KRNY,31181,Webster,Webster (31181),Webster
+Wheeler (31183),Nebraska,31,722,LIN&HST-KRNY,31183,Wheeler,Wheeler (31183),Wheeler
+York (31185),Nebraska,31,722,LIN&HST-KRNY,31185,York,York (31185),York
+Clark (32003),Nevada,32,839,LAS VEGAS,32003,Clark,Clark (32003),Clark
+Lincoln (32017),Nevada,32,839,LAS VEGAS,32017,Lincoln,Lincoln (32017),Lincoln
+McCone (30055),Montana,30,687,MINOT-BSMRK-DKN,30055,McCone,McCone (30055),McCone
+Mineral (30061),Montana,30,762,MISSOULA,30061,Mineral,Mineral (30061),Mineral
+Missoula (30063),Montana,30,762,MISSOULA,30063,Missoula,Missoula (30063),Missoula
+Adams (31001),Nebraska,31,722,LIN&HST-KRNY,31001,Adams,Adams (31001),Adams
+Antelope (31003),Nebraska,31,722,LIN&HST-KRNY,31003,Antelope,Antelope (31003),Antelope
+Boone (31011),Nebraska,31,722,LIN&HST-KRNY,31011,Boone,Boone (31011),Boone
+Custer (31041),Nebraska,31,722,LIN&HST-KRNY,31041,Custer,Custer (31041),Custer
+Brown (31017),Nebraska,31,722,LIN&HST-KRNY,31017,Brown,Brown (31017),Brown
+Buffalo (31019),Nebraska,31,722,LIN&HST-KRNY,31019,Buffalo,Buffalo (31019),Buffalo
+Daniels (30019),Montana,30,687,MINOT-BSMRK-DKN,30019,Daniels,Daniels (30019),Daniels
+Ravalli (30081),Montana,30,762,MISSOULA,30081,Ravalli,Ravalli (30081),Ravalli
+Richland (30083),Montana,30,687,MINOT-BSMRK-DKN,30083,Richland,Richland (30083),Richland
+Roosevelt (30085),Montana,30,687,MINOT-BSMRK-DKN,30085,Roosevelt,Roosevelt (30085),Roosevelt
+Sanders (30089),Montana,30,762,MISSOULA,30089,Sanders,Sanders (30089),Sanders
+Butler (31023),Nebraska,31,722,LIN&HST-KRNY,31023,Butler,Butler (31023),Butler
+Dawson (31047),Nebraska,31,722,LIN&HST-KRNY,31047,Dawson,Dawson (31047),Dawson
+Sheridan (30091),Montana,30,687,MINOT-BSMRK-DKN,30091,Sheridan,Sheridan (30091),Sheridan
+Flathead (30029),Montana,30,762,MISSOULA,30029,Flathead,Flathead (30029),Flathead
+Fillmore (31059),Nebraska,31,722,LIN&HST-KRNY,31059,Fillmore,Fillmore (31059),Fillmore
+Franklin (31061),Nebraska,31,722,LIN&HST-KRNY,31061,Franklin,Franklin (31061),Franklin
+Granite (30039),Montana,30,762,MISSOULA,30039,Granite,Granite (30039),Granite
+Chase (31029),Nebraska,31,722,LIN&HST-KRNY,31029,Chase,Chase (31029),Chase
+Tate (28137),Mississippi,28,640,MEMPHIS,28137,Tate,Tate (28137),Tate
+Tippah (28139),Mississippi,28,640,MEMPHIS,28139,Tippah,Tippah (28139),Tippah
+Daviess (29061),Missouri,29,616,KANSAS CITY,29061,Daviess,Daviess (29061),Daviess
+Jackson (29095),Missouri,29,616,KANSAS CITY,29095,Jackson,Jackson (29095),Jackson
+Jasper (29097),Missouri,29,603,JOPLIN-PITTSBRG,29097,Jasper,Jasper (29097),Jasper
+Johnson (29101),Missouri,29,616,KANSAS CITY,29101,Johnson,Johnson (29101),Johnson
+Lafayette (29107),Missouri,29,616,KANSAS CITY,29107,Lafayette,Lafayette (29107),Lafayette
+Linn (29115),Missouri,29,616,KANSAS CITY,29115,Linn,Linn (29115),Linn
+Livingston (29117),Missouri,29,616,KANSAS CITY,29117,Livingston,Livingston (29117),Livingston
+McDonald (29119),Missouri,29,603,JOPLIN-PITTSBRG,29119,McDonald,McDonald (29119),McDonald
+Mercer (29129),Missouri,29,616,KANSAS CITY,29129,Mercer,Mercer (29129),Mercer
+Newton (29145),Missouri,29,603,JOPLIN-PITTSBRG,29145,Newton,Newton (29145),Newton
+Nodaway (29147),Missouri,29,616,KANSAS CITY,29147,Nodaway,Nodaway (29147),Nodaway
+Pemiscot (29155),Missouri,29,640,MEMPHIS,29155,Pemiscot,Pemiscot (29155),Pemiscot
+Pettis (29159),Missouri,29,616,KANSAS CITY,29159,Pettis,Pettis (29159),Pettis
+Platte (29165),Missouri,29,616,KANSAS CITY,29165,Platte,Platte (29165),Platte
+Ray (29177),Missouri,29,616,KANSAS CITY,29177,Ray,Ray (29177),Ray
+Ripley (29181),Missouri,29,734,JONESBORO,29181,Ripley,Ripley (29181),Ripley
+Saline (29195),Missouri,29,616,KANSAS CITY,29195,Saline,Saline (29195),Saline
+Vernon (29217),Missouri,29,603,JOPLIN-PITTSBRG,29217,Vernon,Vernon (29217),Vernon
+Worth (29227),Missouri,29,616,KANSAS CITY,29227,Worth,Worth (29227),Worth
+Lawrence (28077),Mississippi,28,718,JACKSON  MS,28077,Lawrence,Lawrence (28077),Lawrence
+Leake (28079),Mississippi,28,718,JACKSON  MS,28079,Leake,Leake (28079),Leake
+Tunica (28143),Mississippi,28,640,MEMPHIS,28143,Tunica,Tunica (28143),Tunica
+Caldwell (29025),Missouri,29,616,KANSAS CITY,29025,Caldwell,Caldwell (29025),Caldwell
+Carroll (29033),Missouri,29,616,KANSAS CITY,29033,Carroll,Carroll (29033),Carroll
+Cass (29037),Missouri,29,616,KANSAS CITY,29037,Cass,Cass (29037),Cass
+Lincoln (28085),Mississippi,28,718,JACKSON  MS,28085,Lincoln,Lincoln (28085),Lincoln
+Madison (28089),Mississippi,28,718,JACKSON  MS,28089,Madison,Madison (28089),Madison
+Walthall (28147),Mississippi,28,718,JACKSON  MS,28147,Walthall,Walthall (28147),Walthall
+Warren (28149),Mississippi,28,718,JACKSON  MS,28149,Warren,Warren (28149),Warren
+Marshall (28093),Mississippi,28,640,MEMPHIS,28093,Marshall,Marshall (28093),Marshall
+Neshoba (28099),Mississippi,28,711,MERIDIAN,28099,Neshoba,Neshoba (28099),Neshoba
+Yazoo (28163),Mississippi,28,718,JACKSON  MS,28163,Yazoo,Yazoo (28163),Yazoo
+Gentry (29075),Missouri,29,616,KANSAS CITY,29075,Gentry,Gentry (29075),Gentry
+Newton (28101),Mississippi,28,711,MERIDIAN,28101,Newton,Newton (28101),Newton
+Clay (29047),Missouri,29,616,KANSAS CITY,29047,Clay,Clay (29047),Clay
+Grundy (29079),Missouri,29,616,KANSAS CITY,29079,Grundy,Grundy (29079),Grundy
+Panola (28107),Mississippi,28,640,MEMPHIS,28107,Panola,Panola (28107),Panola
+Clinton (29049),Missouri,29,616,KANSAS CITY,29049,Clinton,Clinton (29049),Clinton
+Harrison (29081),Missouri,29,616,KANSAS CITY,29081,Harrison,Harrison (29081),Harrison
+Henry (29083),Missouri,29,616,KANSAS CITY,29083,Henry,Henry (29083),Henry
+Pike (28113),Mississippi,28,718,JACKSON  MS,28113,Pike,Pike (28113),Pike
+Barton (29011),Missouri,29,603,JOPLIN-PITTSBRG,29011,Barton,Barton (29011),Barton
+Bates (29013),Missouri,29,616,KANSAS CITY,29013,Bates,Bates (29013),Bates
+Holt (29087),Missouri,29,616,KANSAS CITY,29087,Holt,Holt (29087),Holt
+Quitman (28119),Mississippi,28,640,MEMPHIS,28119,Quitman,Quitman (28119),Quitman
+Rankin (28121),Mississippi,28,718,JACKSON  MS,28121,Rankin,Rankin (28121),Rankin
+Scott (28123),Mississippi,28,718,JACKSON  MS,28123,Scott,Scott (28123),Scott
+Sharkey (28125),Mississippi,28,718,JACKSON  MS,28125,Sharkey,Sharkey (28125),Sharkey
+Simpson (28127),Mississippi,28,718,JACKSON  MS,28127,Simpson,Simpson (28127),Simpson
+Smith (28129),Mississippi,28,718,JACKSON  MS,28129,Smith,Smith (28129),Smith
+Adams (38001),North Dakota,38,687,MINOT-BSMRK-DKN,38001,Adams,Adams (38001),Adams
+Golden Valley (38033),North Dakota,38,687,MINOT-BSMRK-DKN,38033,Golden Valley,Golden Valley (38033),Golden Valley
+Grant (38037),North Dakota,38,687,MINOT-BSMRK-DKN,38037,Grant,Grant (38037),Grant
+Pierce (38069),North Dakota,38,687,MINOT-BSMRK-DKN,38069,Pierce,Pierce (38069),Pierce
+Ward (38101),North Dakota,38,687,MINOT-BSMRK-DKN,38101,Ward,Ward (38101),Ward
+Wells (38103),North Dakota,38,687,MINOT-BSMRK-DKN,38103,Wells,Wells (38103),Wells
+Williams (38105),North Dakota,38,687,MINOT-BSMRK-DKN,38105,Williams,Williams (38105),Williams
+Allen (39003),Ohio,39,558,LIMA,39003,Allen,Allen (39003),Allen
+Auglaize (39011),Ohio,39,558,LIMA,39011,Auglaize,Auglaize (39011),Auglaize
+Billings (38007),North Dakota,38,687,MINOT-BSMRK-DKN,38007,Billings,Billings (38007),Billings
+Renville (38075),North Dakota,38,687,MINOT-BSMRK-DKN,38075,Renville,Renville (38075),Renville
+Rolette (38079),North Dakota,38,687,MINOT-BSMRK-DKN,38079,Rolette,Rolette (38079),Rolette
+Bottineau (38009),North Dakota,38,687,MINOT-BSMRK-DKN,38009,Bottineau,Bottineau (38009),Bottineau
+Hettinger (38041),North Dakota,38,687,MINOT-BSMRK-DKN,38041,Hettinger,Hettinger (38041),Hettinger
+Sheridan (38083),North Dakota,38,687,MINOT-BSMRK-DKN,38083,Sheridan,Sheridan (38083),Sheridan
+Bowman (38011),North Dakota,38,687,MINOT-BSMRK-DKN,38011,Bowman,Bowman (38011),Bowman
+Kidder (38043),North Dakota,38,687,MINOT-BSMRK-DKN,38043,Kidder,Kidder (38043),Kidder
+Sioux (38085),North Dakota,38,687,MINOT-BSMRK-DKN,38085,Sioux,Sioux (38085),Sioux
+Slope (38087),North Dakota,38,687,MINOT-BSMRK-DKN,38087,Slope,Slope (38087),Slope
+Burke (38013),North Dakota,38,687,MINOT-BSMRK-DKN,38013,Burke,Burke (38013),Burke
+Burleigh (38015),North Dakota,38,687,MINOT-BSMRK-DKN,38015,Burleigh,Burleigh (38015),Burleigh
+Logan (38047),North Dakota,38,687,MINOT-BSMRK-DKN,38047,Logan,Logan (38047),Logan
+Stark (38089),North Dakota,38,687,MINOT-BSMRK-DKN,38089,Stark,Stark (38089),Stark
+McHenry (38049),North Dakota,38,687,MINOT-BSMRK-DKN,38049,McHenry,McHenry (38049),McHenry
+Divide (38023),North Dakota,38,687,MINOT-BSMRK-DKN,38023,Divide,Divide (38023),Divide
+Dunn (38025),North Dakota,38,687,MINOT-BSMRK-DKN,38025,Dunn,Dunn (38025),Dunn
+McIntosh (38051),North Dakota,38,687,MINOT-BSMRK-DKN,38051,McIntosh,McIntosh (38051),McIntosh
+McKenzie (38053),North Dakota,38,687,MINOT-BSMRK-DKN,38053,McKenzie,McKenzie (38053),McKenzie
+McLean (38055),North Dakota,38,687,MINOT-BSMRK-DKN,38055,McLean,McLean (38055),McLean
+Mercer (38057),North Dakota,38,687,MINOT-BSMRK-DKN,38057,Mercer,Mercer (38057),Mercer
+Morton (38059),North Dakota,38,687,MINOT-BSMRK-DKN,38059,Morton,Morton (38059),Morton
+Mountrail (38061),North Dakota,38,687,MINOT-BSMRK-DKN,38061,Mountrail,Mountrail (38061),Mountrail
+Emmons (38029),North Dakota,38,687,MINOT-BSMRK-DKN,38029,Emmons,Emmons (38029),Emmons
+Oliver (38065),North Dakota,38,687,MINOT-BSMRK-DKN,38065,Oliver,Oliver (38065),Oliver
+Nye (32023),Nevada,32,839,LAS VEGAS,32023,Nye,Nye (32023),Nye
+Chester (47023),Tennessee,47,639,JACKSON  TN,47023,Chester,Chester (47023),Chester
+Claiborne (47025),Tennessee,47,557,KNOXVILLE,47025,Claiborne,Claiborne (47025),Claiborne
+Cocke (47029),Tennessee,47,557,KNOXVILLE,47029,Cocke,Cocke (47029),Cocke
+Crockett (47033),Tennessee,47,640,MEMPHIS,47033,Crockett,Crockett (47033),Crockett
+Cumberland (47035),Tennessee,47,557,KNOXVILLE,47035,Cumberland,Cumberland (47035),Cumberland
+Dyer (47045),Tennessee,47,640,MEMPHIS,47045,Dyer,Dyer (47045),Dyer
+Fayette (47047),Tennessee,47,640,MEMPHIS,47047,Fayette,Fayette (47047),Fayette
+Fentress (47049),Tennessee,47,557,KNOXVILLE,47049,Fentress,Fentress (47049),Fentress
+Gibson (47053),Tennessee,47,639,JACKSON  TN,47053,Gibson,Gibson (47053),Gibson
+Grainger (47057),Tennessee,47,557,KNOXVILLE,47057,Grainger,Grainger (47057),Grainger
+Hamblen (47063),Tennessee,47,557,KNOXVILLE,47063,Hamblen,Hamblen (47063),Hamblen
+Hancock (47067),Tennessee,47,557,KNOXVILLE,47067,Hancock,Hancock (47067),Hancock
+Hardeman (47069),Tennessee,47,640,MEMPHIS,47069,Hardeman,Hardeman (47069),Hardeman
+Hardin (47071),Tennessee,47,639,JACKSON  TN,47071,Hardin,Hardin (47071),Hardin
+Haywood (47075),Tennessee,47,640,MEMPHIS,47075,Haywood,Haywood (47075),Haywood
+Henderson (47077),Tennessee,47,639,JACKSON  TN,47077,Henderson,Henderson (47077),Henderson
+Jefferson (47089),Tennessee,47,557,KNOXVILLE,47089,Jefferson,Jefferson (47089),Jefferson
+Knox (47093),Tennessee,47,557,KNOXVILLE,47093,Knox,Knox (47093),Knox
+Lauderdale (47097),Tennessee,47,640,MEMPHIS,47097,Lauderdale,Lauderdale (47097),Lauderdale
+Loudon (47105),Tennessee,47,557,KNOXVILLE,47105,Loudon,Loudon (47105),Loudon
+McNairy (47109),Tennessee,47,640,MEMPHIS,47109,McNairy,McNairy (47109),McNairy
+Madison (47113),Tennessee,47,639,JACKSON  TN,47113,Madison,Madison (47113),Madison
+Monroe (47123),Tennessee,47,557,KNOXVILLE,47123,Monroe,Monroe (47123),Monroe
+Morgan (47129),Tennessee,47,557,KNOXVILLE,47129,Morgan,Morgan (47129),Morgan
+Roane (47145),Tennessee,47,557,KNOXVILLE,47145,Roane,Roane (47145),Roane
+Scott (47151),Tennessee,47,557,KNOXVILLE,47151,Scott,Scott (47151),Scott
+Sevier (47155),Tennessee,47,557,KNOXVILLE,47155,Sevier,Sevier (47155),Sevier
+Shelby (47157),Tennessee,47,640,MEMPHIS,47157,Shelby,Shelby (47157),Shelby
+Tipton (47167),Tennessee,47,640,MEMPHIS,47167,Tipton,Tipton (47167),Tipton
+Union (47173),Tennessee,47,557,KNOXVILLE,47173,Union,Union (47173),Union
+Bailey (48017),Texas,48,651,LUBBOCK,48017,Bailey,Bailey (48017),Bailey
+Borden (48033),Texas,48,651,LUBBOCK,48033,Borden,Borden (48033),Borden
+Cochran (48079),Texas,48,651,LUBBOCK,48079,Cochran,Cochran (48079),Cochran
+Crosby (48107),Texas,48,651,LUBBOCK,48107,Crosby,Crosby (48107),Crosby
+Dawson (48115),Texas,48,651,LUBBOCK,48115,Dawson,Dawson (48115),Dawson
+Gaines (48165),Texas,48,651,LUBBOCK,48165,Gaines,Gaines (48165),Gaines
+Garza (48169),Texas,48,651,LUBBOCK,48169,Garza,Garza (48169),Garza
+Dickens (48125),Texas,48,651,LUBBOCK,48125,Dickens,Dickens (48125),Dickens
+Floyd (48153),Texas,48,651,LUBBOCK,48153,Floyd,Floyd (48153),Floyd
+Somerset (42111),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42111,Somerset,Somerset (42111),Somerset
+Campbell (46021),South Dakota,46,687,MINOT-BSMRK-DKN,46021,Campbell,Campbell (46021),Campbell
+Corson (46031),South Dakota,46,687,MINOT-BSMRK-DKN,46031,Corson,Corson (46031),Corson
+Anderson (47001),Tennessee,47,557,KNOXVILLE,47001,Anderson,Anderson (47001),Anderson
+Blount (47009),Tennessee,47,557,KNOXVILLE,47009,Blount,Blount (47009),Blount
+Campbell (47013),Tennessee,47,557,KNOXVILLE,47013,Campbell,Campbell (47013),Campbell
+Carroll (47017),Tennessee,47,639,JACKSON  TN,47017,Carroll,Carroll (47017),Carroll
+Ottawa (40115),Oklahoma,40,603,JOPLIN-PITTSBRG,40115,Ottawa,Ottawa (40115),Ottawa
+Curry (41015),Oregon,41,813,MEDFORD-KLM FLS,41015,Curry,Curry (41015),Curry
+Jackson (41029),Oregon,41,813,MEDFORD-KLM FLS,41029,Jackson,Jackson (41029),Jackson
+Josephine (41033),Oregon,41,813,MEDFORD-KLM FLS,41033,Josephine,Josephine (41033),Josephine
+Klamath (41035),Oregon,41,813,MEDFORD-KLM FLS,41035,Klamath,Klamath (41035),Klamath
+Lake (41037),Oregon,41,813,MEDFORD-KLM FLS,41037,Lake,Lake (41037),Lake
+Bedford (42009),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42009,Bedford,Bedford (42009),Bedford
+Blair (42013),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42013,Blair,Blair (42013),Blair
+Cambria (42021),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42021,Cambria,Cambria (42021),Cambria
+Cameron (42023),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42023,Cameron,Cameron (42023),Cameron
+Centre (42027),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42027,Centre,Centre (42027),Centre
+Clearfield (42033),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42033,Clearfield,Clearfield (42033),Clearfield
+Elk (42047),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42047,Elk,Elk (42047),Elk
+Huntingdon (42061),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42061,Huntingdon,Huntingdon (42061),Huntingdon
+Jefferson (42065),Pennsylvania,42,574,JOHNSTOWN-ALTNA,42065,Jefferson,Jefferson (42065),Jefferson
+Putnam (39137),Ohio,39,558,LIMA,39137,Putnam,Putnam (39137),Putnam
+Chippewa (55017),Wisconsin,55,702,LA CRSS-EAU CLR,55017,Chippewa,Chippewa (55017),Chippewa
+Clark (55019),Wisconsin,55,702,LA CRSS-EAU CLR,55019,Clark,Clark (55019),Clark
+Columbia (55021),Wisconsin,55,669,MADISON,55021,Columbia,Columbia (55021),Columbia
+Crawford (55023),Wisconsin,55,702,LA CRSS-EAU CLR,55023,Crawford,Crawford (55023),Crawford
+Dane (55025),Wisconsin,55,669,MADISON,55025,Dane,Dane (55025),Dane
+Dodge (55027),Wisconsin,55,617,MILWAUKEE,55027,Dodge,Dodge (55027),Dodge
+Dunn (55033),Wisconsin,55,702,LA CRSS-EAU CLR,55033,Dunn,Dunn (55033),Dunn
+Eau Claire (55035),Wisconsin,55,702,LA CRSS-EAU CLR,55035,Eau Claire,Eau Claire (55035),Eau Claire
+Florence (55037),Wisconsin,55,553,MARQUETTE,55037,Florence,Florence (55037),Florence
+Grant (55043),Wisconsin,55,669,MADISON,55043,Grant,Grant (55043),Grant
+Green (55045),Wisconsin,55,669,MADISON,55045,Green,Green (55045),Green
+Iowa (55049),Wisconsin,55,669,MADISON,55049,Iowa,Iowa (55049),Iowa
+Jackson (55053),Wisconsin,55,702,LA CRSS-EAU CLR,55053,Jackson,Jackson (55053),Jackson
+Jefferson (55055),Wisconsin,55,617,MILWAUKEE,55055,Jefferson,Jefferson (55055),Jefferson
+Juneau (55057),Wisconsin,55,669,MADISON,55057,Juneau,Juneau (55057),Juneau
+Kenosha (55059),Wisconsin,55,617,MILWAUKEE,55059,Kenosha,Kenosha (55059),Kenosha
+La Crosse (55063),Wisconsin,55,702,LA CRSS-EAU CLR,55063,La Crosse,La Crosse (55063),La Crosse
+Lafayette (55065),Wisconsin,55,669,MADISON,55065,Lafayette,Lafayette (55065),Lafayette
+Marquette (55077),Wisconsin,55,669,MADISON,55077,Marquette,Marquette (55077),Marquette
+Milwaukee (55079),Wisconsin,55,617,MILWAUKEE,55079,Milwaukee,Milwaukee (55079),Milwaukee
+Monroe (55081),Wisconsin,55,702,LA CRSS-EAU CLR,55081,Monroe,Monroe (55081),Monroe
+Ozaukee (55089),Wisconsin,55,617,MILWAUKEE,55089,Ozaukee,Ozaukee (55089),Ozaukee
+Pepin (55091),Wisconsin,55,702,LA CRSS-EAU CLR,55091,Pepin,Pepin (55091),Pepin
+Pierce (55093),Wisconsin,55,613,MINEAPLS-ST. PL,55093,Pierce,Pierce (55093),Pierce
+Polk (55095),Wisconsin,55,613,MINEAPLS-ST. PL,55095,Polk,Polk (55095),Polk
+Racine (55101),Wisconsin,55,617,MILWAUKEE,55101,Racine,Racine (55101),Racine
+Richland (55103),Wisconsin,55,669,MADISON,55103,Richland,Richland (55103),Richland
+Rock (55105),Wisconsin,55,669,MADISON,55105,Rock,Rock (55105),Rock
+Rusk (55107),Wisconsin,55,702,LA CRSS-EAU CLR,55107,Rusk,Rusk (55107),Rusk
+Walworth (55127),Wisconsin,55,617,MILWAUKEE,55127,Walworth,Walworth (55127),Walworth
+St. Croix (55109),Wisconsin,55,613,MINEAPLS-ST. PL,55109,St. Croix,St. Croix (55109),St. Croix
+Sauk (55111),Wisconsin,55,669,MADISON,55111,Sauk,Sauk (55111),Sauk
+Sheboygan (55117),Wisconsin,55,617,MILWAUKEE,55117,Sheboygan,Sheboygan (55117),Sheboygan
+Trempealeau (55121),Wisconsin,55,702,LA CRSS-EAU CLR,55121,Trempealeau,Trempealeau (55121),Trempealeau
+Waukesha (55133),Wisconsin,55,617,MILWAUKEE,55133,Waukesha,Waukesha (55133),Waukesha
+Vernon (55123),Wisconsin,55,702,LA CRSS-EAU CLR,55123,Vernon,Vernon (55123),Vernon
+Washburn (55129),Wisconsin,55,613,MINEAPLS-ST. PL,55129,Washburn,Washburn (55129),Washburn
+Washington (55131),Wisconsin,55,617,MILWAUKEE,55131,Washington,Washington (55131),Washington
+Barron (55005),Wisconsin,55,613,MINEAPLS-ST. PL,55005,Barron,Barron (55005),Barron
+Buffalo (55011),Wisconsin,55,702,LA CRSS-EAU CLR,55011,Buffalo,Buffalo (55011),Buffalo
+Burnett (55013),Wisconsin,55,613,MINEAPLS-ST. PL,55013,Burnett,Burnett (55013),Burnett
+Kent (48263),Texas,48,651,LUBBOCK,48263,Kent,Kent (48263),Kent
+Terry (48445),Texas,48,651,LUBBOCK,48445,Terry,Terry (48445),Terry
+Hale (48189),Texas,48,651,LUBBOCK,48189,Hale,Hale (48189),Hale
+Lamb (48279),Texas,48,651,LUBBOCK,48279,Lamb,Lamb (48279),Lamb
+Motley (48345),Texas,48,651,LUBBOCK,48345,Motley,Motley (48345),Motley
+Webb (48479),Texas,48,749,LAREDO,48479,Webb,Webb (48479),Webb
+Hockley (48219),Texas,48,651,LUBBOCK,48219,Hockley,Hockley (48219),Hockley
+Yoakum (48501),Texas,48,651,LUBBOCK,48501,Yoakum,Yoakum (48501),Yoakum
+Lubbock (48303),Texas,48,651,LUBBOCK,48303,Lubbock,Lubbock (48303),Lubbock
+Lynn (48305),Texas,48,651,LUBBOCK,48305,Lynn,Lynn (48305),Lynn
+Zapata (48505),Texas,48,749,LAREDO,48505,Zapata,Zapata (48505),Zapata

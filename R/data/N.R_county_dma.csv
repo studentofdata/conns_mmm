@@ -1,0 +1,538 @@
+Area Name,State Name,State Code,Media Market Code,Media Market Name,County Code,County Name,Area Name,Geography Name
+Yavapai (04025),Arizona,4,753,PHOENIX,4025,Yavapai,Yavapai (04025),Yavapai
+Apache (04001),Arizona,4,753,PHOENIX,4001,Apache,Apache (04001),Apache
+Coconino (04005),Arizona,4,753,PHOENIX,4005,Coconino,Coconino (04005),Coconino
+Gila (04007),Arizona,4,753,PHOENIX,4007,Gila,Gila (04007),Gila
+Graham (04009),Arizona,4,753,PHOENIX,4009,Graham,Graham (04009),Graham
+Greenlee (04011),Arizona,4,753,PHOENIX,4011,Greenlee,Greenlee (04011),Greenlee
+La Paz (04012),Arizona,4,753,PHOENIX,4012,La Paz,La Paz (04012),La Paz
+Maricopa (04013),Arizona,4,753,PHOENIX,4013,Maricopa,Maricopa (04013),Maricopa
+Mohave (04015),Arizona,4,753,PHOENIX,4015,Mohave,Mohave (04015),Mohave
+Navajo (04017),Arizona,4,753,PHOENIX,4017,Navajo,Navajo (04017),Navajo
+Pinal (04021),Arizona,4,753,PHOENIX,4021,Pinal,Pinal (04021),Pinal
+Alpine (06003),California,6,811,RENO,6003,Alpine,Alpine (06003),Alpine
+El Dorado (06017),California,6,811,RENO,6017,El Dorado,El Dorado (06017),El Dorado
+Lassen (06035),California,6,811,RENO,6035,Lassen,Lassen (06035),Lassen
+Riverside (06065),California,6,803,LOS ANGELES,6065,Riverside,Riverside (06065),Riverside
+Mono (06051),California,6,811,RENO,6051,Mono,Mono (06051),Mono
+Fairfield (09001),Connecticut,9,501,NEW YORK,9001,Fairfield,Fairfield (09001),Fairfield
+Kent (10001),Delaware,10,504,PHILADELPHIA,10001,Kent,Kent (10001),Kent
+New Castle (10003),Delaware,10,504,PHILADELPHIA,10003,New Castle,New Castle (10003),New Castle
+Bay (12005),Florida,12,656,PANAMA CITY,12005,Bay,Bay (12005),Bay
+Brevard (12009),Florida,12,534,ORL-DYTN B-MLBN,12009,Brevard,Brevard (12009),Brevard
+Calhoun (12013),Florida,12,656,PANAMA CITY,12013,Calhoun,Calhoun (12013),Calhoun
+Flagler (12035),Florida,12,534,ORL-DYTN B-MLBN,12035,Flagler,Flagler (12035),Flagler
+Franklin (12037),Florida,12,656,PANAMA CITY,12037,Franklin,Franklin (12037),Franklin
+Gulf (12045),Florida,12,656,PANAMA CITY,12045,Gulf,Gulf (12045),Gulf
+Holmes (12059),Florida,12,656,PANAMA CITY,12059,Holmes,Holmes (12059),Holmes
+Jackson (12063),Florida,12,656,PANAMA CITY,12063,Jackson,Jackson (12063),Jackson
+Lake (12069),Florida,12,534,ORL-DYTN B-MLBN,12069,Lake,Lake (12069),Lake
+Liberty (12077),Florida,12,656,PANAMA CITY,12077,Liberty,Liberty (12077),Liberty
+Marion (12083),Florida,12,534,ORL-DYTN B-MLBN,12083,Marion,Marion (12083),Marion
+Walton (12131),Florida,12,656,PANAMA CITY,12131,Walton,Walton (12131),Walton
+Washington (12133),Florida,12,656,PANAMA CITY,12133,Washington,Washington (12133),Washington
+Orange (12095),Florida,12,534,ORL-DYTN B-MLBN,12095,Orange,Orange (12095),Orange
+Osceola (12097),Florida,12,534,ORL-DYTN B-MLBN,12097,Osceola,Osceola (12097),Osceola
+Seminole (12117),Florida,12,534,ORL-DYTN B-MLBN,12117,Seminole,Seminole (12117),Seminole
+Sumter (12119),Florida,12,534,ORL-DYTN B-MLBN,12119,Sumter,Sumter (12119),Sumter
+Volusia (12127),Florida,12,534,ORL-DYTN B-MLBN,12127,Volusia,Volusia (12127),Volusia
+Boone (17007),Illinois,17,610,ROCKFORD,17007,Boone,Boone (17007),Boone
+Brown (17009),Illinois,17,717,QUINCY-HBL-KEOK,17009,Brown,Brown (17009),Brown
+Adams (17001),Illinois,17,717,QUINCY-HBL-KEOK,17001,Adams,Adams (17001),Adams
+Alexander (17003),Illinois,17,632,PDCH-CG-HAR-MTV,17003,Alexander,Alexander (17003),Alexander
+Floyd (19067),Iowa,19,611,RCH-MASN CY-AUS,19067,Floyd,Floyd (19067),Floyd
+Lee (19111),Iowa,19,717,QUINCY-HBL-KEOK,19111,Lee,Lee (19111),Lee
+Mills (19129),Iowa,19,652,OMAHA,19129,Mills,Mills (19129),Mills
+Mitchell (19131),Iowa,19,611,RCH-MASN CY-AUS,19131,Mitchell,Mitchell (19131),Mitchell
+Montgomery (19137),Iowa,19,652,OMAHA,19137,Montgomery,Montgomery (19137),Montgomery
+Page (19145),Iowa,19,652,OMAHA,19145,Page,Page (19145),Page
+Pottawattamie (19155),Iowa,19,652,OMAHA,19155,Pottawattamie,Pottawattamie (19155),Pottawattamie
+Shelby (19165),Iowa,19,652,OMAHA,19165,Shelby,Shelby (19165),Shelby
+Van Buren (19177),Iowa,19,631,OTTUMWA-KIRKSVL,19177,Van Buren,Van Buren (19177),Van Buren
+Wapello (19179),Iowa,19,631,OTTUMWA-KIRKSVL,19179,Wapello,Wapello (19179),Wapello
+Winnebago (19189),Iowa,19,611,RCH-MASN CY-AUS,19189,Winnebago,Winnebago (19189),Winnebago
+Worth (19195),Iowa,19,611,RCH-MASN CY-AUS,19195,Worth,Worth (19195),Worth
+Fremont (19071),Iowa,19,652,OMAHA,19071,Fremont,Fremont (19071),Fremont
+Hancock (19081),Iowa,19,611,RCH-MASN CY-AUS,19081,Hancock,Hancock (19081),Hancock
+Harrison (19085),Iowa,19,652,OMAHA,19085,Harrison,Harrison (19085),Harrison
+Cass (19029),Iowa,19,652,OMAHA,19029,Cass,Cass (19029),Cass
+Cerro Gordo (19033),Iowa,19,611,RCH-MASN CY-AUS,19033,Cerro Gordo,Cerro Gordo (19033),Cerro Gordo
+Howard (19089),Iowa,19,611,RCH-MASN CY-AUS,19089,Howard,Howard (19089),Howard
+Crawford (19047),Iowa,19,652,OMAHA,19047,Crawford,Crawford (19047),Crawford
+Davis (19051),Iowa,19,631,OTTUMWA-KIRKSVL,19051,Davis,Davis (19051),Davis
+Jefferson (19101),Iowa,19,631,OTTUMWA-KIRKSVL,19101,Jefferson,Jefferson (19101),Jefferson
+Hancock (17067),Illinois,17,717,QUINCY-HBL-KEOK,17067,Hancock,Hancock (17067),Hancock
+Saline (17165),Illinois,17,632,PDCH-CG-HAR-MTV,17165,Saline,Saline (17165),Saline
+Schuyler (17169),Illinois,17,717,QUINCY-HBL-KEOK,17169,Schuyler,Schuyler (17169),Schuyler
+Scott (17171),Illinois,17,717,QUINCY-HBL-KEOK,17171,Scott,Scott (17171),Scott
+Stark (17175),Illinois,17,675,PEORIA-BLMINGTN,17175,Stark,Stark (17175),Stark
+Stephenson (17177),Illinois,17,610,ROCKFORD,17177,Stephenson,Stephenson (17177),Stephenson
+Tazewell (17179),Illinois,17,675,PEORIA-BLMINGTN,17179,Tazewell,Tazewell (17179),Tazewell
+Union (17181),Illinois,17,632,PDCH-CG-HAR-MTV,17181,Union,Union (17181),Union
+Williamson (17199),Illinois,17,632,PDCH-CG-HAR-MTV,17199,Williamson,Williamson (17199),Williamson
+Winnebago (17201),Illinois,17,610,ROCKFORD,17201,Winnebago,Winnebago (17201),Winnebago
+Woodford (17203),Illinois,17,675,PEORIA-BLMINGTN,17203,Woodford,Woodford (17203),Woodford
+Hardin (17069),Illinois,17,632,PDCH-CG-HAR-MTV,17069,Hardin,Hardin (17069),Hardin
+Marshall (17123),Illinois,17,675,PEORIA-BLMINGTN,17123,Marshall,Marshall (17123),Marshall
+Mason (17125),Illinois,17,675,PEORIA-BLMINGTN,17125,Mason,Mason (17125),Mason
+Massac (17127),Illinois,17,632,PDCH-CG-HAR-MTV,17127,Massac,Massac (17127),Massac
+Jackson (17077),Illinois,17,632,PDCH-CG-HAR-MTV,17077,Jackson,Jackson (17077),Jackson
+Lee (17103),Illinois,17,610,ROCKFORD,17103,Lee,Lee (17103),Lee
+Livingston (17105),Illinois,17,675,PEORIA-BLMINGTN,17105,Livingston,Livingston (17105),Livingston
+Jefferson (17081),Illinois,17,632,PDCH-CG-HAR-MTV,17081,Jefferson,Jefferson (17081),Jefferson
+McDonough (17109),Illinois,17,717,QUINCY-HBL-KEOK,17109,McDonough,McDonough (17109),McDonough
+Ogle (17141),Illinois,17,610,ROCKFORD,17141,Ogle,Ogle (17141),Ogle
+Franklin (17055),Illinois,17,632,PDCH-CG-HAR-MTV,17055,Franklin,Franklin (17055),Franklin
+McLean (17113),Illinois,17,675,PEORIA-BLMINGTN,17113,McLean,McLean (17113),McLean
+Peoria (17143),Illinois,17,675,PEORIA-BLMINGTN,17143,Peoria,Peoria (17143),Peoria
+Perry (17145),Illinois,17,632,PDCH-CG-HAR-MTV,17145,Perry,Perry (17145),Perry
+Fulton (17057),Illinois,17,675,PEORIA-BLMINGTN,17057,Fulton,Fulton (17057),Fulton
+Gallatin (17059),Illinois,17,632,PDCH-CG-HAR-MTV,17059,Gallatin,Gallatin (17059),Gallatin
+Johnson (17087),Illinois,17,632,PDCH-CG-HAR-MTV,17087,Johnson,Johnson (17087),Johnson
+Pike (17149),Illinois,17,717,QUINCY-HBL-KEOK,17149,Pike,Pike (17149),Pike
+Pope (17151),Illinois,17,632,PDCH-CG-HAR-MTV,17151,Pope,Pope (17151),Pope
+Pulaski (17153),Illinois,17,632,PDCH-CG-HAR-MTV,17153,Pulaski,Pulaski (17153),Pulaski
+Putnam (17155),Illinois,17,675,PEORIA-BLMINGTN,17155,Putnam,Putnam (17155),Putnam
+Hamilton (17065),Illinois,17,632,PDCH-CG-HAR-MTV,17065,Hamilton,Hamilton (17065),Hamilton
+Dodge (27039),Minnesota,27,611,RCH-MASN CY-AUS,27039,Dodge,Dodge (27039),Dodge
+Fillmore (27045),Minnesota,27,611,RCH-MASN CY-AUS,27045,Fillmore,Fillmore (27045),Fillmore
+Freeborn (27047),Minnesota,27,611,RCH-MASN CY-AUS,27047,Freeborn,Freeborn (27047),Freeborn
+Mower (27099),Minnesota,27,611,RCH-MASN CY-AUS,27099,Mower,Mower (27099),Mower
+Olmsted (27109),Minnesota,27,611,RCH-MASN CY-AUS,27109,Olmsted,Olmsted (27109),Olmsted
+Hancock (28045),Mississippi,28,622,NEW ORLEANS,28045,Hancock,Hancock (28045),Hancock
+Fulton (21075),Kentucky,21,632,PDCH-CG-HAR-MTV,21075,Fulton,Fulton (21075),Fulton
+Graves (21083),Kentucky,21,632,PDCH-CG-HAR-MTV,21083,Graves,Graves (21083),Graves
+Hickman (21105),Kentucky,21,632,PDCH-CG-HAR-MTV,21105,Hickman,Hickman (21105),Hickman
+Livingston (21139),Kentucky,21,632,PDCH-CG-HAR-MTV,21139,Livingston,Livingston (21139),Livingston
+Logan (21141),Kentucky,21,659,NASHVILLE,21141,Logan,Logan (21141),Logan
+Lyon (21143),Kentucky,21,632,PDCH-CG-HAR-MTV,21143,Lyon,Lyon (21143),Lyon
+McCracken (21145),Kentucky,21,632,PDCH-CG-HAR-MTV,21145,McCracken,McCracken (21145),McCracken
+Marshall (21157),Kentucky,21,632,PDCH-CG-HAR-MTV,21157,Marshall,Marshall (21157),Marshall
+Monroe (21171),Kentucky,21,659,NASHVILLE,21171,Monroe,Monroe (21171),Monroe
+Simpson (21213),Kentucky,21,659,NASHVILLE,21213,Simpson,Simpson (21213),Simpson
+Todd (21219),Kentucky,21,659,NASHVILLE,21219,Todd,Todd (21219),Todd
+Trigg (21221),Kentucky,21,659,NASHVILLE,21221,Trigg,Trigg (21221),Trigg
+Jefferson (22051),Louisiana,22,622,NEW ORLEANS,22051,Jefferson,Jefferson (22051),Jefferson
+Lafourche (22057),Louisiana,22,622,NEW ORLEANS,22057,Lafourche,Lafourche (22057),Lafourche
+Orleans (22071),Louisiana,22,622,NEW ORLEANS,22071,Orleans,Orleans (22071),Orleans
+Plaquemines (22075),Louisiana,22,622,NEW ORLEANS,22075,Plaquemines,Plaquemines (22075),Plaquemines
+St. Bernard (22087),Louisiana,22,622,NEW ORLEANS,22087,St. Bernard,St. Bernard (22087),St. Bernard
+St. Charles (22089),Louisiana,22,622,NEW ORLEANS,22089,St. Charles,St. Charles (22089),St. Charles
+St. James (22093),Louisiana,22,622,NEW ORLEANS,22093,St. James,St. James (22093),St. James
+St. John the Baptist (22095),Louisiana,22,622,NEW ORLEANS,22095,St. John the Baptist,St. John the Baptist (22095),St. John the Baptist
+St. Tammany (22103),Louisiana,22,622,NEW ORLEANS,22103,St. Tammany,St. Tammany (22103),St. Tammany
+Tangipahoa (22105),Louisiana,22,622,NEW ORLEANS,22105,Tangipahoa,Tangipahoa (22105),Tangipahoa
+Terrebonne (22109),Louisiana,22,622,NEW ORLEANS,22109,Terrebonne,Terrebonne (22109),Terrebonne
+Washington (22117),Louisiana,22,622,NEW ORLEANS,22117,Washington,Washington (22117),Washington
+Androscoggin (23001),Maine,23,500,PORTLAND-AUBURN,23001,Androscoggin,Androscoggin (23001),Androscoggin
+Aroostook (23003),Maine,23,552,PRESQUE ISLE,23003,Aroostook,Aroostook (23003),Aroostook
+Cumberland (23005),Maine,23,500,PORTLAND-AUBURN,23005,Cumberland,Cumberland (23005),Cumberland
+Franklin (23007),Maine,23,500,PORTLAND-AUBURN,23007,Franklin,Franklin (23007),Franklin
+Kennebec (23011),Maine,23,500,PORTLAND-AUBURN,23011,Kennebec,Kennebec (23011),Kennebec
+Knox (23013),Maine,23,500,PORTLAND-AUBURN,23013,Knox,Knox (23013),Knox
+Lincoln (23015),Maine,23,500,PORTLAND-AUBURN,23015,Lincoln,Lincoln (23015),Lincoln
+Oxford (23017),Maine,23,500,PORTLAND-AUBURN,23017,Oxford,Oxford (23017),Oxford
+Sagadahoc (23023),Maine,23,500,PORTLAND-AUBURN,23023,Sagadahoc,Sagadahoc (23023),Sagadahoc
+York (23031),Maine,23,500,PORTLAND-AUBURN,23031,York,York (23031),York
+Garrett (24023),Maryland,24,508,PITTSBURGH,24023,Garrett,Garrett (24023),Garrett
+Bristol (25005),Massachusetts,25,521,PROVIDNC-N. BED,25005,Bristol,Bristol (25005),Bristol
+Allen (21003),Kentucky,21,659,NASHVILLE,21003,Allen,Allen (21003),Allen
+Ballard (21007),Kentucky,21,632,PDCH-CG-HAR-MTV,21007,Ballard,Ballard (21007),Ballard
+Caldwell (21033),Kentucky,21,632,PDCH-CG-HAR-MTV,21033,Caldwell,Caldwell (21033),Caldwell
+Calloway (21035),Kentucky,21,632,PDCH-CG-HAR-MTV,21035,Calloway,Calloway (21035),Calloway
+Carlisle (21039),Kentucky,21,632,PDCH-CG-HAR-MTV,21039,Carlisle,Carlisle (21039),Carlisle
+Christian (21047),Kentucky,21,659,NASHVILLE,21047,Christian,Christian (21047),Christian
+Clinton (21053),Kentucky,21,659,NASHVILLE,21053,Clinton,Clinton (21053),Clinton
+Crittenden (21055),Kentucky,21,632,PDCH-CG-HAR-MTV,21055,Crittenden,Crittenden (21055),Crittenden
+Cumberland (21057),Kentucky,21,659,NASHVILLE,21057,Cumberland,Cumberland (21057),Cumberland
+Johnson (31097),Nebraska,31,652,OMAHA,31097,Johnson,Johnson (31097),Johnson
+Lincoln (31111),Nebraska,31,740,NORTH PLATTE,31111,Lincoln,Lincoln (31111),Lincoln
+Logan (31113),Nebraska,31,740,NORTH PLATTE,31113,Logan,Logan (31113),Logan
+McPherson (31117),Nebraska,31,740,NORTH PLATTE,31117,McPherson,McPherson (31117),McPherson
+Nemaha (31127),Nebraska,31,652,OMAHA,31127,Nemaha,Nemaha (31127),Nemaha
+Otoe (31131),Nebraska,31,652,OMAHA,31131,Otoe,Otoe (31131),Otoe
+Platte (31141),Nebraska,31,652,OMAHA,31141,Platte,Platte (31141),Platte
+Richardson (31147),Nebraska,31,652,OMAHA,31147,Richardson,Richardson (31147),Richardson
+Sarpy (31153),Nebraska,31,652,OMAHA,31153,Sarpy,Sarpy (31153),Sarpy
+Saunders (31155),Nebraska,31,652,OMAHA,31155,Saunders,Saunders (31155),Saunders
+Thomas (31171),Nebraska,31,740,NORTH PLATTE,31171,Thomas,Thomas (31171),Thomas
+Humboldt (32013),Nevada,32,811,RENO,32013,Humboldt,Humboldt (32013),Humboldt
+Lander (32015),Nevada,32,811,RENO,32015,Lander,Lander (32015),Lander
+Mineral (32021),Nevada,32,811,RENO,32021,Mineral,Mineral (32021),Mineral
+Washington (31177),Nebraska,31,652,OMAHA,31177,Washington,Washington (31177),Washington
+Churchill (32001),Nevada,32,811,RENO,32001,Churchill,Churchill (32001),Churchill
+Douglas (32005),Nevada,32,811,RENO,32005,Douglas,Douglas (32005),Douglas
+Esmeralda (32009),Nevada,32,811,RENO,32009,Esmeralda,Esmeralda (32009),Esmeralda
+Lyon (32019),Nevada,32,811,RENO,32019,Lyon,Lyon (32019),Lyon
+Colfax (31037),Nebraska,31,652,OMAHA,31037,Colfax,Colfax (31037),Colfax
+Cuming (31039),Nebraska,31,652,OMAHA,31039,Cuming,Cuming (31039),Cuming
+Carter (30011),Montana,30,764,RAPID CITY,30011,Carter,Carter (30011),Carter
+Banner (31007),Nebraska,31,764,RAPID CITY,31007,Banner,Banner (31007),Banner
+Blaine (31009),Nebraska,31,740,NORTH PLATTE,31009,Blaine,Blaine (31009),Blaine
+Burt (31021),Nebraska,31,652,OMAHA,31021,Burt,Burt (31021),Burt
+Cass (31025),Nebraska,31,652,OMAHA,31025,Cass,Cass (31025),Cass
+Dodge (31053),Nebraska,31,652,OMAHA,31053,Dodge,Dodge (31053),Dodge
+Douglas (31055),Nebraska,31,652,OMAHA,31055,Douglas,Douglas (31055),Douglas
+Butler (29023),Missouri,29,632,PDCH-CG-HAR-MTV,29023,Butler,Butler (29023),Butler
+Knox (29103),Missouri,29,717,QUINCY-HBL-KEOK,29103,Knox,Knox (29103),Knox
+Lewis (29111),Missouri,29,717,QUINCY-HBL-KEOK,29111,Lewis,Lewis (29111),Lewis
+Macon (29121),Missouri,29,631,OTTUMWA-KIRKSVL,29121,Macon,Macon (29121),Macon
+Madison (29123),Missouri,29,632,PDCH-CG-HAR-MTV,29123,Madison,Madison (29123),Madison
+Marion (29127),Missouri,29,717,QUINCY-HBL-KEOK,29127,Marion,Marion (29127),Marion
+Mississippi (29133),Missouri,29,632,PDCH-CG-HAR-MTV,29133,Mississippi,Mississippi (29133),Mississippi
+Monroe (29137),Missouri,29,717,QUINCY-HBL-KEOK,29137,Monroe,Monroe (29137),Monroe
+New Madrid (29143),Missouri,29,632,PDCH-CG-HAR-MTV,29143,New Madrid,New Madrid (29143),New Madrid
+Perry (29157),Missouri,29,632,PDCH-CG-HAR-MTV,29157,Perry,Perry (29157),Perry
+Putnam (29171),Missouri,29,631,OTTUMWA-KIRKSVL,29171,Putnam,Putnam (29171),Putnam
+Ralls (29173),Missouri,29,717,QUINCY-HBL-KEOK,29173,Ralls,Ralls (29173),Ralls
+Schuyler (29197),Missouri,29,631,OTTUMWA-KIRKSVL,29197,Schuyler,Schuyler (29197),Schuyler
+Scotland (29199),Missouri,29,631,OTTUMWA-KIRKSVL,29199,Scotland,Scotland (29199),Scotland
+Scott (29201),Missouri,29,632,PDCH-CG-HAR-MTV,29201,Scott,Scott (29201),Scott
+Shelby (29205),Missouri,29,717,QUINCY-HBL-KEOK,29205,Shelby,Shelby (29205),Shelby
+Stoddard (29207),Missouri,29,632,PDCH-CG-HAR-MTV,29207,Stoddard,Stoddard (29207),Stoddard
+Sullivan (29211),Missouri,29,631,OTTUMWA-KIRKSVL,29211,Sullivan,Sullivan (29211),Sullivan
+Wayne (29223),Missouri,29,632,PDCH-CG-HAR-MTV,29223,Wayne,Wayne (29223),Wayne
+Cape Girardeau (29031),Missouri,29,632,PDCH-CG-HAR-MTV,29031,Cape Girardeau,Cape Girardeau (29031),Cape Girardeau
+Carter (29035),Missouri,29,632,PDCH-CG-HAR-MTV,29035,Carter,Carter (29035),Carter
+Dunklin (29069),Missouri,29,632,PDCH-CG-HAR-MTV,29069,Dunklin,Dunklin (29069),Dunklin
+Adair (29001),Missouri,29,631,OTTUMWA-KIRKSVL,29001,Adair,Adair (29001),Adair
+Clark (29045),Missouri,29,717,QUINCY-HBL-KEOK,29045,Clark,Clark (29045),Clark
+Atchison (29005),Missouri,29,652,OMAHA,29005,Atchison,Atchison (29005),Atchison
+Pearl River (28109),Mississippi,28,622,NEW ORLEANS,28109,Pearl River,Pearl River (28109),Pearl River
+Bollinger (29017),Missouri,29,632,PDCH-CG-HAR-MTV,29017,Bollinger,Bollinger (29017),Bollinger
+Halifax (37083),North Carolina,37,560,RALEIGH-DUR(FY),37083,Halifax,Halifax (37083),Halifax
+Harnett (37085),North Carolina,37,560,RALEIGH-DUR(FY),37085,Harnett,Harnett (37085),Harnett
+Hertford (37091),North Carolina,37,544,NRFLK-PRT-NP NW,37091,Hertford,Hertford (37091),Hertford
+Hoke (37093),North Carolina,37,560,RALEIGH-DUR(FY),37093,Hoke,Hoke (37093),Hoke
+Johnston (37101),North Carolina,37,560,RALEIGH-DUR(FY),37101,Johnston,Johnston (37101),Johnston
+Lee (37105),North Carolina,37,560,RALEIGH-DUR(FY),37105,Lee,Lee (37105),Lee
+Moore (37125),North Carolina,37,560,RALEIGH-DUR(FY),37125,Moore,Moore (37125),Moore
+Nash (37127),North Carolina,37,560,RALEIGH-DUR(FY),37127,Nash,Nash (37127),Nash
+Northampton (37131),North Carolina,37,544,NRFLK-PRT-NP NW,37131,Northampton,Northampton (37131),Northampton
+Orange (37135),North Carolina,37,560,RALEIGH-DUR(FY),37135,Orange,Orange (37135),Orange
+Pasquotank (37139),North Carolina,37,544,NRFLK-PRT-NP NW,37139,Pasquotank,Pasquotank (37139),Pasquotank
+Perquimans (37143),North Carolina,37,544,NRFLK-PRT-NP NW,37143,Perquimans,Perquimans (37143),Perquimans
+Person (37145),North Carolina,37,560,RALEIGH-DUR(FY),37145,Person,Person (37145),Person
+Sampson (37163),North Carolina,37,560,RALEIGH-DUR(FY),37163,Sampson,Sampson (37163),Sampson
+Vance (37181),North Carolina,37,560,RALEIGH-DUR(FY),37181,Vance,Vance (37181),Vance
+Wake (37183),North Carolina,37,560,RALEIGH-DUR(FY),37183,Wake,Wake (37183),Wake
+Warren (37185),North Carolina,37,560,RALEIGH-DUR(FY),37185,Warren,Warren (37185),Warren
+Wayne (37191),North Carolina,37,560,RALEIGH-DUR(FY),37191,Wayne,Wayne (37191),Wayne
+Wilson (37195),North Carolina,37,560,RALEIGH-DUR(FY),37195,Wilson,Wilson (37195),Wilson
+Dutchess (36027),New York,36,501,NEW YORK,36027,Dutchess,Dutchess (36027),Dutchess
+Kings (36047),New York,36,501,NEW YORK,36047,Kings,Kings (36047),Kings
+Livingston (36051),New York,36,538,ROCHESTER  NY,36051,Livingston,Livingston (36051),Livingston
+Monroe (36055),New York,36,538,ROCHESTER  NY,36055,Monroe,Monroe (36055),Monroe
+Nassau (36059),New York,36,501,NEW YORK,36059,Nassau,Nassau (36059),Nassau
+New York (36061),New York,36,501,NEW YORK,36061,New York,New York (36061),New York
+Ontario (36069),New York,36,538,ROCHESTER  NY,36069,Ontario,Ontario (36069),Ontario
+Orange (36071),New York,36,501,NEW YORK,36071,Orange,Orange (36071),Orange
+Putnam (36079),New York,36,501,NEW YORK,36079,Putnam,Putnam (36079),Putnam
+Queens (36081),New York,36,501,NEW YORK,36081,Queens,Queens (36081),Queens
+Richmond (36085),New York,36,501,NEW YORK,36085,Richmond,Richmond (36085),Richmond
+Rockland (36087),New York,36,501,NEW YORK,36087,Rockland,Rockland (36087),Rockland
+Suffolk (36103),New York,36,501,NEW YORK,36103,Suffolk,Suffolk (36103),Suffolk
+Sullivan (36105),New York,36,501,NEW YORK,36105,Sullivan,Sullivan (36105),Sullivan
+Ulster (36111),New York,36,501,NEW YORK,36111,Ulster,Ulster (36111),Ulster
+Wayne (36117),New York,36,538,ROCHESTER  NY,36117,Wayne,Wayne (36117),Wayne
+Westchester (36119),New York,36,501,NEW YORK,36119,Westchester,Westchester (36119),Westchester
+Currituck (37053),North Carolina,37,544,NRFLK-PRT-NP NW,37053,Currituck,Currituck (37053),Currituck
+Dare (37055),North Carolina,37,544,NRFLK-PRT-NP NW,37055,Dare,Dare (37055),Dare
+Durham (37063),North Carolina,37,560,RALEIGH-DUR(FY),37063,Durham,Durham (37063),Durham
+Edgecombe (37065),North Carolina,37,560,RALEIGH-DUR(FY),37065,Edgecombe,Edgecombe (37065),Edgecombe
+Camden (37029),North Carolina,37,544,NRFLK-PRT-NP NW,37029,Camden,Camden (37029),Camden
+Cumberland (37051),North Carolina,37,560,RALEIGH-DUR(FY),37051,Cumberland,Cumberland (37051),Cumberland
+Franklin (37069),North Carolina,37,560,RALEIGH-DUR(FY),37069,Franklin,Franklin (37069),Franklin
+Gates (37073),North Carolina,37,544,NRFLK-PRT-NP NW,37073,Gates,Gates (37073),Gates
+Granville (37077),North Carolina,37,560,RALEIGH-DUR(FY),37077,Granville,Granville (37077),Granville
+Chatham (37037),North Carolina,37,560,RALEIGH-DUR(FY),37037,Chatham,Chatham (37037),Chatham
+Chowan (37041),North Carolina,37,544,NRFLK-PRT-NP NW,37041,Chowan,Chowan (37041),Chowan
+Pershing (32027),Nevada,32,811,RENO,32027,Pershing,Pershing (32027),Pershing
+Storey (32029),Nevada,32,811,RENO,32029,Storey,Storey (32029),Storey
+Washoe (32031),Nevada,32,811,RENO,32031,Washoe,Washoe (32031),Washoe
+Carson City (32510),Nevada,32,811,RENO,32510,Carson City,Carson City (32510),Carson City
+Carroll (33003),New Hampshire,33,500,PORTLAND-AUBURN,33003,Carroll,Carroll (33003),Carroll
+Coos (33007),New Hampshire,33,500,PORTLAND-AUBURN,33007,Coos,Coos (33007),Coos
+Atlantic (34001),New Jersey,34,504,PHILADELPHIA,34001,Atlantic,Atlantic (34001),Atlantic
+Bergen (34003),New Jersey,34,501,NEW YORK,34003,Bergen,Bergen (34003),Bergen
+Burlington (34005),New Jersey,34,504,PHILADELPHIA,34005,Burlington,Burlington (34005),Burlington
+Camden (34007),New Jersey,34,504,PHILADELPHIA,34007,Camden,Camden (34007),Camden
+Cape May (34009),New Jersey,34,504,PHILADELPHIA,34009,Cape May,Cape May (34009),Cape May
+Bronx (36005),New York,36,501,NEW YORK,36005,Bronx,Bronx (36005),Bronx
+Cumberland (34011),New Jersey,34,504,PHILADELPHIA,34011,Cumberland,Cumberland (34011),Cumberland
+Essex (34013),New Jersey,34,501,NEW YORK,34013,Essex,Essex (34013),Essex
+Gloucester (34015),New Jersey,34,504,PHILADELPHIA,34015,Gloucester,Gloucester (34015),Gloucester
+Hudson (34017),New Jersey,34,501,NEW YORK,34017,Hudson,Hudson (34017),Hudson
+Hunterdon (34019),New Jersey,34,501,NEW YORK,34019,Hunterdon,Hunterdon (34019),Hunterdon
+Mercer (34021),New Jersey,34,504,PHILADELPHIA,34021,Mercer,Mercer (34021),Mercer
+Middlesex (34023),New Jersey,34,501,NEW YORK,34023,Middlesex,Middlesex (34023),Middlesex
+Monmouth (34025),New Jersey,34,501,NEW YORK,34025,Monmouth,Monmouth (34025),Monmouth
+Morris (34027),New Jersey,34,501,NEW YORK,34027,Morris,Morris (34027),Morris
+Ocean (34029),New Jersey,34,501,NEW YORK,34029,Ocean,Ocean (34029),Ocean
+Passaic (34031),New Jersey,34,501,NEW YORK,34031,Passaic,Passaic (34031),Passaic
+Salem (34033),New Jersey,34,504,PHILADELPHIA,34033,Salem,Salem (34033),Salem
+Somerset (34035),New Jersey,34,501,NEW YORK,34035,Somerset,Somerset (34035),Somerset
+Sussex (34037),New Jersey,34,501,NEW YORK,34037,Sussex,Sussex (34037),Sussex
+Union (34039),New Jersey,34,501,NEW YORK,34039,Union,Union (34039),Union
+Warren (34041),New Jersey,34,501,NEW YORK,34041,Warren,Warren (34041),Warren
+Lea (35025),New Mexico,35,633,ODESSA-MIDLAND,35025,Lea,Lea (35025),Lea
+Bennett (46007),South Dakota,46,764,RAPID CITY,46007,Bennett,Bennett (46007),Bennett
+Fall River (46047),South Dakota,46,764,RAPID CITY,46047,Fall River,Fall River (46047),Fall River
+Perkins (46105),South Dakota,46,764,RAPID CITY,46105,Perkins,Perkins (46105),Perkins
+Cheatham (47021),Tennessee,47,659,NASHVILLE,47021,Cheatham,Cheatham (47021),Cheatham
+Clay (47027),Tennessee,47,659,NASHVILLE,47027,Clay,Clay (47027),Clay
+Coffee (47031),Tennessee,47,659,NASHVILLE,47031,Coffee,Coffee (47031),Coffee
+Davidson (47037),Tennessee,47,659,NASHVILLE,47037,Davidson,Davidson (47037),Davidson
+Decatur (47039),Tennessee,47,659,NASHVILLE,47039,Decatur,Decatur (47039),Decatur
+DeKalb (47041),Tennessee,47,659,NASHVILLE,47041,DeKalb,DeKalb (47041),DeKalb
+Dickson (47043),Tennessee,47,659,NASHVILLE,47043,Dickson,Dickson (47043),Dickson
+Franklin (47051),Tennessee,47,659,NASHVILLE,47051,Franklin,Franklin (47051),Franklin
+Giles (47055),Tennessee,47,659,NASHVILLE,47055,Giles,Giles (47055),Giles
+Henry (47079),Tennessee,47,659,NASHVILLE,47079,Henry,Henry (47079),Henry
+Hickman (47081),Tennessee,47,659,NASHVILLE,47081,Hickman,Hickman (47081),Hickman
+Houston (47083),Tennessee,47,659,NASHVILLE,47083,Houston,Houston (47083),Houston
+Humphreys (47085),Tennessee,47,659,NASHVILLE,47085,Humphreys,Humphreys (47085),Humphreys
+Jackson (47087),Tennessee,47,659,NASHVILLE,47087,Jackson,Jackson (47087),Jackson
+Lake (47095),Tennessee,47,632,PDCH-CG-HAR-MTV,47095,Lake,Lake (47095),Lake
+Lawrence (47099),Tennessee,47,659,NASHVILLE,47099,Lawrence,Lawrence (47099),Lawrence
+Lewis (47101),Tennessee,47,659,NASHVILLE,47101,Lewis,Lewis (47101),Lewis
+Macon (47111),Tennessee,47,659,NASHVILLE,47111,Macon,Macon (47111),Macon
+Marshall (47117),Tennessee,47,659,NASHVILLE,47117,Marshall,Marshall (47117),Marshall
+Maury (47119),Tennessee,47,659,NASHVILLE,47119,Maury,Maury (47119),Maury
+Montgomery (47125),Tennessee,47,659,NASHVILLE,47125,Montgomery,Montgomery (47125),Montgomery
+Moore (47127),Tennessee,47,659,NASHVILLE,47127,Moore,Moore (47127),Moore
+Obion (47131),Tennessee,47,632,PDCH-CG-HAR-MTV,47131,Obion,Obion (47131),Obion
+Overton (47133),Tennessee,47,659,NASHVILLE,47133,Overton,Overton (47133),Overton
+Perry (47135),Tennessee,47,659,NASHVILLE,47135,Perry,Perry (47135),Perry
+Pickett (47137),Tennessee,47,659,NASHVILLE,47137,Pickett,Pickett (47137),Pickett
+Putnam (47141),Tennessee,47,659,NASHVILLE,47141,Putnam,Putnam (47141),Putnam
+Robertson (47147),Tennessee,47,659,NASHVILLE,47147,Robertson,Robertson (47147),Robertson
+Rutherford (47149),Tennessee,47,659,NASHVILLE,47149,Rutherford,Rutherford (47149),Rutherford
+Smith (47159),Tennessee,47,659,NASHVILLE,47159,Smith,Smith (47159),Smith
+Stewart (47161),Tennessee,47,659,NASHVILLE,47161,Stewart,Stewart (47161),Stewart
+Sumner (47165),Tennessee,47,659,NASHVILLE,47165,Sumner,Sumner (47165),Sumner
+Trousdale (47169),Tennessee,47,659,NASHVILLE,47169,Trousdale,Trousdale (47169),Trousdale
+Van Buren (47175),Tennessee,47,659,NASHVILLE,47175,Van Buren,Van Buren (47175),Van Buren
+Warren (47177),Tennessee,47,659,NASHVILLE,47177,Warren,Warren (47177),Warren
+Wayne (47181),Tennessee,47,659,NASHVILLE,47181,Wayne,Wayne (47181),Wayne
+Weakley (47183),Tennessee,47,632,PDCH-CG-HAR-MTV,47183,Weakley,Weakley (47183),Weakley
+White (47185),Tennessee,47,659,NASHVILLE,47185,White,White (47185),White
+Williamson (47187),Tennessee,47,659,NASHVILLE,47187,Williamson,Williamson (47187),Williamson
+Wilson (47189),Tennessee,47,659,NASHVILLE,47189,Wilson,Wilson (47189),Wilson
+Andrews (48003),Texas,48,633,ODESSA-MIDLAND,48003,Andrews,Andrews (48003),Andrews
+Brewster (48043),Texas,48,633,ODESSA-MIDLAND,48043,Brewster,Brewster (48043),Brewster
+Crane (48103),Texas,48,633,ODESSA-MIDLAND,48103,Crane,Crane (48103),Crane
+Glasscock (48173),Texas,48,633,ODESSA-MIDLAND,48173,Glasscock,Glasscock (48173),Glasscock
+Ector (48135),Texas,48,633,ODESSA-MIDLAND,48135,Ector,Ector (48135),Ector
+Haakon (46055),South Dakota,46,764,RAPID CITY,46055,Haakon,Haakon (46055),Haakon
+Shannon (46113),South Dakota,46,764,RAPID CITY,46113,Shannon,Shannon (46113),Shannon
+Butte (46019),South Dakota,46,764,RAPID CITY,46019,Butte,Butte (46019),Butte
+Harding (46063),South Dakota,46,764,RAPID CITY,46063,Harding,Harding (46063),Harding
+Venango (42121),Pennsylvania,42,508,PITTSBURGH,42121,Venango,Venango (42121),Venango
+Washington (42125),Pennsylvania,42,508,PITTSBURGH,42125,Washington,Washington (42125),Washington
+Westmoreland (42129),Pennsylvania,42,508,PITTSBURGH,42129,Westmoreland,Westmoreland (42129),Westmoreland
+Jackson (46071),South Dakota,46,764,RAPID CITY,46071,Jackson,Jackson (46071),Jackson
+Jones (46075),South Dakota,46,764,RAPID CITY,46075,Jones,Jones (46075),Jones
+Bristol (44001),Rhode Island,44,521,PROVIDNC-N. BED,44001,Bristol,Bristol (44001),Bristol
+Kent (44003),Rhode Island,44,521,PROVIDNC-N. BED,44003,Kent,Kent (44003),Kent
+Lawrence (46081),South Dakota,46,764,RAPID CITY,46081,Lawrence,Lawrence (46081),Lawrence
+Newport (44005),Rhode Island,44,521,PROVIDNC-N. BED,44005,Newport,Newport (44005),Newport
+Providence (44007),Rhode Island,44,521,PROVIDNC-N. BED,44007,Providence,Providence (44007),Providence
+Washington (44009),Rhode Island,44,521,PROVIDNC-N. BED,44009,Washington,Washington (44009),Washington
+Custer (46033),South Dakota,46,764,RAPID CITY,46033,Custer,Custer (46033),Custer
+Meade (46093),South Dakota,46,764,RAPID CITY,46093,Meade,Meade (46093),Meade
+Ziebach (46137),South Dakota,46,764,RAPID CITY,46137,Ziebach,Ziebach (46137),Ziebach
+Bedford (47003),Tennessee,47,659,NASHVILLE,47003,Bedford,Bedford (47003),Bedford
+Benton (47005),Tennessee,47,659,NASHVILLE,47005,Benton,Benton (47005),Benton
+Cannon (47015),Tennessee,47,659,NASHVILLE,47015,Cannon,Cannon (47015),Cannon
+Pennington (46103),South Dakota,46,764,RAPID CITY,46103,Pennington,Pennington (46103),Pennington
+Cleveland (40027),Oklahoma,40,650,OKLAHOMA CITY,40027,Cleveland,Cleveland (40027),Cleveland
+Oklahoma (40109),Oklahoma,40,650,OKLAHOMA CITY,40109,Oklahoma,Oklahoma (40109),Oklahoma
+Payne (40119),Oklahoma,40,650,OKLAHOMA CITY,40119,Payne,Payne (40119),Payne
+Pottawatomie (40125),Oklahoma,40,650,OKLAHOMA CITY,40125,Pottawatomie,Pottawatomie (40125),Pottawatomie
+Roger Mills (40129),Oklahoma,40,650,OKLAHOMA CITY,40129,Roger Mills,Roger Mills (40129),Roger Mills
+Seminole (40133),Oklahoma,40,650,OKLAHOMA CITY,40133,Seminole,Seminole (40133),Seminole
+Washita (40149),Oklahoma,40,650,OKLAHOMA CITY,40149,Washita,Washita (40149),Washita
+Woods (40151),Oklahoma,40,650,OKLAHOMA CITY,40151,Woods,Woods (40151),Woods
+Woodward (40153),Oklahoma,40,650,OKLAHOMA CITY,40153,Woodward,Woodward (40153),Woodward
+Baker (41001),Oregon,41,820,PORTLAND  OR,41001,Baker,Baker (41001),Baker
+Clackamas (41005),Oregon,41,820,PORTLAND  OR,41005,Clackamas,Clackamas (41005),Clackamas
+Clatsop (41007),Oregon,41,820,PORTLAND  OR,41007,Clatsop,Clatsop (41007),Clatsop
+Columbia (41009),Oregon,41,820,PORTLAND  OR,41009,Columbia,Columbia (41009),Columbia
+Crook (41013),Oregon,41,820,PORTLAND  OR,41013,Crook,Crook (41013),Crook
+Gilliam (41021),Oregon,41,820,PORTLAND  OR,41021,Gilliam,Gilliam (41021),Gilliam
+Grant (41023),Oregon,41,820,PORTLAND  OR,41023,Grant,Grant (41023),Grant
+Harney (41025),Oregon,41,820,PORTLAND  OR,41025,Harney,Harney (41025),Harney
+Hood River (41027),Oregon,41,820,PORTLAND  OR,41027,Hood River,Hood River (41027),Hood River
+Jefferson (41031),Oregon,41,820,PORTLAND  OR,41031,Jefferson,Jefferson (41031),Jefferson
+Lincoln (41041),Oregon,41,820,PORTLAND  OR,41041,Lincoln,Lincoln (41041),Lincoln
+Linn (41043),Oregon,41,820,PORTLAND  OR,41043,Linn,Linn (41043),Linn
+Marion (41047),Oregon,41,820,PORTLAND  OR,41047,Marion,Marion (41047),Marion
+Multnomah (41051),Oregon,41,820,PORTLAND  OR,41051,Multnomah,Multnomah (41051),Multnomah
+Polk (41053),Oregon,41,820,PORTLAND  OR,41053,Polk,Polk (41053),Polk
+Sherman (41055),Oregon,41,820,PORTLAND  OR,41055,Sherman,Sherman (41055),Sherman
+Tillamook (41057),Oregon,41,820,PORTLAND  OR,41057,Tillamook,Tillamook (41057),Tillamook
+Union (41061),Oregon,41,820,PORTLAND  OR,41061,Union,Union (41061),Union
+Wasco (41065),Oregon,41,820,PORTLAND  OR,41065,Wasco,Wasco (41065),Wasco
+Washington (41067),Oregon,41,820,PORTLAND  OR,41067,Washington,Washington (41067),Washington
+Wheeler (41069),Oregon,41,820,PORTLAND  OR,41069,Wheeler,Wheeler (41069),Wheeler
+Yamhill (41071),Oregon,41,820,PORTLAND  OR,41071,Yamhill,Yamhill (41071),Yamhill
+Allegheny (42003),Pennsylvania,42,508,PITTSBURGH,42003,Allegheny,Allegheny (42003),Allegheny
+Armstrong (42005),Pennsylvania,42,508,PITTSBURGH,42005,Armstrong,Armstrong (42005),Armstrong
+Beaver (42007),Pennsylvania,42,508,PITTSBURGH,42007,Beaver,Beaver (42007),Beaver
+Berks (42011),Pennsylvania,42,504,PHILADELPHIA,42011,Berks,Berks (42011),Berks
+Bucks (42017),Pennsylvania,42,504,PHILADELPHIA,42017,Bucks,Bucks (42017),Bucks
+Butler (42019),Pennsylvania,42,508,PITTSBURGH,42019,Butler,Butler (42019),Butler
+Chester (42029),Pennsylvania,42,504,PHILADELPHIA,42029,Chester,Chester (42029),Chester
+Clarion (42031),Pennsylvania,42,508,PITTSBURGH,42031,Clarion,Clarion (42031),Clarion
+Delaware (42045),Pennsylvania,42,504,PHILADELPHIA,42045,Delaware,Delaware (42045),Delaware
+Fayette (42051),Pennsylvania,42,508,PITTSBURGH,42051,Fayette,Fayette (42051),Fayette
+Montgomery (42091),Pennsylvania,42,504,PHILADELPHIA,42091,Montgomery,Montgomery (42091),Montgomery
+Northampton (42095),Pennsylvania,42,504,PHILADELPHIA,42095,Northampton,Northampton (42095),Northampton
+Philadelphia (42101),Pennsylvania,42,504,PHILADELPHIA,42101,Philadelphia,Philadelphia (42101),Philadelphia
+Pike (42103),Pennsylvania,42,501,NEW YORK,42103,Pike,Pike (42103),Pike
+Forest (42053),Pennsylvania,42,508,PITTSBURGH,42053,Forest,Forest (42053),Forest
+Greene (42059),Pennsylvania,42,508,PITTSBURGH,42059,Greene,Greene (42059),Greene
+Indiana (42063),Pennsylvania,42,508,PITTSBURGH,42063,Indiana,Indiana (42063),Indiana
+Lehigh (42077),Pennsylvania,42,504,PHILADELPHIA,42077,Lehigh,Lehigh (42077),Lehigh
+Lawrence (42073),Pennsylvania,42,508,PITTSBURGH,42073,Lawrence,Lawrence (42073),Lawrence
+Alfalfa (40003),Oklahoma,40,650,OKLAHOMA CITY,40003,Alfalfa,Alfalfa (40003),Alfalfa
+Kay (40071),Oklahoma,40,650,OKLAHOMA CITY,40071,Kay,Kay (40071),Kay
+Custer (40039),Oklahoma,40,650,OKLAHOMA CITY,40039,Custer,Custer (40039),Custer
+Kingfisher (40073),Oklahoma,40,650,OKLAHOMA CITY,40073,Kingfisher,Kingfisher (40073),Kingfisher
+Kiowa (40075),Oklahoma,40,650,OKLAHOMA CITY,40075,Kiowa,Kiowa (40075),Kiowa
+Dewey (40043),Oklahoma,40,650,OKLAHOMA CITY,40043,Dewey,Dewey (40043),Dewey
+Ellis (40045),Oklahoma,40,650,OKLAHOMA CITY,40045,Ellis,Ellis (40045),Ellis
+Lincoln (40081),Oklahoma,40,650,OKLAHOMA CITY,40081,Lincoln,Lincoln (40081),Lincoln
+Beckham (40009),Oklahoma,40,650,OKLAHOMA CITY,40009,Beckham,Beckham (40009),Beckham
+Blaine (40011),Oklahoma,40,650,OKLAHOMA CITY,40011,Blaine,Blaine (40011),Blaine
+Garfield (40047),Oklahoma,40,650,OKLAHOMA CITY,40047,Garfield,Garfield (40047),Garfield
+Garvin (40049),Oklahoma,40,650,OKLAHOMA CITY,40049,Garvin,Garvin (40049),Garvin
+Grady (40051),Oklahoma,40,650,OKLAHOMA CITY,40051,Grady,Grady (40051),Grady
+Grant (40053),Oklahoma,40,650,OKLAHOMA CITY,40053,Grant,Grant (40053),Grant
+Greer (40055),Oklahoma,40,650,OKLAHOMA CITY,40055,Greer,Greer (40055),Greer
+Logan (40083),Oklahoma,40,650,OKLAHOMA CITY,40083,Logan,Logan (40083),Logan
+McClain (40087),Oklahoma,40,650,OKLAHOMA CITY,40087,McClain,McClain (40087),McClain
+Caddo (40015),Oklahoma,40,650,OKLAHOMA CITY,40015,Caddo,Caddo (40015),Caddo
+Canadian (40017),Oklahoma,40,650,OKLAHOMA CITY,40017,Canadian,Canadian (40017),Canadian
+Harmon (40057),Oklahoma,40,650,OKLAHOMA CITY,40057,Harmon,Harmon (40057),Harmon
+Major (40093),Oklahoma,40,650,OKLAHOMA CITY,40093,Major,Major (40093),Major
+Harper (40059),Oklahoma,40,650,OKLAHOMA CITY,40059,Harper,Harper (40059),Harper
+Murray (40099),Oklahoma,40,650,OKLAHOMA CITY,40099,Murray,Murray (40099),Murray
+Hughes (40063),Oklahoma,40,650,OKLAHOMA CITY,40063,Hughes,Hughes (40063),Hughes
+Noble (40103),Oklahoma,40,650,OKLAHOMA CITY,40103,Noble,Noble (40103),Noble
+Washington (39167),Ohio,39,597,PARKERSBURG,39167,Washington,Washington (39167),Washington
+Williamsburg (51830),Virginia,51,544,NRFLK-PRT-NP NW,51830,Williamsburg,Williamsburg (51830),Williamsburg
+Monongalia (54061),West Virginia,54,508,PITTSBURGH,54061,Monongalia,Monongalia (54061),Monongalia
+Pleasants (54073),West Virginia,54,597,PARKERSBURG,54073,Pleasants,Pleasants (54073),Pleasants
+Norfolk (51710),Virginia,51,544,NRFLK-PRT-NP NW,51710,Norfolk,Norfolk (51710),Norfolk
+Skamania (53059),Washington,53,820,PORTLAND  OR,53059,Skamania,Skamania (53059),Skamania
+Preston (54077),West Virginia,54,508,PITTSBURGH,54077,Preston,Preston (54077),Preston
+Petersburg (51730),Virginia,51,556,RICHMOND-PTRSBG,51730,Petersburg,Petersburg (51730),Petersburg
+Poquoson (51735),Virginia,51,544,NRFLK-PRT-NP NW,51735,Poquoson,Poquoson (51735),Poquoson
+Clark (53011),Washington,53,820,PORTLAND  OR,53011,Clark,Clark (53011),Clark
+Wahkiakum (53069),Washington,53,820,PORTLAND  OR,53069,Wahkiakum,Wahkiakum (53069),Wahkiakum
+Portsmouth (51740),Virginia,51,544,NRFLK-PRT-NP NW,51740,Portsmouth,Portsmouth (51740),Portsmouth
+Radford (51750),Virginia,51,573,ROANOKE-LNCHBRG,51750,Radford,Radford (51750),Radford
+Richmond (51760),Virginia,51,556,RICHMOND-PTRSBG,51760,Richmond,Richmond (51760),Richmond
+Roanoke (51770),Virginia,51,573,ROANOKE-LNCHBRG,51770,Roanoke,Roanoke (51770),Roanoke
+Cowlitz (53015),Washington,53,820,PORTLAND  OR,53015,Cowlitz,Cowlitz (53015),Cowlitz
+Wood (54107),West Virginia,54,597,PARKERSBURG,54107,Wood,Wood (54107),Wood
+Salem (51775),Virginia,51,573,ROANOKE-LNCHBRG,51775,Salem,Salem (51775),Salem
+Klickitat (53039),Washington,53,820,PORTLAND  OR,53039,Klickitat,Klickitat (53039),Klickitat
+Suffolk (51800),Virginia,51,544,NRFLK-PRT-NP NW,51800,Suffolk,Suffolk (51800),Suffolk
+Virginia Beach (51810),Virginia,51,544,NRFLK-PRT-NP NW,51810,Virginia Beach,Virginia Beach (51810),Virginia Beach
+Martin (48317),Texas,48,633,ODESSA-MIDLAND,48317,Martin,Martin (48317),Martin
+Accomack (51001),Virginia,51,544,NRFLK-PRT-NP NW,51001,Accomack,Accomack (51001),Accomack
+Alleghany (51005),Virginia,51,573,ROANOKE-LNCHBRG,51005,Alleghany,Alleghany (51005),Alleghany
+Amelia (51007),Virginia,51,556,RICHMOND-PTRSBG,51007,Amelia,Amelia (51007),Amelia
+Amherst (51009),Virginia,51,573,ROANOKE-LNCHBRG,51009,Amherst,Amherst (51009),Amherst
+Appomattox (51011),Virginia,51,573,ROANOKE-LNCHBRG,51011,Appomattox,Appomattox (51011),Appomattox
+Bath (51017),Virginia,51,573,ROANOKE-LNCHBRG,51017,Bath,Bath (51017),Bath
+Bedford (51019),Virginia,51,573,ROANOKE-LNCHBRG,51019,Bedford,Bedford (51019),Bedford
+Bland (51021),Virginia,51,573,ROANOKE-LNCHBRG,51021,Bland,Bland (51021),Bland
+Botetourt (51023),Virginia,51,573,ROANOKE-LNCHBRG,51023,Botetourt,Botetourt (51023),Botetourt
+Brunswick (51025),Virginia,51,556,RICHMOND-PTRSBG,51025,Brunswick,Brunswick (51025),Brunswick
+Buckingham (51029),Virginia,51,556,RICHMOND-PTRSBG,51029,Buckingham,Buckingham (51029),Buckingham
+Campbell (51031),Virginia,51,573,ROANOKE-LNCHBRG,51031,Campbell,Campbell (51031),Campbell
+Caroline (51033),Virginia,51,556,RICHMOND-PTRSBG,51033,Caroline,Caroline (51033),Caroline
+Carroll (51035),Virginia,51,573,ROANOKE-LNCHBRG,51035,Carroll,Carroll (51035),Carroll
+Charles City (51036),Virginia,51,556,RICHMOND-PTRSBG,51036,Charles City,Charles City (51036),Charles City
+Charlotte (51037),Virginia,51,573,ROANOKE-LNCHBRG,51037,Charlotte,Charlotte (51037),Charlotte
+Chesterfield (51041),Virginia,51,556,RICHMOND-PTRSBG,51041,Chesterfield,Chesterfield (51041),Chesterfield
+Craig (51045),Virginia,51,573,ROANOKE-LNCHBRG,51045,Craig,Craig (51045),Craig
+Cumberland (51049),Virginia,51,556,RICHMOND-PTRSBG,51049,Cumberland,Cumberland (51049),Cumberland
+Dinwiddie (51053),Virginia,51,556,RICHMOND-PTRSBG,51053,Dinwiddie,Dinwiddie (51053),Dinwiddie
+Essex (51057),Virginia,51,556,RICHMOND-PTRSBG,51057,Essex,Essex (51057),Essex
+Floyd (51063),Virginia,51,573,ROANOKE-LNCHBRG,51063,Floyd,Floyd (51063),Floyd
+Franklin (51067),Virginia,51,573,ROANOKE-LNCHBRG,51067,Franklin,Franklin (51067),Franklin
+Giles (51071),Virginia,51,573,ROANOKE-LNCHBRG,51071,Giles,Giles (51071),Giles
+Gloucester (51073),Virginia,51,544,NRFLK-PRT-NP NW,51073,Gloucester,Gloucester (51073),Gloucester
+Goochland (51075),Virginia,51,556,RICHMOND-PTRSBG,51075,Goochland,Goochland (51075),Goochland
+Grayson (51077),Virginia,51,573,ROANOKE-LNCHBRG,51077,Grayson,Grayson (51077),Grayson
+Greensville (51081),Virginia,51,556,RICHMOND-PTRSBG,51081,Greensville,Greensville (51081),Greensville
+Halifax (51083),Virginia,51,573,ROANOKE-LNCHBRG,51083,Halifax,Halifax (51083),Halifax
+Hanover (51085),Virginia,51,556,RICHMOND-PTRSBG,51085,Hanover,Hanover (51085),Hanover
+Henrico (51087),Virginia,51,556,RICHMOND-PTRSBG,51087,Henrico,Henrico (51087),Henrico
+Henry (51089),Virginia,51,573,ROANOKE-LNCHBRG,51089,Henry,Henry (51089),Henry
+Highland (51091),Virginia,51,573,ROANOKE-LNCHBRG,51091,Highland,Highland (51091),Highland
+Isle of Wight (51093),Virginia,51,544,NRFLK-PRT-NP NW,51093,Isle of Wight,Isle of Wight (51093),Isle of Wight
+James City (51095),Virginia,51,544,NRFLK-PRT-NP NW,51095,James City,James City (51095),James City
+King and Queen (51097),Virginia,51,556,RICHMOND-PTRSBG,51097,King and Queen,King and Queen (51097),King and Queen
+King William (51101),Virginia,51,556,RICHMOND-PTRSBG,51101,King William,King William (51101),King William
+Lancaster (51103),Virginia,51,556,RICHMOND-PTRSBG,51103,Lancaster,Lancaster (51103),Lancaster
+Louisa (51109),Virginia,51,556,RICHMOND-PTRSBG,51109,Louisa,Louisa (51109),Louisa
+Lunenburg (51111),Virginia,51,556,RICHMOND-PTRSBG,51111,Lunenburg,Lunenburg (51111),Lunenburg
+Mathews (51115),Virginia,51,544,NRFLK-PRT-NP NW,51115,Mathews,Mathews (51115),Mathews
+Mecklenburg (51117),Virginia,51,560,RALEIGH-DUR(FY),51117,Mecklenburg,Mecklenburg (51117),Mecklenburg
+Middlesex (51119),Virginia,51,556,RICHMOND-PTRSBG,51119,Middlesex,Middlesex (51119),Middlesex
+Montgomery (51121),Virginia,51,573,ROANOKE-LNCHBRG,51121,Montgomery,Montgomery (51121),Montgomery
+Nelson (51125),Virginia,51,573,ROANOKE-LNCHBRG,51125,Nelson,Nelson (51125),Nelson
+New Kent (51127),Virginia,51,556,RICHMOND-PTRSBG,51127,New Kent,New Kent (51127),New Kent
+Northampton (51131),Virginia,51,544,NRFLK-PRT-NP NW,51131,Northampton,Northampton (51131),Northampton
+Northumberland (51133),Virginia,51,556,RICHMOND-PTRSBG,51133,Northumberland,Northumberland (51133),Northumberland
+Nottoway (51135),Virginia,51,556,RICHMOND-PTRSBG,51135,Nottoway,Nottoway (51135),Nottoway
+Pittsylvania (51143),Virginia,51,573,ROANOKE-LNCHBRG,51143,Pittsylvania,Pittsylvania (51143),Pittsylvania
+Powhatan (51145),Virginia,51,556,RICHMOND-PTRSBG,51145,Powhatan,Powhatan (51145),Powhatan
+Prince Edward (51147),Virginia,51,556,RICHMOND-PTRSBG,51147,Prince Edward,Prince Edward (51147),Prince Edward
+Prince George (51149),Virginia,51,556,RICHMOND-PTRSBG,51149,Prince George,Prince George (51149),Prince George
+Pulaski (51155),Virginia,51,573,ROANOKE-LNCHBRG,51155,Pulaski,Pulaski (51155),Pulaski
+Richmond (51159),Virginia,51,556,RICHMOND-PTRSBG,51159,Richmond,Richmond (51159),Richmond
+Roanoke (51161),Virginia,51,573,ROANOKE-LNCHBRG,51161,Roanoke,Roanoke (51161),Roanoke
+Rockbridge (51163),Virginia,51,573,ROANOKE-LNCHBRG,51163,Rockbridge,Rockbridge (51163),Rockbridge
+Southampton (51175),Virginia,51,544,NRFLK-PRT-NP NW,51175,Southampton,Southampton (51175),Southampton
+Surry (51181),Virginia,51,544,NRFLK-PRT-NP NW,51181,Surry,Surry (51181),Surry
+Sussex (51183),Virginia,51,556,RICHMOND-PTRSBG,51183,Sussex,Sussex (51183),Sussex
+Wythe (51197),Virginia,51,573,ROANOKE-LNCHBRG,51197,Wythe,Wythe (51197),Wythe
+York (51199),Virginia,51,544,NRFLK-PRT-NP NW,51199,York,York (51199),York
+Bedford (51515),Virginia,51,573,ROANOKE-LNCHBRG,51515,Bedford,Bedford (51515),Bedford
+Buena Vista (51530),Virginia,51,573,ROANOKE-LNCHBRG,51530,Buena Vista,Buena Vista (51530),Buena Vista
+Chesapeake (51550),Virginia,51,544,NRFLK-PRT-NP NW,51550,Chesapeake,Chesapeake (51550),Chesapeake
+Colonial Heights (51570),Virginia,51,556,RICHMOND-PTRSBG,51570,Colonial Heights,Colonial Heights (51570),Colonial Heights
+Covington (51580),Virginia,51,573,ROANOKE-LNCHBRG,51580,Covington,Covington (51580),Covington
+Danville (51590),Virginia,51,573,ROANOKE-LNCHBRG,51590,Danville,Danville (51590),Danville
+Emporia (51595),Virginia,51,556,RICHMOND-PTRSBG,51595,Emporia,Emporia (51595),Emporia
+Franklin (51620),Virginia,51,544,NRFLK-PRT-NP NW,51620,Franklin,Franklin (51620),Franklin
+Martinsville (51690),Virginia,51,573,ROANOKE-LNCHBRG,51690,Martinsville,Martinsville (51690),Martinsville
+Galax (51640),Virginia,51,573,ROANOKE-LNCHBRG,51640,Galax,Galax (51640),Galax
+Hampton (51650),Virginia,51,544,NRFLK-PRT-NP NW,51650,Hampton,Hampton (51650),Hampton
+Lexington (51678),Virginia,51,573,ROANOKE-LNCHBRG,51678,Lexington,Lexington (51678),Lexington
+Lynchburg (51680),Virginia,51,573,ROANOKE-LNCHBRG,51680,Lynchburg,Lynchburg (51680),Lynchburg
+Newport News (51700),Virginia,51,544,NRFLK-PRT-NP NW,51700,Newport News,Newport News (51700),Newport News
+Hopewell (51670),Virginia,51,556,RICHMOND-PTRSBG,51670,Hopewell,Hopewell (51670),Hopewell
+Midland (48329),Texas,48,633,ODESSA-MIDLAND,48329,Midland,Midland (48329),Midland
+Terrell (48443),Texas,48,633,ODESSA-MIDLAND,48443,Terrell,Terrell (48443),Terrell
+Upton (48461),Texas,48,633,ODESSA-MIDLAND,48461,Upton,Upton (48461),Upton
+Pecos (48371),Texas,48,633,ODESSA-MIDLAND,48371,Pecos,Pecos (48371),Pecos
+Ward (48475),Texas,48,633,ODESSA-MIDLAND,48475,Ward,Ward (48475),Ward
+Howard (48227),Texas,48,633,ODESSA-MIDLAND,48227,Howard,Howard (48227),Howard
+Presidio (48377),Texas,48,633,ODESSA-MIDLAND,48377,Presidio,Presidio (48377),Presidio
+Reagan (48383),Texas,48,633,ODESSA-MIDLAND,48383,Reagan,Reagan (48383),Reagan
+Reeves (48389),Texas,48,633,ODESSA-MIDLAND,48389,Reeves,Reeves (48389),Reeves
+Winkler (48495),Texas,48,633,ODESSA-MIDLAND,48495,Winkler,Winkler (48495),Winkler
+Jeff Davis (48243),Texas,48,633,ODESSA-MIDLAND,48243,Jeff Davis,Jeff Davis (48243),Jeff Davis
+Loving (48301),Texas,48,633,ODESSA-MIDLAND,48301,Loving,Loving (48301),Loving
+Sheridan (56033),Wyoming,56,764,RAPID CITY,56033,Sheridan,Sheridan (56033),Sheridan
+Crook (56011),Wyoming,56,764,RAPID CITY,56011,Crook,Crook (56011),Crook
+Weston (56045),Wyoming,56,764,RAPID CITY,56045,Weston,Weston (56045),Weston
+Riverside (06065),California,6,803,LOS ANGELES,6065,Riverside,Riverside (06065),Riverside

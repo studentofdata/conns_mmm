@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+
+</style>
+
+<body>
+<script src="http://d3js.org/d3.v3.js"></script>
+<script src="crossfilter.min.js"></script>
+<script type="text/javascript">
+    document.write("\<script src=' http://code.jquery.com/jquery-latest.min.js' type='text/javascript'>\<\/script>");
+</script>
+<script>
+
+//var json = $.getJSON("grp.data.json");
+
+
+
+d3.csv("grp.data.trun.csv", function(json) {
+    //console.log(json); // this will show the info it in firebug console
+    // for(var i = 0; i < json.length; i++)
+    // {
+    //   data.add(json[i]);
+    //   console.log(json[i]);
+    // }
+    var data = crossfilter(json);
+
+    var media = data.dimension(function(d) {
+    	return d.media;
+    });
+
+    var mediaGRP = media.group().reduceSum(function(d) {
+    	return d.grp;
+    });
+
+    console.log(media);
+
+    //var test = media.filter("R");
+
+    //console.log(test);
+
+});
+
+
+//data2 = crossfilter(data);
+
+</script>
+</body>

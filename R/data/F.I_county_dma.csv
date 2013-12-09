@@ -1,0 +1,331 @@
+Area Name,State Name,State Code,Media Market Code,Media Market Name,County Code,County Name,Area Name,Geography Name
+Morgan (01103),Alabama,1,691,HNTVLE-DCTR(FL),1103,Morgan,Morgan (01103),Morgan
+Colbert (01033),Alabama,1,691,HNTVLE-DCTR(FL),1033,Colbert,Colbert (01033),Colbert
+DeKalb (01049),Alabama,1,691,HNTVLE-DCTR(FL),1049,DeKalb,DeKalb (01049),DeKalb
+Franklin (01059),Alabama,1,691,HNTVLE-DCTR(FL),1059,Franklin,Franklin (01059),Franklin
+Jackson (01071),Alabama,1,691,HNTVLE-DCTR(FL),1071,Jackson,Jackson (01071),Jackson
+Lauderdale (01077),Alabama,1,691,HNTVLE-DCTR(FL),1077,Lauderdale,Lauderdale (01077),Lauderdale
+Lawrence (01079),Alabama,1,691,HNTVLE-DCTR(FL),1079,Lawrence,Lawrence (01079),Lawrence
+Limestone (01083),Alabama,1,691,HNTVLE-DCTR(FL),1083,Limestone,Limestone (01083),Limestone
+Madison (01089),Alabama,1,691,HNTVLE-DCTR(FL),1089,Madison,Madison (01089),Madison
+Marshall (01095),Alabama,1,691,HNTVLE-DCTR(FL),1095,Marshall,Marshall (01095),Marshall
+Fairbanks North Star (02090),Alaska,2,745,FAIRBANKS,2090,Fairbanks North Star,Fairbanks North Star (02090),Fairbanks North Star
+Benton (05007),Arkansas,5,670,FT SMH-FY-SP-RG,5007,Benton,Benton (05007),Benton
+Chicot (05017),Arkansas,5,647,GREENWD-GREENVL,5017,Chicot,Chicot (05017),Chicot
+Crawford (05033),Arkansas,5,670,FT SMH-FY-SP-RG,5033,Crawford,Crawford (05033),Crawford
+Franklin (05047),Arkansas,5,670,FT SMH-FY-SP-RG,5047,Franklin,Franklin (05047),Franklin
+Johnson (05071),Arkansas,5,670,FT SMH-FY-SP-RG,5071,Johnson,Johnson (05071),Johnson
+Logan (05083),Arkansas,5,670,FT SMH-FY-SP-RG,5083,Logan,Logan (05083),Logan
+Madison (05087),Arkansas,5,670,FT SMH-FY-SP-RG,5087,Madison,Madison (05087),Madison
+Washington (05143),Arkansas,5,670,FT SMH-FY-SP-RG,5143,Washington,Washington (05143),Washington
+Fresno (06019),California,6,866,FRESNO-VISALIA,6019,Fresno,Fresno (06019),Fresno
+Kings (06031),California,6,866,FRESNO-VISALIA,6031,Kings,Kings (06031),Kings
+Scott (05127),Arkansas,5,670,FT SMH-FY-SP-RG,5127,Scott,Scott (05127),Scott
+Sebastian (05131),Arkansas,5,670,FT SMH-FY-SP-RG,5131,Sebastian,Sebastian (05131),Sebastian
+Madera (06039),California,6,866,FRESNO-VISALIA,6039,Madera,Madera (06039),Madera
+Mariposa (06043),California,6,866,FRESNO-VISALIA,6043,Mariposa,Mariposa (06043),Mariposa
+Tulare (06107),California,6,866,FRESNO-VISALIA,6107,Tulare,Tulare (06107),Tulare
+Merced (06047),California,6,866,FRESNO-VISALIA,6047,Merced,Merced (06047),Merced
+Mesa (08077),Colorado,8,773,GR.JNCTN-MNTROS,8077,Mesa,Mesa (08077),Mesa
+Montrose (08085),Colorado,8,773,GR.JNCTN-MNTROS,8085,Montrose,Montrose (08085),Montrose
+Hartford (09003),Connecticut,9,533,HARTFRD&NW HAVN,9003,Hartford,Hartford (09003),Hartford
+Litchfield (09005),Connecticut,9,533,HARTFRD&NW HAVN,9005,Litchfield,Litchfield (09005),Litchfield
+Middlesex (09007),Connecticut,9,533,HARTFRD&NW HAVN,9007,Middlesex,Middlesex (09007),Middlesex
+New Haven (09009),Connecticut,9,533,HARTFRD&NW HAVN,9009,New Haven,New Haven (09009),New Haven
+New London (09011),Connecticut,9,533,HARTFRD&NW HAVN,9011,New London,New London (09011),New London
+Tolland (09013),Connecticut,9,533,HARTFRD&NW HAVN,9013,Tolland,Tolland (09013),Tolland
+Windham (09015),Connecticut,9,533,HARTFRD&NW HAVN,9015,Windham,Windham (09015),Windham
+Alachua (12001),Florida,12,592,GAINESVILLE,12001,Alachua,Alachua (12001),Alachua
+Charlotte (12015),Florida,12,571,FT. MYERS-NAPLS,12015,Charlotte,Charlotte (12015),Charlotte
+Collier (12021),Florida,12,571,FT. MYERS-NAPLS,12021,Collier,Collier (12021),Collier
+DeSoto (12027),Florida,12,571,FT. MYERS-NAPLS,12027,DeSoto,DeSoto (12027),DeSoto
+Dixie (12029),Florida,12,592,GAINESVILLE,12029,Dixie,Dixie (12029),Dixie
+Gilchrist (12041),Florida,12,592,GAINESVILLE,12041,Gilchrist,Gilchrist (12041),Gilchrist
+Glades (12043),Florida,12,571,FT. MYERS-NAPLS,12043,Glades,Glades (12043),Glades
+Hendry (12051),Florida,12,571,FT. MYERS-NAPLS,12051,Hendry,Hendry (12051),Hendry
+Lee (12071),Florida,12,571,FT. MYERS-NAPLS,12071,Lee,Lee (12071),Lee
+Levy (12075),Florida,12,592,GAINESVILLE,12075,Levy,Levy (12075),Levy
+Elbert (13105),Georgia,13,567,GRVL-SPA-ASH-AN,13105,Elbert,Elbert (13105),Elbert
+Franklin (13119),Georgia,13,567,GRVL-SPA-ASH-AN,13119,Franklin,Franklin (13119),Franklin
+Hart (13147),Georgia,13,567,GRVL-SPA-ASH-AN,13147,Hart,Hart (13147),Hart
+Stephens (13257),Georgia,13,567,GRVL-SPA-ASH-AN,13257,Stephens,Stephens (13257),Stephens
+Hawaii (15001),Hawaii,15,744,HONOLULU,15001,Hawaii,Hawaii (15001),Hawaii
+Honolulu (15003),Hawaii,15,744,HONOLULU,15003,Honolulu,Honolulu (15003),Honolulu
+Kalawao (15005),Hawaii,15,744,HONOLULU,15005,Kalawao,Kalawao (15005),Kalawao
+Kauai (15007),Hawaii,15,744,HONOLULU,15007,Kauai,Kauai (15007),Kauai
+Maui (15009),Hawaii,15,744,HONOLULU,15009,Maui,Maui (15009),Maui
+Bannock (16005),Idaho,16,758,IDAHO FALLS-POC,16005,Bannock,Bannock (16005),Bannock
+Bingham (16011),Idaho,16,758,IDAHO FALLS-POC,16011,Bingham,Bingham (16011),Bingham
+Bonneville (16019),Idaho,16,758,IDAHO FALLS-POC,16019,Bonneville,Bonneville (16019),Bonneville
+Butte (16023),Idaho,16,758,IDAHO FALLS-POC,16023,Butte,Butte (16023),Butte
+Caribou (16029),Idaho,16,758,IDAHO FALLS-POC,16029,Caribou,Caribou (16029),Caribou
+Clark (16033),Idaho,16,758,IDAHO FALLS-POC,16033,Clark,Clark (16033),Clark
+Custer (16037),Idaho,16,758,IDAHO FALLS-POC,16037,Custer,Custer (16037),Custer
+Fremont (16043),Idaho,16,758,IDAHO FALLS-POC,16043,Fremont,Fremont (16043),Fremont
+Jefferson (16051),Idaho,16,758,IDAHO FALLS-POC,16051,Jefferson,Jefferson (16051),Jefferson
+Lemhi (16059),Idaho,16,758,IDAHO FALLS-POC,16059,Lemhi,Lemhi (16059),Lemhi
+Madison (16065),Idaho,16,758,IDAHO FALLS-POC,16065,Madison,Madison (16065),Madison
+Power (16077),Idaho,16,758,IDAHO FALLS-POC,16077,Power,Power (16077),Power
+Teton (16081),Idaho,16,758,IDAHO FALLS-POC,16081,Teton,Teton (16081),Teton
+Noble (18113),Indiana,18,509,FT. WAYNE,18113,Noble,Noble (18113),Noble
+Tipton (18159),Indiana,18,527,INDIANAPOLIS,18159,Tipton,Tipton (18159),Tipton
+Owen (18119),Indiana,18,527,INDIANAPOLIS,18119,Owen,Owen (18119),Owen
+Wabash (18169),Indiana,18,509,FT. WAYNE,18169,Wabash,Wabash (18169),Wabash
+Putnam (18133),Indiana,18,527,INDIANAPOLIS,18133,Putnam,Putnam (18133),Putnam
+Randolph (18135),Indiana,18,527,INDIANAPOLIS,18135,Randolph,Randolph (18135),Randolph
+Wells (18179),Indiana,18,509,FT. WAYNE,18179,Wells,Wells (18179),Wells
+Rush (18139),Indiana,18,527,INDIANAPOLIS,18139,Rush,Rush (18139),Rush
+White (18181),Indiana,18,527,INDIANAPOLIS,18181,White,White (18181),White
+Whitley (18183),Indiana,18,509,FT. WAYNE,18183,Whitley,Whitley (18183),Whitley
+Shelby (18145),Indiana,18,527,INDIANAPOLIS,18145,Shelby,Shelby (18145),Shelby
+Steuben (18151),Indiana,18,509,FT. WAYNE,18151,Steuben,Steuben (18151),Steuben
+Adams (18001),Indiana,18,509,FT. WAYNE,18001,Adams,Adams (18001),Adams
+Allen (18003),Indiana,18,509,FT. WAYNE,18003,Allen,Allen (18003),Allen
+Bartholomew (18005),Indiana,18,527,INDIANAPOLIS,18005,Bartholomew,Bartholomew (18005),Bartholomew
+Blackford (18009),Indiana,18,527,INDIANAPOLIS,18009,Blackford,Blackford (18009),Blackford
+Boone (18011),Indiana,18,527,INDIANAPOLIS,18011,Boone,Boone (18011),Boone
+Brown (18013),Indiana,18,527,INDIANAPOLIS,18013,Brown,Brown (18013),Brown
+Carroll (18015),Indiana,18,527,INDIANAPOLIS,18015,Carroll,Carroll (18015),Carroll
+Cass (18017),Indiana,18,527,INDIANAPOLIS,18017,Cass,Cass (18017),Cass
+Clinton (18023),Indiana,18,527,INDIANAPOLIS,18023,Clinton,Clinton (18023),Clinton
+Decatur (18031),Indiana,18,527,INDIANAPOLIS,18031,Decatur,Decatur (18031),Decatur
+DeKalb (18033),Indiana,18,509,FT. WAYNE,18033,DeKalb,DeKalb (18033),DeKalb
+Delaware (18035),Indiana,18,527,INDIANAPOLIS,18035,Delaware,Delaware (18035),Delaware
+Fayette (18041),Indiana,18,527,INDIANAPOLIS,18041,Fayette,Fayette (18041),Fayette
+Fountain (18045),Indiana,18,527,INDIANAPOLIS,18045,Fountain,Fountain (18045),Fountain
+Grant (18053),Indiana,18,527,INDIANAPOLIS,18053,Grant,Grant (18053),Grant
+Hamilton (18057),Indiana,18,527,INDIANAPOLIS,18057,Hamilton,Hamilton (18057),Hamilton
+Hancock (18059),Indiana,18,527,INDIANAPOLIS,18059,Hancock,Hancock (18059),Hancock
+Hendricks (18063),Indiana,18,527,INDIANAPOLIS,18063,Hendricks,Hendricks (18063),Hendricks
+Henry (18065),Indiana,18,527,INDIANAPOLIS,18065,Henry,Henry (18065),Henry
+Howard (18067),Indiana,18,527,INDIANAPOLIS,18067,Howard,Howard (18067),Howard
+Huntington (18069),Indiana,18,509,FT. WAYNE,18069,Huntington,Huntington (18069),Huntington
+Jay (18075),Indiana,18,509,FT. WAYNE,18075,Jay,Jay (18075),Jay
+Johnson (18081),Indiana,18,527,INDIANAPOLIS,18081,Johnson,Johnson (18081),Johnson
+Montgomery (18107),Indiana,18,527,INDIANAPOLIS,18107,Montgomery,Montgomery (18107),Montgomery
+Lawrence (18093),Indiana,18,527,INDIANAPOLIS,18093,Lawrence,Lawrence (18093),Lawrence
+Madison (18095),Indiana,18,527,INDIANAPOLIS,18095,Madison,Madison (18095),Madison
+Miami (18103),Indiana,18,527,INDIANAPOLIS,18103,Miami,Miami (18103),Miami
+Monroe (18105),Indiana,18,527,INDIANAPOLIS,18105,Monroe,Monroe (18105),Monroe
+Morgan (18109),Indiana,18,527,INDIANAPOLIS,18109,Morgan,Morgan (18109),Morgan
+Marion (18097),Indiana,18,527,INDIANAPOLIS,18097,Marion,Marion (18097),Marion
+Ionia (26067),Michigan,26,563,GR.RAPIDS-KL-BC,26067,Ionia,Ionia (26067),Ionia
+Iosco (26069),Michigan,26,513,FLINT-SAGNAW-BC,26069,Iosco,Iosco (26069),Iosco
+Isabella (26073),Michigan,26,513,FLINT-SAGNAW-BC,26073,Isabella,Isabella (26073),Isabella
+St. Joseph (26149),Michigan,26,563,GR.RAPIDS-KL-BC,26149,St. Joseph,St. Joseph (26149),St. Joseph
+Clay (27027),Minnesota,27,724,FARGO-VALLY CTY,27027,Clay,Clay (27027),Clay
+Clearwater (27029),Minnesota,27,724,FARGO-VALLY CTY,27029,Clearwater,Clearwater (27029),Clearwater
+Kittson (27069),Minnesota,27,724,FARGO-VALLY CTY,27069,Kittson,Kittson (27069),Kittson
+Lake of the Woods (27077),Minnesota,27,724,FARGO-VALLY CTY,27077,Lake of the Woods,Lake of the Woods (27077),Lake of the Woods
+Mahnomen (27087),Minnesota,27,724,FARGO-VALLY CTY,27087,Mahnomen,Mahnomen (27087),Mahnomen
+Marshall (27089),Minnesota,27,724,FARGO-VALLY CTY,27089,Marshall,Marshall (27089),Marshall
+Norman (27107),Minnesota,27,724,FARGO-VALLY CTY,27107,Norman,Norman (27107),Norman
+Otter Tail (27111),Minnesota,27,724,FARGO-VALLY CTY,27111,Otter Tail,Otter Tail (27111),Otter Tail
+Pennington (27113),Minnesota,27,724,FARGO-VALLY CTY,27113,Pennington,Pennington (27113),Pennington
+Polk (27119),Minnesota,27,724,FARGO-VALLY CTY,27119,Polk,Polk (27119),Polk
+Red Lake (27125),Minnesota,27,724,FARGO-VALLY CTY,27125,Red Lake,Red Lake (27125),Red Lake
+Roseau (27135),Minnesota,27,724,FARGO-VALLY CTY,27135,Roseau,Roseau (27135),Roseau
+Wilkin (27167),Minnesota,27,724,FARGO-VALLY CTY,27167,Wilkin,Wilkin (27167),Wilkin
+Bolivar (28011),Mississippi,28,647,GREENWD-GREENVL,28011,Bolivar,Bolivar (28011),Bolivar
+Carroll (28015),Mississippi,28,647,GREENWD-GREENVL,28015,Carroll,Carroll (28015),Carroll
+Covington (28031),Mississippi,28,710,HATIESBRG-LAURL,28031,Covington,Covington (28031),Covington
+Jasper (28061),Mississippi,28,710,HATIESBRG-LAURL,28061,Jasper,Jasper (28061),Jasper
+Forrest (28035),Mississippi,28,710,HATIESBRG-LAURL,28035,Forrest,Forrest (28035),Forrest
+Grenada (28043),Mississippi,28,647,GREENWD-GREENVL,28043,Grenada,Grenada (28043),Grenada
+Lamar (28073),Mississippi,28,710,HATIESBRG-LAURL,28073,Lamar,Lamar (28073),Lamar
+Jones (28067),Mississippi,28,710,HATIESBRG-LAURL,28067,Jones,Jones (28067),Jones
+Kalamazoo (26077),Michigan,26,563,GR.RAPIDS-KL-BC,26077,Kalamazoo,Kalamazoo (26077),Kalamazoo
+Kent (26081),Michigan,26,563,GR.RAPIDS-KL-BC,26081,Kent,Kent (26081),Kent
+Montcalm (26117),Michigan,26,563,GR.RAPIDS-KL-BC,26117,Montcalm,Montcalm (26117),Montcalm
+Muskegon (26121),Michigan,26,563,GR.RAPIDS-KL-BC,26121,Muskegon,Muskegon (26121),Muskegon
+Shiawassee (26155),Michigan,26,513,FLINT-SAGNAW-BC,26155,Shiawassee,Shiawassee (26155),Shiawassee
+Tuscola (26157),Michigan,26,513,FLINT-SAGNAW-BC,26157,Tuscola,Tuscola (26157),Tuscola
+Van Buren (26159),Michigan,26,563,GR.RAPIDS-KL-BC,26159,Van Buren,Van Buren (26159),Van Buren
+Newaygo (26123),Michigan,26,563,GR.RAPIDS-KL-BC,26123,Newaygo,Newaygo (26123),Newaygo
+Oceana (26127),Michigan,26,563,GR.RAPIDS-KL-BC,26127,Oceana,Oceana (26127),Oceana
+Ogemaw (26129),Michigan,26,513,FLINT-SAGNAW-BC,26129,Ogemaw,Ogemaw (26129),Ogemaw
+Genesee (26049),Michigan,26,513,FLINT-SAGNAW-BC,26049,Genesee,Genesee (26049),Genesee
+Ottawa (26139),Michigan,26,563,GR.RAPIDS-KL-BC,26139,Ottawa,Ottawa (26139),Ottawa
+Becker (27005),Minnesota,27,724,FARGO-VALLY CTY,27005,Becker,Becker (27005),Becker
+Gladwin (26051),Michigan,26,513,FLINT-SAGNAW-BC,26051,Gladwin,Gladwin (26051),Gladwin
+Gratiot (26057),Michigan,26,513,FLINT-SAGNAW-BC,26057,Gratiot,Gratiot (26057),Gratiot
+Saginaw (26145),Michigan,26,513,FLINT-SAGNAW-BC,26145,Saginaw,Saginaw (26145),Saginaw
+Huron (26063),Michigan,26,513,FLINT-SAGNAW-BC,26063,Huron,Huron (26063),Huron
+Menominee (26109),Michigan,26,658,GREEN BAY-APLTN,26109,Menominee,Menominee (26109),Menominee
+Midland (26111),Michigan,26,513,FLINT-SAGNAW-BC,26111,Midland,Midland (26111),Midland
+Branch (26023),Michigan,26,563,GR.RAPIDS-KL-BC,26023,Branch,Branch (26023),Branch
+Calhoun (26025),Michigan,26,563,GR.RAPIDS-KL-BC,26025,Calhoun,Calhoun (26025),Calhoun
+Allegan (26005),Michigan,26,563,GR.RAPIDS-KL-BC,26005,Allegan,Allegan (26005),Allegan
+Arenac (26011),Michigan,26,513,FLINT-SAGNAW-BC,26011,Arenac,Arenac (26011),Arenac
+Barry (26015),Michigan,26,563,GR.RAPIDS-KL-BC,26015,Barry,Barry (26015),Barry
+Bay (26017),Michigan,26,513,FLINT-SAGNAW-BC,26017,Bay,Bay (26017),Bay
+Hill (30041),Montana,30,755,GREAT FALLS,30041,Hill,Hill (30041),Hill
+Judith Basin (30045),Montana,30,755,GREAT FALLS,30045,Judith Basin,Judith Basin (30045),Judith Basin
+Lewis and Clark (30049),Montana,30,766,HELENA,30049,Lewis and Clark,Lewis and Clark (30049),Lewis and Clark
+Blaine (30005),Montana,30,755,GREAT FALLS,30005,Blaine,Blaine (30005),Blaine
+Broadwater (30007),Montana,30,766,HELENA,30007,Broadwater,Broadwater (30007),Broadwater
+Liberty (30051),Montana,30,755,GREAT FALLS,30051,Liberty,Liberty (30051),Liberty
+Cascade (30013),Montana,30,755,GREAT FALLS,30013,Cascade,Cascade (30013),Cascade
+Chouteau (30015),Montana,30,755,GREAT FALLS,30015,Chouteau,Chouteau (30015),Chouteau
+Phillips (30071),Montana,30,755,GREAT FALLS,30071,Phillips,Phillips (30071),Phillips
+Pondera (30073),Montana,30,755,GREAT FALLS,30073,Pondera,Pondera (30073),Pondera
+Prairie (30079),Montana,30,798,GLENDIVE,30079,Prairie,Prairie (30079),Prairie
+Dawson (30021),Montana,30,798,GLENDIVE,30021,Dawson,Dawson (30021),Dawson
+Fallon (30025),Montana,30,798,GLENDIVE,30025,Fallon,Fallon (30025),Fallon
+Fergus (30027),Montana,30,755,GREAT FALLS,30027,Fergus,Fergus (30027),Fergus
+Glacier (30035),Montana,30,755,GREAT FALLS,30035,Glacier,Glacier (30035),Glacier
+Teton (30099),Montana,30,755,GREAT FALLS,30099,Teton,Teton (30099),Teton
+Toole (30101),Montana,30,755,GREAT FALLS,30101,Toole,Toole (30101),Toole
+Valley (30105),Montana,30,755,GREAT FALLS,30105,Valley,Valley (30105),Valley
+Sunflower (28133),Mississippi,28,647,GREENWD-GREENVL,28133,Sunflower,Sunflower (28133),Sunflower
+Tallahatchie (28135),Mississippi,28,647,GREENWD-GREENVL,28135,Tallahatchie,Tallahatchie (28135),Tallahatchie
+Leflore (28083),Mississippi,28,647,GREENWD-GREENVL,28083,Leflore,Leflore (28083),Leflore
+Washington (28151),Mississippi,28,647,GREENWD-GREENVL,28151,Washington,Washington (28151),Washington
+Wayne (28153),Mississippi,28,710,HATIESBRG-LAURL,28153,Wayne,Wayne (28153),Wayne
+Marion (28091),Mississippi,28,710,HATIESBRG-LAURL,28091,Marion,Marion (28091),Marion
+Perry (28111),Mississippi,28,710,HATIESBRG-LAURL,28111,Perry,Perry (28111),Perry
+Grand Forks (38035),North Dakota,38,724,FARGO-VALLY CTY,38035,Grand Forks,Grand Forks (38035),Grand Forks
+Ramsey (38071),North Dakota,38,724,FARGO-VALLY CTY,38071,Ramsey,Ramsey (38071),Ramsey
+Ransom (38073),North Dakota,38,724,FARGO-VALLY CTY,38073,Ransom,Ransom (38073),Ransom
+Paulding (39125),Ohio,39,509,FT. WAYNE,39125,Paulding,Paulding (39125),Paulding
+Guilford (37081),North Carolina,37,518,GREENSBRO-HP-WS,37081,Guilford,Guilford (37081),Guilford
+Haywood (37087),North Carolina,37,567,GRVL-SPA-ASH-AN,37087,Haywood,Haywood (37087),Haywood
+Henderson (37089),North Carolina,37,567,GRVL-SPA-ASH-AN,37089,Henderson,Henderson (37089),Henderson
+Hyde (37095),North Carolina,37,545,GREENVL-NB-WASH,37095,Hyde,Hyde (37095),Hyde
+Barnes (38003),North Dakota,38,724,FARGO-VALLY CTY,38003,Barnes,Barnes (38003),Barnes
+Benson (38005),North Dakota,38,724,FARGO-VALLY CTY,38005,Benson,Benson (38005),Benson
+Griggs (38039),North Dakota,38,724,FARGO-VALLY CTY,38039,Griggs,Griggs (38039),Griggs
+Richland (38077),North Dakota,38,724,FARGO-VALLY CTY,38077,Richland,Richland (38077),Richland
+Jackson (37099),North Carolina,37,567,GRVL-SPA-ASH-AN,37099,Jackson,Jackson (37099),Jackson
+Sargent (38081),North Dakota,38,724,FARGO-VALLY CTY,38081,Sargent,Sargent (38081),Sargent
+Jones (37103),North Carolina,37,545,GREENVL-NB-WASH,37103,Jones,Jones (37103),Jones
+Lenoir (37107),North Carolina,37,545,GREENVL-NB-WASH,37107,Lenoir,Lenoir (37107),Lenoir
+McDowell (37111),North Carolina,37,567,GRVL-SPA-ASH-AN,37111,McDowell,McDowell (37111),McDowell
+Macon (37113),North Carolina,37,567,GRVL-SPA-ASH-AN,37113,Macon,Macon (37113),Macon
+Madison (37115),North Carolina,37,567,GRVL-SPA-ASH-AN,37115,Madison,Madison (37115),Madison
+Martin (37117),North Carolina,37,545,GREENVL-NB-WASH,37117,Martin,Martin (37117),Martin
+Mitchell (37121),North Carolina,37,567,GRVL-SPA-ASH-AN,37121,Mitchell,Mitchell (37121),Mitchell
+Montgomery (37123),North Carolina,37,518,GREENSBRO-HP-WS,37123,Montgomery,Montgomery (37123),Montgomery
+Onslow (37133),North Carolina,37,545,GREENVL-NB-WASH,37133,Onslow,Onslow (37133),Onslow
+Pamlico (37137),North Carolina,37,545,GREENVL-NB-WASH,37137,Pamlico,Pamlico (37137),Pamlico
+Pitt (37147),North Carolina,37,545,GREENVL-NB-WASH,37147,Pitt,Pitt (37147),Pitt
+Polk (37149),North Carolina,37,567,GRVL-SPA-ASH-AN,37149,Polk,Polk (37149),Polk
+Randolph (37151),North Carolina,37,518,GREENSBRO-HP-WS,37151,Randolph,Randolph (37151),Randolph
+Cass (38017),North Dakota,38,724,FARGO-VALLY CTY,38017,Cass,Cass (38017),Cass
+Cavalier (38019),North Dakota,38,724,FARGO-VALLY CTY,38019,Cavalier,Cavalier (38019),Cavalier
+LaMoure (38045),North Dakota,38,724,FARGO-VALLY CTY,38045,LaMoure,LaMoure (38045),LaMoure
+Robeson (37155),North Carolina,37,570,FLRNCE-MRTL BCH,37155,Robeson,Robeson (37155),Robeson
+Rockingham (37157),North Carolina,37,518,GREENSBRO-HP-WS,37157,Rockingham,Rockingham (37157),Rockingham
+Rutherford (37161),North Carolina,37,567,GRVL-SPA-ASH-AN,37161,Rutherford,Rutherford (37161),Rutherford
+Scotland (37165),North Carolina,37,570,FLRNCE-MRTL BCH,37165,Scotland,Scotland (37165),Scotland
+Stokes (37169),North Carolina,37,518,GREENSBRO-HP-WS,37169,Stokes,Stokes (37169),Stokes
+Surry (37171),North Carolina,37,518,GREENSBRO-HP-WS,37171,Surry,Surry (37171),Surry
+Swain (37173),North Carolina,37,567,GRVL-SPA-ASH-AN,37173,Swain,Swain (37173),Swain
+Transylvania (37175),North Carolina,37,567,GRVL-SPA-ASH-AN,37175,Transylvania,Transylvania (37175),Transylvania
+Tyrrell (37177),North Carolina,37,545,GREENVL-NB-WASH,37177,Tyrrell,Tyrrell (37177),Tyrrell
+Dickey (38021),North Dakota,38,724,FARGO-VALLY CTY,38021,Dickey,Dickey (38021),Dickey
+Steele (38091),North Dakota,38,724,FARGO-VALLY CTY,38091,Steele,Steele (38091),Steele
+Stutsman (38093),North Dakota,38,724,FARGO-VALLY CTY,38093,Stutsman,Stutsman (38093),Stutsman
+Towner (38095),North Dakota,38,724,FARGO-VALLY CTY,38095,Towner,Towner (38095),Towner
+Traill (38097),North Dakota,38,724,FARGO-VALLY CTY,38097,Traill,Traill (38097),Traill
+Walsh (38099),North Dakota,38,724,FARGO-VALLY CTY,38099,Walsh,Walsh (38099),Walsh
+Washington (37187),North Carolina,37,545,GREENVL-NB-WASH,37187,Washington,Washington (37187),Washington
+Wilkes (37193),North Carolina,37,518,GREENSBRO-HP-WS,37193,Wilkes,Wilkes (37193),Wilkes
+Yadkin (37197),North Carolina,37,518,GREENSBRO-HP-WS,37197,Yadkin,Yadkin (37197),Yadkin
+Yancey (37199),North Carolina,37,567,GRVL-SPA-ASH-AN,37199,Yancey,Yancey (37199),Yancey
+Eddy (38027),North Dakota,38,724,FARGO-VALLY CTY,38027,Eddy,Eddy (38027),Eddy
+Foster (38031),North Dakota,38,724,FARGO-VALLY CTY,38031,Foster,Foster (38031),Foster
+Nelson (38063),North Dakota,38,724,FARGO-VALLY CTY,38063,Nelson,Nelson (38063),Nelson
+Pembina (38067),North Dakota,38,724,FARGO-VALLY CTY,38067,Pembina,Pembina (38067),Pembina
+Alamance (37001),North Carolina,37,518,GREENSBRO-HP-WS,37001,Alamance,Alamance (37001),Alamance
+Alleghany (37005),North Carolina,37,518,GREENSBRO-HP-WS,37005,Alleghany,Alleghany (37005),Alleghany
+Davidson (37057),North Carolina,37,518,GREENSBRO-HP-WS,37057,Davidson,Davidson (37057),Davidson
+Davie (37059),North Carolina,37,518,GREENSBRO-HP-WS,37059,Davie,Davie (37059),Davie
+Duplin (37061),North Carolina,37,545,GREENVL-NB-WASH,37061,Duplin,Duplin (37061),Duplin
+Beaufort (37013),North Carolina,37,545,GREENVL-NB-WASH,37013,Beaufort,Beaufort (37013),Beaufort
+Bertie (37015),North Carolina,37,545,GREENVL-NB-WASH,37015,Bertie,Bertie (37015),Bertie
+Buncombe (37021),North Carolina,37,567,GRVL-SPA-ASH-AN,37021,Buncombe,Buncombe (37021),Buncombe
+Carteret (37031),North Carolina,37,545,GREENVL-NB-WASH,37031,Carteret,Carteret (37031),Carteret
+Craven (37049),North Carolina,37,545,GREENVL-NB-WASH,37049,Craven,Craven (37049),Craven
+Forsyth (37067),North Carolina,37,518,GREENSBRO-HP-WS,37067,Forsyth,Forsyth (37067),Forsyth
+Graham (37075),North Carolina,37,567,GRVL-SPA-ASH-AN,37075,Graham,Graham (37075),Graham
+Greene (37079),North Carolina,37,545,GREENVL-NB-WASH,37079,Greene,Greene (37079),Greene
+Caswell (37033),North Carolina,37,518,GREENSBRO-HP-WS,37033,Caswell,Caswell (37033),Caswell
+Lincoln (47103),Tennessee,47,691,HNTVLE-DCTR(FL),47103,Lincoln,Lincoln (47103),Lincoln
+Austin (48015),Texas,48,618,HOUSTON,48015,Austin,Austin (48015),Austin
+Brazoria (48039),Texas,48,618,HOUSTON,48039,Brazoria,Brazoria (48039),Brazoria
+Calhoun (48057),Texas,48,618,HOUSTON,48057,Calhoun,Calhoun (48057),Calhoun
+Cameron (48061),Texas,48,636,HRLG-WSL-BRN-MA,48061,Cameron,Cameron (48061),Cameron
+Chambers (48071),Texas,48,618,HOUSTON,48071,Chambers,Chambers (48071),Chambers
+Colorado (48089),Texas,48,618,HOUSTON,48089,Colorado,Colorado (48089),Colorado
+Galveston (48167),Texas,48,618,HOUSTON,48167,Galveston,Galveston (48167),Galveston
+Fort Bend (48157),Texas,48,618,HOUSTON,48157,Fort Bend,Fort Bend (48157),Fort Bend
+York (42133),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42133,York,York (42133),York
+Abbeville (45001),South Carolina,45,567,GRVL-SPA-ASH-AN,45001,Abbeville,Abbeville (45001),Abbeville
+Anderson (45007),South Carolina,45,567,GRVL-SPA-ASH-AN,45007,Anderson,Anderson (45007),Anderson
+Cherokee (45021),South Carolina,45,567,GRVL-SPA-ASH-AN,45021,Cherokee,Cherokee (45021),Cherokee
+Darlington (45031),South Carolina,45,570,FLRNCE-MRTL BCH,45031,Darlington,Darlington (45031),Darlington
+Dillon (45033),South Carolina,45,570,FLRNCE-MRTL BCH,45033,Dillon,Dillon (45033),Dillon
+Florence (45041),South Carolina,45,570,FLRNCE-MRTL BCH,45041,Florence,Florence (45041),Florence
+Greenville (45045),South Carolina,45,567,GRVL-SPA-ASH-AN,45045,Greenville,Greenville (45045),Greenville
+Greenwood (45047),South Carolina,45,567,GRVL-SPA-ASH-AN,45047,Greenwood,Greenwood (45047),Greenwood
+Horry (45051),South Carolina,45,570,FLRNCE-MRTL BCH,45051,Horry,Horry (45051),Horry
+Laurens (45059),South Carolina,45,567,GRVL-SPA-ASH-AN,45059,Laurens,Laurens (45059),Laurens
+Marion (45067),South Carolina,45,570,FLRNCE-MRTL BCH,45067,Marion,Marion (45067),Marion
+Marlboro (45069),South Carolina,45,570,FLRNCE-MRTL BCH,45069,Marlboro,Marlboro (45069),Marlboro
+Oconee (45073),South Carolina,45,567,GRVL-SPA-ASH-AN,45073,Oconee,Oconee (45073),Oconee
+Pickens (45077),South Carolina,45,567,GRVL-SPA-ASH-AN,45077,Pickens,Pickens (45077),Pickens
+Spartanburg (45083),South Carolina,45,567,GRVL-SPA-ASH-AN,45083,Spartanburg,Spartanburg (45083),Spartanburg
+Union (45087),South Carolina,45,567,GRVL-SPA-ASH-AN,45087,Union,Union (45087),Union
+Sequoyah (40135),Oklahoma,40,670,FT SMH-FY-SP-RG,40135,Sequoyah,Sequoyah (40135),Sequoyah
+Adams (42001),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42001,Adams,Adams (42001),Adams
+Cumberland (42041),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42041,Cumberland,Cumberland (42041),Cumberland
+Dauphin (42043),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42043,Dauphin,Dauphin (42043),Dauphin
+Mifflin (42087),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42087,Mifflin,Mifflin (42087),Mifflin
+Perry (42099),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42099,Perry,Perry (42099),Perry
+Franklin (42055),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42055,Franklin,Franklin (42055),Franklin
+Juniata (42067),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42067,Juniata,Juniata (42067),Juniata
+Lancaster (42071),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42071,Lancaster,Lancaster (42071),Lancaster
+Lebanon (42075),Pennsylvania,42,566,HARRSBG-LA-LB-Y,42075,Lebanon,Lebanon (42075),Lebanon
+Le Flore (40079),Oklahoma,40,670,FT SMH-FY-SP-RG,40079,Le Flore,Le Flore (40079),Le Flore
+Van Wert (39161),Ohio,39,509,FT. WAYNE,39161,Van Wert,Van Wert (39161),Van Wert
+Pendleton (54071),West Virginia,54,569,HARRISONBURG,54071,Pendleton,Pendleton (54071),Pendleton
+Door (55029),Wisconsin,55,658,GREEN BAY-APLTN,55029,Door,Door (55029),Door
+Fond du Lac (55039),Wisconsin,55,658,GREEN BAY-APLTN,55039,Fond du Lac,Fond du Lac (55039),Fond du Lac
+Green Lake (55047),Wisconsin,55,658,GREEN BAY-APLTN,55047,Green Lake,Green Lake (55047),Green Lake
+Kewaunee (55061),Wisconsin,55,658,GREEN BAY-APLTN,55061,Kewaunee,Kewaunee (55061),Kewaunee
+Manitowoc (55071),Wisconsin,55,658,GREEN BAY-APLTN,55071,Manitowoc,Manitowoc (55071),Manitowoc
+Marinette (55075),Wisconsin,55,658,GREEN BAY-APLTN,55075,Marinette,Marinette (55075),Marinette
+Menominee (55078),Wisconsin,55,658,GREEN BAY-APLTN,55078,Menominee,Menominee (55078),Menominee
+Oconto (55083),Wisconsin,55,658,GREEN BAY-APLTN,55083,Oconto,Oconto (55083),Oconto
+Outagamie (55087),Wisconsin,55,658,GREEN BAY-APLTN,55087,Outagamie,Outagamie (55087),Outagamie
+Waupaca (55135),Wisconsin,55,658,GREEN BAY-APLTN,55135,Waupaca,Waupaca (55135),Waupaca
+Shawano (55115),Wisconsin,55,658,GREEN BAY-APLTN,55115,Shawano,Shawano (55115),Shawano
+Staunton (51790),Virginia,51,569,HARRISONBURG,51790,Staunton,Staunton (51790),Staunton
+Brown (55009),Wisconsin,55,658,GREEN BAY-APLTN,55009,Brown,Brown (55009),Brown
+Calumet (55015),Wisconsin,55,658,GREEN BAY-APLTN,55015,Calumet,Calumet (55015),Calumet
+Waynesboro (51820),Virginia,51,569,HARRISONBURG,51820,Waynesboro,Waynesboro (51820),Waynesboro
+Matagorda (48321),Texas,48,618,HOUSTON,48321,Matagorda,Matagorda (48321),Matagorda
+Augusta (51015),Virginia,51,569,HARRISONBURG,51015,Augusta,Augusta (51015),Augusta
+Patrick (51141),Virginia,51,518,GREENSBRO-HP-WS,51141,Patrick,Patrick (51141),Patrick
+Rockingham (51165),Virginia,51,569,HARRISONBURG,51165,Rockingham,Rockingham (51165),Rockingham
+Harrisonburg (51660),Virginia,51,569,HARRISONBURG,51660,Harrisonburg,Harrisonburg (51660),Harrisonburg
+Kenedy (48261),Texas,48,636,HRLG-WSL-BRN-MA,48261,Kenedy,Kenedy (48261),Kenedy
+Montgomery (48339),Texas,48,618,HOUSTON,48339,Montgomery,Montgomery (48339),Montgomery
+Grimes (48185),Texas,48,618,HOUSTON,48185,Grimes,Grimes (48185),Grimes
+Harris (48201),Texas,48,618,HOUSTON,48201,Harris,Harris (48201),Harris
+Trinity (48455),Texas,48,618,HOUSTON,48455,Trinity,Trinity (48455),Trinity
+Polk (48373),Texas,48,618,HOUSTON,48373,Polk,Polk (48373),Polk
+Walker (48471),Texas,48,618,HOUSTON,48471,Walker,Walker (48471),Walker
+Waller (48473),Texas,48,618,HOUSTON,48473,Waller,Waller (48473),Waller
+Washington (48477),Texas,48,618,HOUSTON,48477,Washington,Washington (48477),Washington
+Wharton (48481),Texas,48,618,HOUSTON,48481,Wharton,Wharton (48481),Wharton
+Hidalgo (48215),Texas,48,636,HRLG-WSL-BRN-MA,48215,Hidalgo,Hidalgo (48215),Hidalgo
+Willacy (48489),Texas,48,636,HRLG-WSL-BRN-MA,48489,Willacy,Willacy (48489),Willacy
+Liberty (48291),Texas,48,618,HOUSTON,48291,Liberty,Liberty (48291),Liberty
+San Jacinto (48407),Texas,48,618,HOUSTON,48407,San Jacinto,San Jacinto (48407),San Jacinto
+Jackson (48239),Texas,48,618,HOUSTON,48239,Jackson,Jackson (48239),Jackson
+Starr (48427),Texas,48,636,HRLG-WSL-BRN-MA,48427,Starr,Starr (48427),Starr
+Waushara (55137),Wisconsin,55,658,GREEN BAY-APLTN,55137,Waushara,Waushara (55137),Waushara
+Winnebago (55139),Wisconsin,55,658,GREEN BAY-APLTN,55139,Winnebago,Winnebago (55139),Winnebago
+Teton (56039),Wyoming,56,758,IDAHO FALLS-POC,56039,Teton,Teton (56039),Teton

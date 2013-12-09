@@ -1,0 +1,539 @@
+Area Name,State Name,State Code,Media Market Code,Media Market Name,County Code,County Name,Area Name,Geography Name
+Barbour (01005),Alabama,1,522,COLUMBUS  GA,1005,Barbour,Barbour (01005),Barbour
+Chambers (01017),Alabama,1,522,COLUMBUS  GA,1017,Chambers,Chambers (01017),Chambers
+Russell (01113),Alabama,1,522,COLUMBUS  GA,1113,Russell,Russell (01113),Russell
+Coffee (01031),Alabama,1,606,DOTHAN,1031,Coffee,Coffee (01031),Coffee
+Dale (01045),Alabama,1,606,DOTHAN,1045,Dale,Dale (01045),Dale
+Geneva (01061),Alabama,1,606,DOTHAN,1061,Geneva,Geneva (01061),Geneva
+Henry (01067),Alabama,1,606,DOTHAN,1067,Henry,Henry (01067),Henry
+Houston (01069),Alabama,1,606,DOTHAN,1069,Houston,Houston (01069),Houston
+Lamar (01075),Alabama,1,673,COLUMBUS-TUP-WP,1075,Lamar,Lamar (01075),Lamar
+Lee (01081),Alabama,1,522,COLUMBUS  GA,1081,Lee,Lee (01081),Lee
+Butte (06007),California,6,868,CHICO-REDDING,6007,Butte,Butte (06007),Butte
+Del Norte (06015),California,6,802,EUREKA,6015,Del Norte,Del Norte (06015),Del Norte
+Glenn (06021),California,6,868,CHICO-REDDING,6021,Glenn,Glenn (06021),Glenn
+Humboldt (06023),California,6,802,EUREKA,6023,Humboldt,Humboldt (06023),Humboldt
+Shasta (06089),California,6,868,CHICO-REDDING,6089,Shasta,Shasta (06089),Shasta
+Tehama (06103),California,6,868,CHICO-REDDING,6103,Tehama,Tehama (06103),Tehama
+Trinity (06105),California,6,868,CHICO-REDDING,6105,Trinity,Trinity (06105),Trinity
+Adams (08001),Colorado,8,751,DENVER,8001,Adams,Adams (08001),Adams
+Alamosa (08003),Colorado,8,751,DENVER,8003,Alamosa,Alamosa (08003),Alamosa
+Arapahoe (08005),Colorado,8,751,DENVER,8005,Arapahoe,Arapahoe (08005),Arapahoe
+Modoc (06049),California,6,868,CHICO-REDDING,6049,Modoc,Modoc (06049),Modoc
+El Paso (08041),Colorado,8,752,COLO SPRNGS-PBL,8041,El Paso,El Paso (08041),El Paso
+Fremont (08043),Colorado,8,752,COLO SPRNGS-PBL,8043,Fremont,Fremont (08043),Fremont
+Garfield (08045),Colorado,8,751,DENVER,8045,Garfield,Garfield (08045),Garfield
+Gilpin (08047),Colorado,8,751,DENVER,8047,Gilpin,Gilpin (08047),Gilpin
+Grand (08049),Colorado,8,751,DENVER,8049,Grand,Grand (08049),Grand
+Gunnison (08051),Colorado,8,751,DENVER,8051,Gunnison,Gunnison (08051),Gunnison
+Hinsdale (08053),Colorado,8,751,DENVER,8053,Hinsdale,Hinsdale (08053),Hinsdale
+Huerfano (08055),Colorado,8,752,COLO SPRNGS-PBL,8055,Huerfano,Huerfano (08055),Huerfano
+Jackson (08057),Colorado,8,751,DENVER,8057,Jackson,Jackson (08057),Jackson
+Jefferson (08059),Colorado,8,751,DENVER,8059,Jefferson,Jefferson (08059),Jefferson
+Kiowa (08061),Colorado,8,752,COLO SPRNGS-PBL,8061,Kiowa,Kiowa (08061),Kiowa
+Archuleta (08007),Colorado,8,751,DENVER,8007,Archuleta,Archuleta (08007),Archuleta
+Baca (08009),Colorado,8,752,COLO SPRNGS-PBL,8009,Baca,Baca (08009),Baca
+Bent (08011),Colorado,8,752,COLO SPRNGS-PBL,8011,Bent,Bent (08011),Bent
+Boulder (08013),Colorado,8,751,DENVER,8013,Boulder,Boulder (08013),Boulder
+Broomfield (08014),Colorado,8,751,DENVER,8014,Broomfield,Broomfield (08014),Broomfield
+Chaffee (08015),Colorado,8,751,DENVER,8015,Chaffee,Chaffee (08015),Chaffee
+Cheyenne (08017),Colorado,8,751,DENVER,8017,Cheyenne,Cheyenne (08017),Cheyenne
+Clear Creek (08019),Colorado,8,751,DENVER,8019,Clear Creek,Clear Creek (08019),Clear Creek
+Conejos (08021),Colorado,8,751,DENVER,8021,Conejos,Conejos (08021),Conejos
+Costilla (08023),Colorado,8,751,DENVER,8023,Costilla,Costilla (08023),Costilla
+Crowley (08025),Colorado,8,752,COLO SPRNGS-PBL,8025,Crowley,Crowley (08025),Crowley
+Custer (08027),Colorado,8,752,COLO SPRNGS-PBL,8027,Custer,Custer (08027),Custer
+Delta (08029),Colorado,8,751,DENVER,8029,Delta,Delta (08029),Delta
+Denver (08031),Colorado,8,751,DENVER,8031,Denver,Denver (08031),Denver
+Dolores (08033),Colorado,8,751,DENVER,8033,Dolores,Dolores (08033),Dolores
+Douglas (08035),Colorado,8,751,DENVER,8035,Douglas,Douglas (08035),Douglas
+Eagle (08037),Colorado,8,751,DENVER,8037,Eagle,Eagle (08037),Eagle
+Elbert (08039),Colorado,8,751,DENVER,8039,Elbert,Elbert (08039),Elbert
+Kit Carson (08063),Colorado,8,751,DENVER,8063,Kit Carson,Kit Carson (08063),Kit Carson
+Lake (08065),Colorado,8,751,DENVER,8065,Lake,Lake (08065),Lake
+Larimer (08069),Colorado,8,751,DENVER,8069,Larimer,Larimer (08069),Larimer
+Las Animas (08071),Colorado,8,752,COLO SPRNGS-PBL,8071,Las Animas,Las Animas (08071),Las Animas
+Logan (08075),Colorado,8,751,DENVER,8075,Logan,Logan (08075),Logan
+Mineral (08079),Colorado,8,751,DENVER,8079,Mineral,Mineral (08079),Mineral
+Moffat (08081),Colorado,8,751,DENVER,8081,Moffat,Moffat (08081),Moffat
+Morgan (08087),Colorado,8,751,DENVER,8087,Morgan,Morgan (08087),Morgan
+Otero (08089),Colorado,8,752,COLO SPRNGS-PBL,8089,Otero,Otero (08089),Otero
+Ouray (08091),Colorado,8,751,DENVER,8091,Ouray,Ouray (08091),Ouray
+Park (08093),Colorado,8,751,DENVER,8093,Park,Park (08093),Park
+Lincoln (08073),Colorado,8,751,DENVER,8073,Lincoln,Lincoln (08073),Lincoln
+Weld (08123),Colorado,8,751,DENVER,8123,Weld,Weld (08123),Weld
+Yuma (08125),Colorado,8,751,DENVER,8125,Yuma,Yuma (08125),Yuma
+Phillips (08095),Colorado,8,751,DENVER,8095,Phillips,Phillips (08095),Phillips
+Pitkin (08097),Colorado,8,751,DENVER,8097,Pitkin,Pitkin (08097),Pitkin
+Prowers (08099),Colorado,8,751,DENVER,8099,Prowers,Prowers (08099),Prowers
+Pueblo (08101),Colorado,8,752,COLO SPRNGS-PBL,8101,Pueblo,Pueblo (08101),Pueblo
+Rio Blanco (08103),Colorado,8,751,DENVER,8103,Rio Blanco,Rio Blanco (08103),Rio Blanco
+Rio Grande (08105),Colorado,8,751,DENVER,8105,Rio Grande,Rio Grande (08105),Rio Grande
+Routt (08107),Colorado,8,751,DENVER,8107,Routt,Routt (08107),Routt
+Saguache (08109),Colorado,8,752,COLO SPRNGS-PBL,8109,Saguache,Saguache (08109),Saguache
+San Juan (08111),Colorado,8,751,DENVER,8111,San Juan,San Juan (08111),San Juan
+San Miguel (08113),Colorado,8,751,DENVER,8113,San Miguel,San Miguel (08113),San Miguel
+Sedgwick (08115),Colorado,8,751,DENVER,8115,Sedgwick,Sedgwick (08115),Sedgwick
+Summit (08117),Colorado,8,751,DENVER,8117,Summit,Summit (08117),Summit
+Teller (08119),Colorado,8,752,COLO SPRNGS-PBL,8119,Teller,Teller (08119),Teller
+Washington (08121),Colorado,8,751,DENVER,8121,Washington,Washington (08121),Washington
+Catoosa (13047),Georgia,13,575,CHATTANOOGA,13047,Catoosa,Catoosa (13047),Catoosa
+Chattahoochee (13053),Georgia,13,522,COLUMBUS  GA,13053,Chattahoochee,Chattahoochee (13053),Chattahoochee
+Clay (13061),Georgia,13,522,COLUMBUS  GA,13061,Clay,Clay (13061),Clay
+Dade (13083),Georgia,13,575,CHATTANOOGA,13083,Dade,Dade (13083),Dade
+Early (13099),Georgia,13,606,DOTHAN,13099,Early,Early (13099),Early
+Harris (13145),Georgia,13,522,COLUMBUS  GA,13145,Harris,Harris (13145),Harris
+Chattooga (13055),Georgia,13,575,CHATTANOOGA,13055,Chattooga,Chattooga (13055),Chattooga
+Quitman (13239),Georgia,13,522,COLUMBUS  GA,13239,Quitman,Quitman (13239),Quitman
+Randolph (13243),Georgia,13,522,COLUMBUS  GA,13243,Randolph,Randolph (13243),Randolph
+Schley (13249),Georgia,13,522,COLUMBUS  GA,13249,Schley,Schley (13249),Schley
+Marion (13197),Georgia,13,522,COLUMBUS  GA,13197,Marion,Marion (13197),Marion
+Murray (13213),Georgia,13,575,CHATTANOOGA,13213,Murray,Murray (13213),Murray
+Muscogee (13215),Georgia,13,522,COLUMBUS  GA,13215,Muscogee,Muscogee (13215),Muscogee
+Stewart (13259),Georgia,13,522,COLUMBUS  GA,13259,Stewart,Stewart (13259),Stewart
+Sumter (13261),Georgia,13,522,COLUMBUS  GA,13261,Sumter,Sumter (13261),Sumter
+Talbot (13263),Georgia,13,522,COLUMBUS  GA,13263,Talbot,Talbot (13263),Talbot
+Walker (13295),Georgia,13,575,CHATTANOOGA,13295,Walker,Walker (13295),Walker
+Webster (13307),Georgia,13,522,COLUMBUS  GA,13307,Webster,Webster (13307),Webster
+Whitfield (13313),Georgia,13,575,CHATTANOOGA,13313,Whitfield,Whitfield (13313),Whitfield
+Taylor (13269),Georgia,13,522,COLUMBUS  GA,13269,Taylor,Taylor (13269),Taylor
+Bureau (17011),Illinois,17,682,DAVNPRT-RI-MLNE,17011,Bureau,Bureau (17011),Bureau
+Carroll (17015),Illinois,17,682,DAVNPRT-RI-MLNE,17015,Carroll,Carroll (17015),Carroll
+Cass (17017),Illinois,17,648,CHAMPGN&SPR-DEC,17017,Cass,Cass (17017),Cass
+Champaign (17019),Illinois,17,648,CHAMPGN&SPR-DEC,17019,Champaign,Champaign (17019),Champaign
+Christian (17021),Illinois,17,648,CHAMPGN&SPR-DEC,17021,Christian,Christian (17021),Christian
+Switzerland (18155),Indiana,18,515,CINCINNATI,18155,Switzerland,Switzerland (18155),Switzerland
+Appanoose (19007),Iowa,19,679,DES MOINES-AMES,19007,Appanoose,Appanoose (19007),Appanoose
+Audubon (19009),Iowa,19,679,DES MOINES-AMES,19009,Audubon,Audubon (19009),Audubon
+Benton (19011),Iowa,19,637,CDR RP-WA-IC&DB,19011,Benton,Benton (19011),Benton
+Fayette (19065),Iowa,19,637,CDR RP-WA-IC&DB,19065,Fayette,Fayette (19065),Fayette
+Franklin (19069),Iowa,19,679,DES MOINES-AMES,19069,Franklin,Franklin (19069),Franklin
+Johnson (19103),Iowa,19,637,CDR RP-WA-IC&DB,19103,Johnson,Johnson (19103),Johnson
+Jones (19105),Iowa,19,637,CDR RP-WA-IC&DB,19105,Jones,Jones (19105),Jones
+Keokuk (19107),Iowa,19,637,CDR RP-WA-IC&DB,19107,Keokuk,Keokuk (19107),Keokuk
+Kossuth (19109),Iowa,19,679,DES MOINES-AMES,19109,Kossuth,Kossuth (19109),Kossuth
+Linn (19113),Iowa,19,637,CDR RP-WA-IC&DB,19113,Linn,Linn (19113),Linn
+Louisa (19115),Iowa,19,682,DAVNPRT-RI-MLNE,19115,Louisa,Louisa (19115),Louisa
+Lucas (19117),Iowa,19,679,DES MOINES-AMES,19117,Lucas,Lucas (19117),Lucas
+Madison (19121),Iowa,19,679,DES MOINES-AMES,19121,Madison,Madison (19121),Madison
+Mahaska (19123),Iowa,19,679,DES MOINES-AMES,19123,Mahaska,Mahaska (19123),Mahaska
+Marion (19125),Iowa,19,679,DES MOINES-AMES,19125,Marion,Marion (19125),Marion
+Marshall (19127),Iowa,19,679,DES MOINES-AMES,19127,Marshall,Marshall (19127),Marshall
+Monroe (19135),Iowa,19,679,DES MOINES-AMES,19135,Monroe,Monroe (19135),Monroe
+Muscatine (19139),Iowa,19,682,DAVNPRT-RI-MLNE,19139,Muscatine,Muscatine (19139),Muscatine
+Pocahontas (19151),Iowa,19,679,DES MOINES-AMES,19151,Pocahontas,Pocahontas (19151),Pocahontas
+Polk (19153),Iowa,19,679,DES MOINES-AMES,19153,Polk,Polk (19153),Polk
+Poweshiek (19157),Iowa,19,679,DES MOINES-AMES,19157,Poweshiek,Poweshiek (19157),Poweshiek
+Ringgold (19159),Iowa,19,679,DES MOINES-AMES,19159,Ringgold,Ringgold (19159),Ringgold
+Scott (19163),Iowa,19,682,DAVNPRT-RI-MLNE,19163,Scott,Scott (19163),Scott
+Story (19169),Iowa,19,679,DES MOINES-AMES,19169,Story,Story (19169),Story
+Tama (19171),Iowa,19,637,CDR RP-WA-IC&DB,19171,Tama,Tama (19171),Tama
+Taylor (19173),Iowa,19,679,DES MOINES-AMES,19173,Taylor,Taylor (19173),Taylor
+Union (19175),Iowa,19,679,DES MOINES-AMES,19175,Union,Union (19175),Union
+Warren (19181),Iowa,19,679,DES MOINES-AMES,19181,Warren,Warren (19181),Warren
+Washington (19183),Iowa,19,637,CDR RP-WA-IC&DB,19183,Washington,Washington (19183),Washington
+Wayne (19185),Iowa,19,679,DES MOINES-AMES,19185,Wayne,Wayne (19185),Wayne
+Webster (19187),Iowa,19,679,DES MOINES-AMES,19187,Webster,Webster (19187),Webster
+Winneshiek (19191),Iowa,19,637,CDR RP-WA-IC&DB,19191,Winneshiek,Winneshiek (19191),Winneshiek
+Wright (19197),Iowa,19,679,DES MOINES-AMES,19197,Wright,Wright (19197),Wright
+Newton (18111),Indiana,18,602,CHICAGO,18111,Newton,Newton (18111),Newton
+Ohio (18115),Indiana,18,515,CINCINNATI,18115,Ohio,Ohio (18115),Ohio
+Union (18161),Indiana,18,515,CINCINNATI,18161,Union,Union (18161),Union
+Vanderburgh (18163),Indiana,18,649,EVANSVILLE,18163,Vanderburgh,Vanderburgh (18163),Vanderburgh
+Black Hawk (19013),Iowa,19,637,CDR RP-WA-IC&DB,19013,Black Hawk,Black Hawk (19013),Black Hawk
+Boone (19015),Iowa,19,679,DES MOINES-AMES,19015,Boone,Boone (19015),Boone
+Bremer (19017),Iowa,19,637,CDR RP-WA-IC&DB,19017,Bremer,Bremer (19017),Bremer
+Buchanan (19019),Iowa,19,637,CDR RP-WA-IC&DB,19019,Buchanan,Buchanan (19019),Buchanan
+Greene (19073),Iowa,19,679,DES MOINES-AMES,19073,Greene,Greene (19073),Greene
+Grundy (19075),Iowa,19,637,CDR RP-WA-IC&DB,19075,Grundy,Grundy (19075),Grundy
+Butler (19023),Iowa,19,637,CDR RP-WA-IC&DB,19023,Butler,Butler (19023),Butler
+Calhoun (19025),Iowa,19,679,DES MOINES-AMES,19025,Calhoun,Calhoun (19025),Calhoun
+Carroll (19027),Iowa,19,679,DES MOINES-AMES,19027,Carroll,Carroll (19027),Carroll
+Guthrie (19077),Iowa,19,679,DES MOINES-AMES,19077,Guthrie,Guthrie (19077),Guthrie
+Hamilton (19079),Iowa,19,679,DES MOINES-AMES,19079,Hamilton,Hamilton (19079),Hamilton
+Hardin (19083),Iowa,19,679,DES MOINES-AMES,19083,Hardin,Hardin (19083),Hardin
+Perry (18123),Indiana,18,649,EVANSVILLE,18123,Perry,Perry (18123),Perry
+Pike (18125),Indiana,18,649,EVANSVILLE,18125,Pike,Pike (18125),Pike
+Warrick (18173),Indiana,18,649,EVANSVILLE,18173,Warrick,Warrick (18173),Warrick
+Cedar (19031),Iowa,19,637,CDR RP-WA-IC&DB,19031,Cedar,Cedar (19031),Cedar
+Henry (19087),Iowa,19,682,DAVNPRT-RI-MLNE,19087,Henry,Henry (19087),Henry
+Humboldt (19091),Iowa,19,679,DES MOINES-AMES,19091,Humboldt,Humboldt (19091),Humboldt
+Porter (18127),Indiana,18,602,CHICAGO,18127,Porter,Porter (18127),Porter
+Posey (18129),Indiana,18,649,EVANSVILLE,18129,Posey,Posey (18129),Posey
+Wayne (18177),Indiana,18,542,DAYTON,18177,Wayne,Wayne (18177),Wayne
+Chickasaw (19037),Iowa,19,637,CDR RP-WA-IC&DB,19037,Chickasaw,Chickasaw (19037),Chickasaw
+Clarke (19039),Iowa,19,679,DES MOINES-AMES,19039,Clarke,Clarke (19039),Clarke
+Clayton (19043),Iowa,19,637,CDR RP-WA-IC&DB,19043,Clayton,Clayton (19043),Clayton
+Iowa (19095),Iowa,19,637,CDR RP-WA-IC&DB,19095,Iowa,Iowa (19095),Iowa
+Ripley (18137),Indiana,18,515,CINCINNATI,18137,Ripley,Ripley (18137),Ripley
+Clinton (19045),Iowa,19,682,DAVNPRT-RI-MLNE,19045,Clinton,Clinton (19045),Clinton
+Dallas (19049),Iowa,19,679,DES MOINES-AMES,19049,Dallas,Dallas (19049),Dallas
+Jackson (19097),Iowa,19,682,DAVNPRT-RI-MLNE,19097,Jackson,Jackson (19097),Jackson
+Spencer (18147),Indiana,18,649,EVANSVILLE,18147,Spencer,Spencer (18147),Spencer
+Adair (19001),Iowa,19,679,DES MOINES-AMES,19001,Adair,Adair (19001),Adair
+Adams (19003),Iowa,19,679,DES MOINES-AMES,19003,Adams,Adams (19003),Adams
+Decatur (19053),Iowa,19,679,DES MOINES-AMES,19053,Decatur,Decatur (19053),Decatur
+Delaware (19055),Iowa,19,637,CDR RP-WA-IC&DB,19055,Delaware,Delaware (19055),Delaware
+Des Moines (19057),Iowa,19,682,DAVNPRT-RI-MLNE,19057,Des Moines,Des Moines (19057),Des Moines
+Jasper (19099),Iowa,19,679,DES MOINES-AMES,19099,Jasper,Jasper (19099),Jasper
+Allamakee (19005),Iowa,19,637,CDR RP-WA-IC&DB,19005,Allamakee,Allamakee (19005),Allamakee
+Dubuque (19061),Iowa,19,637,CDR RP-WA-IC&DB,19061,Dubuque,Dubuque (19061),Dubuque
+Kane (17089),Illinois,17,602,CHICAGO,17089,Kane,Kane (17089),Kane
+Kankakee (17091),Illinois,17,602,CHICAGO,17091,Kankakee,Kankakee (17091),Kankakee
+Sangamon (17167),Illinois,17,648,CHAMPGN&SPR-DEC,17167,Sangamon,Sangamon (17167),Sangamon
+Shelby (17173),Illinois,17,648,CHAMPGN&SPR-DEC,17173,Shelby,Shelby (17173),Shelby
+Vermilion (17183),Illinois,17,648,CHAMPGN&SPR-DEC,17183,Vermilion,Vermilion (17183),Vermilion
+Wabash (17185),Illinois,17,649,EVANSVILLE,17185,Wabash,Wabash (17185),Wabash
+Warren (17187),Illinois,17,682,DAVNPRT-RI-MLNE,17187,Warren,Warren (17187),Warren
+Wayne (17191),Illinois,17,649,EVANSVILLE,17191,Wayne,Wayne (17191),Wayne
+White (17193),Illinois,17,649,EVANSVILLE,17193,White,White (17193),White
+Whiteside (17195),Illinois,17,682,DAVNPRT-RI-MLNE,17195,Whiteside,Whiteside (17195),Whiteside
+Will (17197),Illinois,17,602,CHICAGO,17197,Will,Will (17197),Will
+Dearborn (18029),Indiana,18,515,CINCINNATI,18029,Dearborn,Dearborn (18029),Dearborn
+Dubois (18037),Indiana,18,649,EVANSVILLE,18037,Dubois,Dubois (18037),Dubois
+Franklin (18047),Indiana,18,515,CINCINNATI,18047,Franklin,Franklin (18047),Franklin
+Gibson (18051),Indiana,18,649,EVANSVILLE,18051,Gibson,Gibson (18051),Gibson
+Jasper (18073),Indiana,18,602,CHICAGO,18073,Jasper,Jasper (18073),Jasper
+Lake (18089),Indiana,18,602,CHICAGO,18089,Lake,Lake (18089),Lake
+LaPorte (18091),Indiana,18,602,CHICAGO,18091,LaPorte,LaPorte (18091),LaPorte
+Kendall (17093),Illinois,17,602,CHICAGO,17093,Kendall,Kendall (17093),Kendall
+Knox (17095),Illinois,17,682,DAVNPRT-RI-MLNE,17095,Knox,Knox (17095),Knox
+Lake (17097),Illinois,17,602,CHICAGO,17097,Lake,Lake (17097),Lake
+Coles (17029),Illinois,17,648,CHAMPGN&SPR-DEC,17029,Coles,Coles (17029),Coles
+Cook (17031),Illinois,17,602,CHICAGO,17031,Cook,Cook (17031),Cook
+Cumberland (17035),Illinois,17,648,CHAMPGN&SPR-DEC,17035,Cumberland,Cumberland (17035),Cumberland
+Henderson (17071),Illinois,17,682,DAVNPRT-RI-MLNE,17071,Henderson,Henderson (17071),Henderson
+LaSalle (17099),Illinois,17,602,CHICAGO,17099,LaSalle,LaSalle (17099),LaSalle
+Menard (17129),Illinois,17,648,CHAMPGN&SPR-DEC,17129,Menard,Menard (17129),Menard
+DeKalb (17037),Illinois,17,602,CHICAGO,17037,DeKalb,DeKalb (17037),DeKalb
+De Witt (17039),Illinois,17,648,CHAMPGN&SPR-DEC,17039,De Witt,De Witt (17039),De Witt
+Douglas (17041),Illinois,17,648,CHAMPGN&SPR-DEC,17041,Douglas,Douglas (17041),Douglas
+Henry (17073),Illinois,17,682,DAVNPRT-RI-MLNE,17073,Henry,Henry (17073),Henry
+Mercer (17131),Illinois,17,682,DAVNPRT-RI-MLNE,17131,Mercer,Mercer (17131),Mercer
+DuPage (17043),Illinois,17,602,CHICAGO,17043,DuPage,DuPage (17043),DuPage
+Iroquois (17075),Illinois,17,648,CHAMPGN&SPR-DEC,17075,Iroquois,Iroquois (17075),Iroquois
+Morgan (17137),Illinois,17,648,CHAMPGN&SPR-DEC,17137,Morgan,Morgan (17137),Morgan
+Moultrie (17139),Illinois,17,648,CHAMPGN&SPR-DEC,17139,Moultrie,Moultrie (17139),Moultrie
+Edgar (17045),Illinois,17,648,CHAMPGN&SPR-DEC,17045,Edgar,Edgar (17045),Edgar
+Edwards (17047),Illinois,17,649,EVANSVILLE,17047,Edwards,Edwards (17047),Edwards
+Effingham (17049),Illinois,17,648,CHAMPGN&SPR-DEC,17049,Effingham,Effingham (17049),Effingham
+Logan (17107),Illinois,17,648,CHAMPGN&SPR-DEC,17107,Logan,Logan (17107),Logan
+Ford (17053),Illinois,17,648,CHAMPGN&SPR-DEC,17053,Ford,Ford (17053),Ford
+Jo Daviess (17085),Illinois,17,682,DAVNPRT-RI-MLNE,17085,Jo Daviess,Jo Daviess (17085),Jo Daviess
+McHenry (17111),Illinois,17,602,CHICAGO,17111,McHenry,McHenry (17111),McHenry
+Macon (17115),Illinois,17,648,CHAMPGN&SPR-DEC,17115,Macon,Macon (17115),Macon
+Piatt (17147),Illinois,17,648,CHAMPGN&SPR-DEC,17147,Piatt,Piatt (17147),Piatt
+Rock Island (17161),Illinois,17,682,DAVNPRT-RI-MLNE,17161,Rock Island,Rock Island (17161),Rock Island
+Grundy (17063),Illinois,17,602,CHICAGO,17063,Grundy,Grundy (17063),Grundy
+Monroe (26115),Michigan,26,505,DETROIT,26115,Monroe,Monroe (26115),Monroe
+Sanilac (26151),Michigan,26,505,DETROIT,26151,Sanilac,Sanilac (26151),Sanilac
+Carlton (27017),Minnesota,27,676,DULUTH-SUPERIOR,27017,Carlton,Carlton (27017),Carlton
+Cook (27031),Minnesota,27,676,DULUTH-SUPERIOR,27031,Cook,Cook (27031),Cook
+Itasca (27061),Minnesota,27,676,DULUTH-SUPERIOR,27061,Itasca,Itasca (27061),Itasca
+Koochiching (27071),Minnesota,27,676,DULUTH-SUPERIOR,27071,Koochiching,Koochiching (27071),Koochiching
+Lake (27075),Minnesota,27,676,DULUTH-SUPERIOR,27075,Lake,Lake (27075),Lake
+St. Louis (27137),Minnesota,27,676,DULUTH-SUPERIOR,27137,St. Louis,St. Louis (27137),St. Louis
+Calhoun (28013),Mississippi,28,673,COLUMBUS-TUP-WP,28013,Calhoun,Calhoun (28013),Calhoun
+Chickasaw (28017),Mississippi,28,673,COLUMBUS-TUP-WP,28017,Chickasaw,Chickasaw (28017),Chickasaw
+Choctaw (28019),Mississippi,28,673,COLUMBUS-TUP-WP,28019,Choctaw,Choctaw (28019),Choctaw
+Clay (28025),Mississippi,28,673,COLUMBUS-TUP-WP,28025,Clay,Clay (28025),Clay
+Itawamba (28057),Mississippi,28,673,COLUMBUS-TUP-WP,28057,Itawamba,Itawamba (28057),Itawamba
+Lapeer (26087),Michigan,26,505,DETROIT,26087,Lapeer,Lapeer (26087),Lapeer
+Oakland (26125),Michigan,26,505,DETROIT,26125,Oakland,Oakland (26125),Oakland
+Washtenaw (26161),Michigan,26,505,DETROIT,26161,Washtenaw,Washtenaw (26161),Washtenaw
+Wayne (26163),Michigan,26,505,DETROIT,26163,Wayne,Wayne (26163),Wayne
+Livingston (26093),Michigan,26,505,DETROIT,26093,Livingston,Livingston (26093),Livingston
+Macomb (26099),Michigan,26,505,DETROIT,26099,Macomb,Macomb (26099),Macomb
+Gogebic (26053),Michigan,26,676,DULUTH-SUPERIOR,26053,Gogebic,Gogebic (26053),Gogebic
+St. Clair (26147),Michigan,26,505,DETROIT,26147,St. Clair,St. Clair (26147),St. Clair
+Elliott (21063),Kentucky,21,564,CHARLSTN-HUNTNG,21063,Elliott,Elliott (21063),Elliott
+Floyd (21071),Kentucky,21,564,CHARLSTN-HUNTNG,21071,Floyd,Floyd (21071),Floyd
+Gallatin (21077),Kentucky,21,515,CINCINNATI,21077,Gallatin,Gallatin (21077),Gallatin
+Grant (21081),Kentucky,21,515,CINCINNATI,21081,Grant,Grant (21081),Grant
+Greenup (21089),Kentucky,21,564,CHARLSTN-HUNTNG,21089,Greenup,Greenup (21089),Greenup
+Hancock (21091),Kentucky,21,649,EVANSVILLE,21091,Hancock,Hancock (21091),Hancock
+Henderson (21101),Kentucky,21,649,EVANSVILLE,21101,Henderson,Henderson (21101),Henderson
+Hopkins (21107),Kentucky,21,649,EVANSVILLE,21107,Hopkins,Hopkins (21107),Hopkins
+Johnson (21115),Kentucky,21,564,CHARLSTN-HUNTNG,21115,Johnson,Johnson (21115),Johnson
+Kenton (21117),Kentucky,21,515,CINCINNATI,21117,Kenton,Kenton (21117),Kenton
+Lawrence (21127),Kentucky,21,564,CHARLSTN-HUNTNG,21127,Lawrence,Lawrence (21127),Lawrence
+Lewis (21135),Kentucky,21,564,CHARLSTN-HUNTNG,21135,Lewis,Lewis (21135),Lewis
+McLean (21149),Kentucky,21,649,EVANSVILLE,21149,McLean,McLean (21149),McLean
+Martin (21159),Kentucky,21,564,CHARLSTN-HUNTNG,21159,Martin,Martin (21159),Martin
+Mason (21161),Kentucky,21,515,CINCINNATI,21161,Mason,Mason (21161),Mason
+Muhlenberg (21177),Kentucky,21,649,EVANSVILLE,21177,Muhlenberg,Muhlenberg (21177),Muhlenberg
+Ohio (21183),Kentucky,21,649,EVANSVILLE,21183,Ohio,Ohio (21183),Ohio
+Owen (21187),Kentucky,21,515,CINCINNATI,21187,Owen,Owen (21187),Owen
+Pendleton (21191),Kentucky,21,515,CINCINNATI,21191,Pendleton,Pendleton (21191),Pendleton
+Pike (21195),Kentucky,21,564,CHARLSTN-HUNTNG,21195,Pike,Pike (21195),Pike
+Robertson (21201),Kentucky,21,515,CINCINNATI,21201,Robertson,Robertson (21201),Robertson
+Union (21225),Kentucky,21,649,EVANSVILLE,21225,Union,Union (21225),Union
+Webster (21233),Kentucky,21,649,EVANSVILLE,21233,Webster,Webster (21233),Webster
+Boone (21015),Kentucky,21,515,CINCINNATI,21015,Boone,Boone (21015),Boone
+Boyd (21019),Kentucky,21,564,CHARLSTN-HUNTNG,21019,Boyd,Boyd (21019),Boyd
+Bracken (21023),Kentucky,21,515,CINCINNATI,21023,Bracken,Bracken (21023),Bracken
+Campbell (21037),Kentucky,21,515,CINCINNATI,21037,Campbell,Campbell (21037),Campbell
+Carter (21043),Kentucky,21,564,CHARLSTN-HUNTNG,21043,Carter,Carter (21043),Carter
+Daviess (21059),Kentucky,21,649,EVANSVILLE,21059,Daviess,Daviess (21059),Daviess
+Cheyenne (31033),Nebraska,31,751,DENVER,31033,Cheyenne,Cheyenne (31033),Cheyenne
+Garden (31069),Nebraska,31,751,DENVER,31069,Garden,Garden (31069),Garden
+Grant (31075),Nebraska,31,751,DENVER,31075,Grant,Grant (31075),Grant
+Hooker (31091),Nebraska,31,751,DENVER,31091,Hooker,Hooker (31091),Hooker
+Keith (31101),Nebraska,31,751,DENVER,31101,Keith,Keith (31101),Keith
+Kimball (31105),Nebraska,31,751,DENVER,31105,Kimball,Kimball (31105),Kimball
+Morrill (31123),Nebraska,31,751,DENVER,31123,Morrill,Morrill (31123),Morrill
+Scotts Bluff (31157),Nebraska,31,759,CHEY-SCTTS,31157,Scotts Bluff,Scotts Bluff (31157),Scotts Bluff
+Sheridan (31161),Nebraska,31,751,DENVER,31161,Sheridan,Sheridan (31161),Sheridan
+Sioux (31165),Nebraska,31,759,CHEY-SCTTS,31165,Sioux,Sioux (31165),Sioux
+Arthur (31005),Nebraska,31,751,DENVER,31005,Arthur,Arthur (31005),Arthur
+Box Butte (31013),Nebraska,31,751,DENVER,31013,Box Butte,Box Butte (31013),Box Butte
+Dawes (31045),Nebraska,31,751,DENVER,31045,Dawes,Dawes (31045),Dawes
+Deuel (31049),Nebraska,31,751,DENVER,31049,Deuel,Deuel (31049),Deuel
+Cherry (31031),Nebraska,31,751,DENVER,31031,Cherry,Cherry (31031),Cherry
+Maries (29125),Missouri,29,604,COLUMBIA-JF CTY,29125,Maries,Maries (29125),Maries
+Miller (29131),Missouri,29,604,COLUMBIA-JF CTY,29131,Miller,Miller (29131),Miller
+Moniteau (29135),Missouri,29,604,COLUMBIA-JF CTY,29135,Moniteau,Moniteau (29135),Moniteau
+Montgomery (29139),Missouri,29,604,COLUMBIA-JF CTY,29139,Montgomery,Montgomery (29139),Montgomery
+Morgan (29141),Missouri,29,604,COLUMBIA-JF CTY,29141,Morgan,Morgan (29141),Morgan
+Osage (29151),Missouri,29,604,COLUMBIA-JF CTY,29151,Osage,Osage (29151),Osage
+Randolph (29175),Missouri,29,604,COLUMBIA-JF CTY,29175,Randolph,Randolph (29175),Randolph
+Tishomingo (28141),Mississippi,28,673,COLUMBUS-TUP-WP,28141,Tishomingo,Tishomingo (28141),Tishomingo
+Union (28145),Mississippi,28,673,COLUMBUS-TUP-WP,28145,Union,Union (28145),Union
+Callaway (29027),Missouri,29,604,COLUMBIA-JF CTY,29027,Callaway,Callaway (29027),Callaway
+Lee (28081),Mississippi,28,673,COLUMBUS-TUP-WP,28081,Lee,Lee (28081),Lee
+Lowndes (28087),Mississippi,28,673,COLUMBUS-TUP-WP,28087,Lowndes,Lowndes (28087),Lowndes
+Webster (28155),Mississippi,28,673,COLUMBUS-TUP-WP,28155,Webster,Webster (28155),Webster
+Chariton (29041),Missouri,29,604,COLUMBIA-JF CTY,29041,Chariton,Chariton (29041),Chariton
+Monroe (28095),Mississippi,28,673,COLUMBUS-TUP-WP,28095,Monroe,Monroe (28095),Monroe
+Montgomery (28097),Mississippi,28,673,COLUMBUS-TUP-WP,28097,Montgomery,Montgomery (28097),Montgomery
+Winston (28159),Mississippi,28,673,COLUMBUS-TUP-WP,28159,Winston,Winston (28159),Winston
+Yalobusha (28161),Mississippi,28,673,COLUMBUS-TUP-WP,28161,Yalobusha,Yalobusha (28161),Yalobusha
+Noxubee (28103),Mississippi,28,673,COLUMBUS-TUP-WP,28103,Noxubee,Noxubee (28103),Noxubee
+Oktibbeha (28105),Mississippi,28,673,COLUMBUS-TUP-WP,28105,Oktibbeha,Oktibbeha (28105),Oktibbeha
+Audrain (29007),Missouri,29,604,COLUMBIA-JF CTY,29007,Audrain,Audrain (29007),Audrain
+Cole (29051),Missouri,29,604,COLUMBIA-JF CTY,29051,Cole,Cole (29051),Cole
+Pontotoc (28115),Mississippi,28,673,COLUMBUS-TUP-WP,28115,Pontotoc,Pontotoc (28115),Pontotoc
+Cooper (29053),Missouri,29,604,COLUMBIA-JF CTY,29053,Cooper,Cooper (29053),Cooper
+Prentiss (28117),Mississippi,28,673,COLUMBUS-TUP-WP,28117,Prentiss,Prentiss (28117),Prentiss
+Boone (29019),Missouri,29,604,COLUMBIA-JF CTY,29019,Boone,Boone (29019),Boone
+Howard (29089),Missouri,29,604,COLUMBIA-JF CTY,29089,Howard,Howard (29089),Howard
+Adams (39001),Ohio,39,515,CINCINNATI,39001,Adams,Adams (39001),Adams
+Ashland (39005),Ohio,39,510,CLEVELAND,39005,Ashland,Ashland (39005),Ashland
+Ashtabula (39007),Ohio,39,510,CLEVELAND,39007,Ashtabula,Ashtabula (39007),Ashtabula
+Athens (39009),Ohio,39,535,COLUMBUS  OH,39009,Athens,Athens (39009),Athens
+Brown (39015),Ohio,39,515,CINCINNATI,39015,Brown,Brown (39015),Brown
+Butler (39017),Ohio,39,515,CINCINNATI,39017,Butler,Butler (39017),Butler
+Carroll (39019),Ohio,39,510,CLEVELAND,39019,Carroll,Carroll (39019),Carroll
+Champaign (39021),Ohio,39,542,DAYTON,39021,Champaign,Champaign (39021),Champaign
+Clark (39023),Ohio,39,542,DAYTON,39023,Clark,Clark (39023),Clark
+Clermont (39025),Ohio,39,515,CINCINNATI,39025,Clermont,Clermont (39025),Clermont
+Clinton (39027),Ohio,39,515,CINCINNATI,39027,Clinton,Clinton (39027),Clinton
+Coshocton (39031),Ohio,39,535,COLUMBUS  OH,39031,Coshocton,Coshocton (39031),Coshocton
+Crawford (39033),Ohio,39,535,COLUMBUS  OH,39033,Crawford,Crawford (39033),Crawford
+Cuyahoga (39035),Ohio,39,510,CLEVELAND,39035,Cuyahoga,Cuyahoga (39035),Cuyahoga
+Darke (39037),Ohio,39,542,DAYTON,39037,Darke,Darke (39037),Darke
+Delaware (39041),Ohio,39,535,COLUMBUS  OH,39041,Delaware,Delaware (39041),Delaware
+Erie (39043),Ohio,39,510,CLEVELAND,39043,Erie,Erie (39043),Erie
+Fairfield (39045),Ohio,39,535,COLUMBUS  OH,39045,Fairfield,Fairfield (39045),Fairfield
+Fayette (39047),Ohio,39,535,COLUMBUS  OH,39047,Fayette,Fayette (39047),Fayette
+Franklin (39049),Ohio,39,535,COLUMBUS  OH,39049,Franklin,Franklin (39049),Franklin
+Gallia (39053),Ohio,39,564,CHARLSTN-HUNTNG,39053,Gallia,Gallia (39053),Gallia
+Geauga (39055),Ohio,39,510,CLEVELAND,39055,Geauga,Geauga (39055),Geauga
+Greene (39057),Ohio,39,542,DAYTON,39057,Greene,Greene (39057),Greene
+Guernsey (39059),Ohio,39,535,COLUMBUS  OH,39059,Guernsey,Guernsey (39059),Guernsey
+Hamilton (39061),Ohio,39,515,CINCINNATI,39061,Hamilton,Hamilton (39061),Hamilton
+Hardin (39065),Ohio,39,535,COLUMBUS  OH,39065,Hardin,Hardin (39065),Hardin
+Highland (39071),Ohio,39,515,CINCINNATI,39071,Highland,Highland (39071),Highland
+Hocking (39073),Ohio,39,535,COLUMBUS  OH,39073,Hocking,Hocking (39073),Hocking
+Holmes (39075),Ohio,39,510,CLEVELAND,39075,Holmes,Holmes (39075),Holmes
+Huron (39077),Ohio,39,510,CLEVELAND,39077,Huron,Huron (39077),Huron
+Jackson (39079),Ohio,39,564,CHARLSTN-HUNTNG,39079,Jackson,Jackson (39079),Jackson
+Knox (39083),Ohio,39,535,COLUMBUS  OH,39083,Knox,Knox (39083),Knox
+Lake (39085),Ohio,39,510,CLEVELAND,39085,Lake,Lake (39085),Lake
+Lawrence (39087),Ohio,39,564,CHARLSTN-HUNTNG,39087,Lawrence,Lawrence (39087),Lawrence
+Licking (39089),Ohio,39,535,COLUMBUS  OH,39089,Licking,Licking (39089),Licking
+Logan (39091),Ohio,39,542,DAYTON,39091,Logan,Logan (39091),Logan
+Lorain (39093),Ohio,39,510,CLEVELAND,39093,Lorain,Lorain (39093),Lorain
+Madison (39097),Ohio,39,535,COLUMBUS  OH,39097,Madison,Madison (39097),Madison
+Marion (39101),Ohio,39,535,COLUMBUS  OH,39101,Marion,Marion (39101),Marion
+Medina (39103),Ohio,39,510,CLEVELAND,39103,Medina,Medina (39103),Medina
+Meigs (39105),Ohio,39,564,CHARLSTN-HUNTNG,39105,Meigs,Meigs (39105),Meigs
+Mercer (39107),Ohio,39,542,DAYTON,39107,Mercer,Mercer (39107),Mercer
+Miami (39109),Ohio,39,542,DAYTON,39109,Miami,Miami (39109),Miami
+Montgomery (39113),Ohio,39,542,DAYTON,39113,Montgomery,Montgomery (39113),Montgomery
+Morgan (39115),Ohio,39,535,COLUMBUS  OH,39115,Morgan,Morgan (39115),Morgan
+Pike (39131),Ohio,39,535,COLUMBUS  OH,39131,Pike,Pike (39131),Pike
+Portage (39133),Ohio,39,510,CLEVELAND,39133,Portage,Portage (39133),Portage
+Morrow (39117),Ohio,39,535,COLUMBUS  OH,39117,Morrow,Morrow (39117),Morrow
+Perry (39127),Ohio,39,535,COLUMBUS  OH,39127,Perry,Perry (39127),Perry
+Pickaway (39129),Ohio,39,535,COLUMBUS  OH,39129,Pickaway,Pickaway (39129),Pickaway
+Iredell (37097),North Carolina,37,517,CHARLOTTE,37097,Iredell,Iredell (37097),Iredell
+Lincoln (37109),North Carolina,37,517,CHARLOTTE,37109,Lincoln,Lincoln (37109),Lincoln
+Mecklenburg (37119),North Carolina,37,517,CHARLOTTE,37119,Mecklenburg,Mecklenburg (37119),Mecklenburg
+Richmond (37153),North Carolina,37,517,CHARLOTTE,37153,Richmond,Richmond (37153),Richmond
+Rowan (37159),North Carolina,37,517,CHARLOTTE,37159,Rowan,Rowan (37159),Rowan
+Stanly (37167),North Carolina,37,517,CHARLOTTE,37167,Stanly,Stanly (37167),Stanly
+Union (37179),North Carolina,37,517,CHARLOTTE,37179,Union,Union (37179),Union
+Watauga (37189),North Carolina,37,517,CHARLOTTE,37189,Watauga,Watauga (37189),Watauga
+Chemung (36015),New York,36,565,ELMIRA,36015,Chemung,Chemung (36015),Chemung
+Schuyler (36097),New York,36,565,ELMIRA,36097,Schuyler,Schuyler (36097),Schuyler
+Steuben (36101),New York,36,565,ELMIRA,36101,Steuben,Steuben (36101),Steuben
+Alexander (37003),North Carolina,37,517,CHARLOTTE,37003,Alexander,Alexander (37003),Alexander
+Anson (37007),North Carolina,37,517,CHARLOTTE,37007,Anson,Anson (37007),Anson
+Ashe (37009),North Carolina,37,517,CHARLOTTE,37009,Ashe,Ashe (37009),Ashe
+Avery (37011),North Carolina,37,517,CHARLOTTE,37011,Avery,Avery (37011),Avery
+Burke (37023),North Carolina,37,517,CHARLOTTE,37023,Burke,Burke (37023),Burke
+Cabarrus (37025),North Carolina,37,517,CHARLOTTE,37025,Cabarrus,Cabarrus (37025),Cabarrus
+Caldwell (37027),North Carolina,37,517,CHARLOTTE,37027,Caldwell,Caldwell (37027),Caldwell
+Cleveland (37045),North Carolina,37,517,CHARLOTTE,37045,Cleveland,Cleveland (37045),Cleveland
+Gaston (37071),North Carolina,37,517,CHARLOTTE,37071,Gaston,Gaston (37071),Gaston
+Catawba (37035),North Carolina,37,517,CHARLOTTE,37035,Catawba,Catawba (37035),Catawba
+Cherokee (37039),North Carolina,37,575,CHATTANOOGA,37039,Cherokee,Cherokee (37039),Cherokee
+Do?ña Ana (35013),New Mexico,35,765,EL PASO,35013,Do?ña Ana,Do?ña Ana (35013),Do?ña Ana
+Grundy (47061),Tennessee,47,575,CHATTANOOGA,47061,Grundy,Grundy (47061),Grundy
+Hamilton (47065),Tennessee,47,575,CHATTANOOGA,47065,Hamilton,Hamilton (47065),Hamilton
+McMinn (47107),Tennessee,47,575,CHATTANOOGA,47107,McMinn,McMinn (47107),McMinn
+Marion (47115),Tennessee,47,575,CHATTANOOGA,47115,Marion,Marion (47115),Marion
+Meigs (47121),Tennessee,47,575,CHATTANOOGA,47121,Meigs,Meigs (47121),Meigs
+Polk (47139),Tennessee,47,575,CHATTANOOGA,47139,Polk,Polk (47139),Polk
+Rhea (47143),Tennessee,47,575,CHATTANOOGA,47143,Rhea,Rhea (47143),Rhea
+Sequatchie (47153),Tennessee,47,575,CHATTANOOGA,47153,Sequatchie,Sequatchie (47153),Sequatchie
+Anderson (48001),Texas,48,623,DALLAS-FT.WORTH,48001,Anderson,Anderson (48001),Anderson
+Aransas (48007),Texas,48,600,CORPUS CHRISTI,48007,Aransas,Aransas (48007),Aransas
+Bee (48025),Texas,48,600,CORPUS CHRISTI,48025,Bee,Bee (48025),Bee
+Bosque (48035),Texas,48,623,DALLAS-FT.WORTH,48035,Bosque,Bosque (48035),Bosque
+Brooks (48047),Texas,48,600,CORPUS CHRISTI,48047,Brooks,Brooks (48047),Brooks
+Collin (48085),Texas,48,623,DALLAS-FT.WORTH,48085,Collin,Collin (48085),Collin
+Comanche (48093),Texas,48,623,DALLAS-FT.WORTH,48093,Comanche,Comanche (48093),Comanche
+Cooke (48097),Texas,48,623,DALLAS-FT.WORTH,48097,Cooke,Cooke (48097),Cooke
+Culberson (48109),Texas,48,765,EL PASO,48109,Culberson,Culberson (48109),Culberson
+Dallas (48113),Texas,48,623,DALLAS-FT.WORTH,48113,Dallas,Dallas (48113),Dallas
+Fannin (48147),Texas,48,623,DALLAS-FT.WORTH,48147,Fannin,Fannin (48147),Fannin
+Delta (48119),Texas,48,623,DALLAS-FT.WORTH,48119,Delta,Delta (48119),Delta
+Denton (48121),Texas,48,623,DALLAS-FT.WORTH,48121,Denton,Denton (48121),Denton
+Duval (48131),Texas,48,600,CORPUS CHRISTI,48131,Duval,Duval (48131),Duval
+Ellis (48139),Texas,48,623,DALLAS-FT.WORTH,48139,Ellis,Ellis (48139),Ellis
+El Paso (48141),Texas,48,765,EL PASO,48141,El Paso,El Paso (48141),El Paso
+Erath (48143),Texas,48,623,DALLAS-FT.WORTH,48143,Erath,Erath (48143),Erath
+Freestone (48161),Texas,48,623,DALLAS-FT.WORTH,48161,Freestone,Freestone (48161),Freestone
+Tioga (42117),Pennsylvania,42,565,ELMIRA,42117,Tioga,Tioga (42117),Tioga
+Warren (42123),Pennsylvania,42,516,ERIE,42123,Warren,Warren (42123),Warren
+Berkeley (45015),South Carolina,45,519,CHARLESTON  SC,45015,Berkeley,Berkeley (45015),Berkeley
+Calhoun (45017),South Carolina,45,546,COLUMBIA  SC,45017,Calhoun,Calhoun (45017),Calhoun
+Charleston (45019),South Carolina,45,519,CHARLESTON  SC,45019,Charleston,Charleston (45019),Charleston
+Chester (45023),South Carolina,45,517,CHARLOTTE,45023,Chester,Chester (45023),Chester
+Chesterfield (45025),South Carolina,45,517,CHARLOTTE,45025,Chesterfield,Chesterfield (45025),Chesterfield
+Clarendon (45027),South Carolina,45,546,COLUMBIA  SC,45027,Clarendon,Clarendon (45027),Clarendon
+Bledsoe (47007),Tennessee,47,575,CHATTANOOGA,47007,Bledsoe,Bledsoe (47007),Bledsoe
+Bradley (47011),Tennessee,47,575,CHATTANOOGA,47011,Bradley,Bradley (47011),Bradley
+Colleton (45029),South Carolina,45,519,CHARLESTON  SC,45029,Colleton,Colleton (45029),Colleton
+Dorchester (45035),South Carolina,45,519,CHARLESTON  SC,45035,Dorchester,Dorchester (45035),Dorchester
+Fairfield (45039),South Carolina,45,546,COLUMBIA  SC,45039,Fairfield,Fairfield (45039),Fairfield
+Georgetown (45043),South Carolina,45,519,CHARLESTON  SC,45043,Georgetown,Georgetown (45043),Georgetown
+Kershaw (45055),South Carolina,45,546,COLUMBIA  SC,45055,Kershaw,Kershaw (45055),Kershaw
+Lancaster (45057),South Carolina,45,517,CHARLOTTE,45057,Lancaster,Lancaster (45057),Lancaster
+Lee (45061),South Carolina,45,546,COLUMBIA  SC,45061,Lee,Lee (45061),Lee
+Lexington (45063),South Carolina,45,546,COLUMBIA  SC,45063,Lexington,Lexington (45063),Lexington
+Newberry (45071),South Carolina,45,546,COLUMBIA  SC,45071,Newberry,Newberry (45071),Newberry
+Orangeburg (45075),South Carolina,45,546,COLUMBIA  SC,45075,Orangeburg,Orangeburg (45075),Orangeburg
+Richland (45079),South Carolina,45,546,COLUMBIA  SC,45079,Richland,Richland (45079),Richland
+Saluda (45081),South Carolina,45,546,COLUMBIA  SC,45081,Saluda,Saluda (45081),Saluda
+Sumter (45085),South Carolina,45,546,COLUMBIA  SC,45085,Sumter,Sumter (45085),Sumter
+Williamsburg (45089),South Carolina,45,519,CHARLESTON  SC,45089,Williamsburg,Williamsburg (45089),Williamsburg
+York (45091),South Carolina,45,517,CHARLOTTE,45091,York,York (45091),York
+Benton (41003),Oregon,41,801,EUGENE,41003,Benton,Benton (41003),Benton
+Coos (41011),Oregon,41,801,EUGENE,41011,Coos,Coos (41011),Coos
+Douglas (41019),Oregon,41,801,EUGENE,41019,Douglas,Douglas (41019),Douglas
+Lane (41039),Oregon,41,801,EUGENE,41039,Lane,Lane (41039),Lane
+Crawford (42039),Pennsylvania,42,516,ERIE,42039,Crawford,Crawford (42039),Crawford
+Erie (42049),Pennsylvania,42,516,ERIE,42049,Erie,Erie (42049),Erie
+Preble (39135),Ohio,39,542,DAYTON,39135,Preble,Preble (39135),Preble
+Richland (39139),Ohio,39,510,CLEVELAND,39139,Richland,Richland (39139),Richland
+Ross (39141),Ohio,39,535,COLUMBUS  OH,39141,Ross,Ross (39141),Ross
+Scioto (39145),Ohio,39,564,CHARLSTN-HUNTNG,39145,Scioto,Scioto (39145),Scioto
+Shelby (39149),Ohio,39,542,DAYTON,39149,Shelby,Shelby (39149),Shelby
+Stark (39151),Ohio,39,510,CLEVELAND,39151,Stark,Stark (39151),Stark
+Summit (39153),Ohio,39,510,CLEVELAND,39153,Summit,Summit (39153),Summit
+Tuscarawas (39157),Ohio,39,510,CLEVELAND,39157,Tuscarawas,Tuscarawas (39157),Tuscarawas
+Union (39159),Ohio,39,535,COLUMBUS  OH,39159,Union,Union (39159),Union
+Vinton (39163),Ohio,39,564,CHARLSTN-HUNTNG,39163,Vinton,Vinton (39163),Vinton
+Warren (39165),Ohio,39,515,CINCINNATI,39165,Warren,Warren (39165),Warren
+Wayne (39169),Ohio,39,510,CLEVELAND,39169,Wayne,Wayne (39169),Wayne
+Mingo (54059),West Virginia,54,564,CHARLSTN-HUNTNG,54059,Mingo,Mingo (54059),Mingo
+Nicholas (54067),West Virginia,54,564,CHARLSTN-HUNTNG,54067,Nicholas,Nicholas (54067),Nicholas
+Douglas (55031),Wisconsin,55,676,DULUTH-SUPERIOR,55031,Douglas,Douglas (55031),Douglas
+Sawyer (55113),Wisconsin,55,676,DULUTH-SUPERIOR,55113,Sawyer,Sawyer (55113),Sawyer
+Putnam (54079),West Virginia,54,564,CHARLSTN-HUNTNG,54079,Putnam,Putnam (54079),Putnam
+Randolph (54083),West Virginia,54,598,CLARKSBURG-WSTN,54083,Randolph,Randolph (54083),Randolph
+Ritchie (54085),West Virginia,54,598,CLARKSBURG-WSTN,54085,Ritchie,Ritchie (54085),Ritchie
+Roane (54087),West Virginia,54,564,CHARLSTN-HUNTNG,54087,Roane,Roane (54087),Roane
+Barbour (54001),West Virginia,54,598,CLARKSBURG-WSTN,54001,Barbour,Barbour (54001),Barbour
+Boone (54005),West Virginia,54,564,CHARLSTN-HUNTNG,54005,Boone,Boone (54005),Boone
+Braxton (54007),West Virginia,54,564,CHARLSTN-HUNTNG,54007,Braxton,Braxton (54007),Braxton
+Taylor (54091),West Virginia,54,598,CLARKSBURG-WSTN,54091,Taylor,Taylor (54091),Taylor
+Tucker (54093),West Virginia,54,598,CLARKSBURG-WSTN,54093,Tucker,Tucker (54093),Tucker
+Upshur (54097),West Virginia,54,598,CLARKSBURG-WSTN,54097,Upshur,Upshur (54097),Upshur
+Wayne (54099),West Virginia,54,564,CHARLSTN-HUNTNG,54099,Wayne,Wayne (54099),Wayne
+Cabell (54011),West Virginia,54,564,CHARLSTN-HUNTNG,54011,Cabell,Cabell (54011),Cabell
+Calhoun (54013),West Virginia,54,564,CHARLSTN-HUNTNG,54013,Calhoun,Calhoun (54013),Calhoun
+Webster (54101),West Virginia,54,598,CLARKSBURG-WSTN,54101,Webster,Webster (54101),Webster
+Wirt (54105),West Virginia,54,564,CHARLSTN-HUNTNG,54105,Wirt,Wirt (54105),Wirt
+Ashland (55003),Wisconsin,55,676,DULUTH-SUPERIOR,55003,Ashland,Ashland (55003),Ashland
+Clay (54015),West Virginia,54,564,CHARLSTN-HUNTNG,54015,Clay,Clay (54015),Clay
+Doddridge (54017),West Virginia,54,598,CLARKSBURG-WSTN,54017,Doddridge,Doddridge (54017),Doddridge
+Gilmer (54021),West Virginia,54,598,CLARKSBURG-WSTN,54021,Gilmer,Gilmer (54021),Gilmer
+Harrison (54033),West Virginia,54,598,CLARKSBURG-WSTN,54033,Harrison,Harrison (54033),Harrison
+Jackson (54035),West Virginia,54,564,CHARLSTN-HUNTNG,54035,Jackson,Jackson (54035),Jackson
+Kanawha (54039),West Virginia,54,564,CHARLSTN-HUNTNG,54039,Kanawha,Kanawha (54039),Kanawha
+Lewis (54041),West Virginia,54,598,CLARKSBURG-WSTN,54041,Lewis,Lewis (54041),Lewis
+Lincoln (54043),West Virginia,54,564,CHARLSTN-HUNTNG,54043,Lincoln,Lincoln (54043),Lincoln
+Bayfield (55007),Wisconsin,55,676,DULUTH-SUPERIOR,55007,Bayfield,Bayfield (55007),Bayfield
+Logan (54045),West Virginia,54,564,CHARLSTN-HUNTNG,54045,Logan,Logan (54045),Logan
+Marion (54049),West Virginia,54,598,CLARKSBURG-WSTN,54049,Marion,Marion (54049),Marion
+Mason (54053),West Virginia,54,564,CHARLSTN-HUNTNG,54053,Mason,Mason (54053),Mason
+Johnson (48251),Texas,48,623,DALLAS-FT.WORTH,48251,Johnson,Johnson (48251),Johnson
+Kaufman (48257),Texas,48,623,DALLAS-FT.WORTH,48257,Kaufman,Kaufman (48257),Kaufman
+Tarrant (48439),Texas,48,623,DALLAS-FT.WORTH,48439,Tarrant,Tarrant (48439),Tarrant
+Albemarle (51003),Virginia,51,584,CHARLOTTESVILLE,51003,Albemarle,Albemarle (51003),Albemarle
+Fluvanna (51065),Virginia,51,584,CHARLOTTESVILLE,51065,Fluvanna,Fluvanna (51065),Fluvanna
+Greene (51079),Virginia,51,584,CHARLOTTESVILLE,51079,Greene,Greene (51079),Greene
+Madison (51113),Virginia,51,584,CHARLOTTESVILLE,51113,Madison,Madison (51113),Madison
+Charlottesville (51540),Virginia,51,584,CHARLOTTESVILLE,51540,Charlottesville,Charlottesville (51540),Charlottesville
+Hamilton (48193),Texas,48,623,DALLAS-FT.WORTH,48193,Hamilton,Hamilton (48193),Hamilton
+Kleberg (48273),Texas,48,600,CORPUS CHRISTI,48273,Kleberg,Kleberg (48273),Kleberg
+Lamar (48277),Texas,48,623,DALLAS-FT.WORTH,48277,Lamar,Lamar (48277),Lamar
+Navarro (48349),Texas,48,623,DALLAS-FT.WORTH,48349,Navarro,Navarro (48349),Navarro
+Nueces (48355),Texas,48,600,CORPUS CHRISTI,48355,Nueces,Nueces (48355),Nueces
+Palo Pinto (48363),Texas,48,623,DALLAS-FT.WORTH,48363,Palo Pinto,Palo Pinto (48363),Palo Pinto
+Parker (48367),Texas,48,623,DALLAS-FT.WORTH,48367,Parker,Parker (48367),Parker
+Van Zandt (48467),Texas,48,623,DALLAS-FT.WORTH,48467,Van Zandt,Van Zandt (48467),Van Zandt
+Henderson (48213),Texas,48,623,DALLAS-FT.WORTH,48213,Henderson,Henderson (48213),Henderson
+Hill (48217),Texas,48,623,DALLAS-FT.WORTH,48217,Hill,Hill (48217),Hill
+Hood (48221),Texas,48,623,DALLAS-FT.WORTH,48221,Hood,Hood (48221),Hood
+Hopkins (48223),Texas,48,623,DALLAS-FT.WORTH,48223,Hopkins,Hopkins (48223),Hopkins
+Hudspeth (48229),Texas,48,765,EL PASO,48229,Hudspeth,Hudspeth (48229),Hudspeth
+Rains (48379),Texas,48,623,DALLAS-FT.WORTH,48379,Rains,Rains (48379),Rains
+Red River (48387),Texas,48,623,DALLAS-FT.WORTH,48387,Red River,Red River (48387),Red River
+Refugio (48391),Texas,48,600,CORPUS CHRISTI,48391,Refugio,Refugio (48391),Refugio
+Hunt (48231),Texas,48,623,DALLAS-FT.WORTH,48231,Hunt,Hunt (48231),Hunt
+Rockwall (48397),Texas,48,623,DALLAS-FT.WORTH,48397,Rockwall,Rockwall (48397),Rockwall
+San Patricio (48409),Texas,48,600,CORPUS CHRISTI,48409,San Patricio,San Patricio (48409),San Patricio
+Jack (48237),Texas,48,623,DALLAS-FT.WORTH,48237,Jack,Jack (48237),Jack
+Live Oak (48297),Texas,48,600,CORPUS CHRISTI,48297,Live Oak,Live Oak (48297),Live Oak
+Wise (48497),Texas,48,623,DALLAS-FT.WORTH,48497,Wise,Wise (48497),Wise
+Jim Hogg (48247),Texas,48,600,CORPUS CHRISTI,48247,Jim Hogg,Jim Hogg (48247),Jim Hogg
+Somervell (48425),Texas,48,623,DALLAS-FT.WORTH,48425,Somervell,Somervell (48425),Somervell
+Jim Wells (48249),Texas,48,600,CORPUS CHRISTI,48249,Jim Wells,Jim Wells (48249),Jim Wells
+Laramie (56021),Wyoming,56,759,CHEY-SCTTS,56021,Laramie,Laramie (56021),Laramie
+Natrona (56025),Wyoming,56,767,CASPER-RIVERTON,56025,Natrona,Natrona (56025),Natrona
+Albany (56001),Wyoming,56,751,DENVER,56001,Albany,Albany (56001),Albany
+Niobrara (56027),Wyoming,56,751,DENVER,56027,Niobrara,Niobrara (56027),Niobrara
+Campbell (56005),Wyoming,56,751,DENVER,56005,Campbell,Campbell (56005),Campbell
+Platte (56031),Wyoming,56,751,DENVER,56031,Platte,Platte (56031),Platte
+Carbon (56007),Wyoming,56,751,DENVER,56007,Carbon,Carbon (56007),Carbon
+Converse (56009),Wyoming,56,767,CASPER-RIVERTON,56009,Converse,Converse (56009),Converse
+Washakie (56043),Wyoming,56,767,CASPER-RIVERTON,56043,Washakie,Washakie (56043),Washakie
+Fremont (56013),Wyoming,56,767,CASPER-RIVERTON,56013,Fremont,Fremont (56013),Fremont
+Goshen (56015),Wyoming,56,759,CHEY-SCTTS,56015,Goshen,Goshen (56015),Goshen
+Hot Springs (56017),Wyoming,56,767,CASPER-RIVERTON,56017,Hot Springs,Hot Springs (56017),Hot Springs
+Johnson (56019),Wyoming,56,751,DENVER,56019,Johnson,Johnson (56019),Johnson
